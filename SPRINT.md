@@ -5,8 +5,8 @@
 **Sprint goal:** Business ready to sell + Japanese habit started.
 
 ### This week (pick 1–3 per day at standup)
-- [ ] Set up this repo (git init, first commit) — Day 1
-- [ ] Email accountants (JP + UK): which entity should invoice which client types?
+- [x] Set up this repo (git init, first commit) — Day 1
+- [x] Email accountants (JP + UK): which entity should invoice which client types?
 - [ ] Write 1-sentence positioning statement, final version
 - [ ] Refresh LinkedIn: headline, about, open-to-consulting
 - [ ] Start warm-contact list: first 10 of 30 names (ex-Indeed, London, GCP)
