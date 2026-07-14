@@ -7,8 +7,11 @@
 ### This week (pick 1–3 per day at standup)
 - [x] Set up this repo (git init, first commit) — Day 1
 - [x] Email accountants (JP + UK): which entity should invoice which client types?
-- [ ] Write 1-sentence positioning statement, final version
-- [ ] Refresh LinkedIn: headline, about, open-to-consulting
+- [x] Write 1-sentence positioning statement, final version — Day 2
+- [x] Refresh LinkedIn: headline, about, open-to-consulting drafted — Day 2
+      (see archive/2026-07-14-adhoc-positioning-statement.md for final text)
+- [ ] Paste finalized headline/About onto live LinkedIn profile + enable
+      "Open to providing services" (Product Management/Business Consulting)
 - [ ] Start warm-contact list: first 10 of 30 names (ex-Indeed, London, GCP)
 - [ ] Set up N2 study system (Bunpro or Anki), do first session
 - [x] Check JLPT December registration window & set reminder

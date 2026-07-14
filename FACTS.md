@@ -9,16 +9,37 @@
 - Wife has her own evening programs → evening events need advance coordination
 
 ## Career & Business
-- 20 years online product management experience
-- Most recently: Senior Product Manager at Indeed Technologies Japan, ¥40M/year
+- 20 years online product management experience (15+ years senior leadership)
+- Career timeline: Gumtree.com/eBay Group (Technical PM, 2013–14) → Okomp,
+  UK-China digital agency (Founder/CEO, 2013–17) → DAZN London (Head of
+  Product, Acquisition & Retention, 2015–17) → DAZN Tokyo (VP of Product,
+  Japan & APAC, 2017–20) → Rakuten (Vice Senior Manager, Kobo Japan &
+  Rakuten Magazine, 2020–21) → Amazon (Senior Technical PM, JCI-VSP, 2021–22)
+  → Indeed (Senior Technical Product Manager, 2022–present)
+- MBA, Imperial College London (2014–15) — International Business Strategy,
+  focused on Asia-Pacific/China market expansion; directly informed later
+  DAZN Japan launch
+- Award: Best Product Person of 2014 (The Product Group & The Product Guy)
+- Most recently: Senior Technical Product Manager at Indeed Technologies Japan, ¥40M/year
 - On garden leave until March 2027 (full salary). Terms: contracting allowed,
-  full-time employment NOT allowed. Self-imposed rule: no HR-tech clients
+  full-time employment NOT allowed — this restricts being an *employee*, not
+  full-time hours as a contractor, so full-time interim/consulting engagements
+  are fine. Self-imposed rule: no HR-tech clients
 - Owns a Japanese company (ready to invoice: accountant, bank account in place)
 - Also owns a UK company with accounting set up (asset for overseas clients)
 - Accountant confirmed: can work with them to create invoices for both the UK
   and Japanese companies
-- GCP certifications; comfortable programming; big fan of AI/automation
+- 7 Google Cloud certifications (2025–26, all except DevOps/Network
+  Engineering) + 2 DeepLearning.AI specializations + Certified ScrumMaster;
+  comfortable programming (Python, SQL, JS, Bash); big fan of AI/automation
 - Starting day rate: ¥100,000–150,000/day (confirmed reasonable vs Indeed peers)
+- Key quantified achievements (for outreach/profile use):
+  - DAZN: led 0-to-1 launch of DAZN in Japan, 1M+ subscribers within 12
+    months, core team of 4; owned growth/acquisition/retention OKRs for
+    Japan & APAC
+  - Rakuten: led cross-functional team of 70+ (DevOps/FE/BE/mobile eng/PM/QA);
+    mobile app migration increased retention 20%, conversion 30%
+  - Indeed: improved job-matching/ranking algorithm performance by 25% via ML
 
 ## Japanese Language
 - JLPT N3 passed (paper level); speaking rusty — struggles with basic conversation
@@ -36,8 +57,29 @@
 - Income target: ≥¥40M/year (restoration of Indeed level, not aspiration)
 - 2026 = gain knowledge, experience, network in Japan → opportunities in 2027
 - Wants to live in Japan permanently
-- Positioning: "Fractional/interim senior product leader for companies entering
-  or scaling in Japan, with hands-on GCP and AI-automation capability"
+- Positioning (finalized 2026-07-14) — headline: "Fractional/Interim VP of
+  Product | Growth & Transformation in Japan & APAC | Growth-Stage to
+  Enterprise | 15+ Yrs at DAZN, Rakuten, Indeed." One-liner: "I help
+  growth-stage to enterprise companies in Japan and Asia-Pacific with business
+  growth and team/process transformation — as a fractional or interim VP of
+  Product turning plans into shipped results, backed by 15+ years at DAZN,
+  Rakuten, and Indeed."
+- Two focus areas — use these to frame all future proposals, outreach, and
+  recommendations:
+  - **Growth** = business growth (acquisition, retention, revenue)
+  - **Transformation** = team/process/OKR improvement, AI-driven internal
+    efficiency
+- Title deliberately "VP of Product," not "CPO" — CPO is ambiguous (Chief
+  Product/People/Procurement/Process Officer) and implies vision-setting,
+  while VP of Product implies execution — a better match for his stated
+  differentiator (execution over strategy-writing)
+- Target audience: growth-stage to enterprise companies (not early-stage
+  startups) expanding/growing in Japan/APAC. Deliberate trade-off: strong fit
+  for larger/enterprise clients; likely filtered out of smaller, scrappier
+  startup fractional roles due to big-company-scale proof points (70-person
+  teams, 1M+ subscribers) — accepted consciously, not to be "fixed"
+- LinkedIn set to "Open to > Providing services" (Product Management/Business
+  Consulting), not job-seeking
 
 ## Working Preferences
 - 2–3 focused hours per weekday for study + career building
