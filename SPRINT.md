@@ -10,16 +10,22 @@
 - [ ] Write 1-sentence positioning statement, final version
 - [ ] Refresh LinkedIn: headline, about, open-to-consulting
 - [ ] Start warm-contact list: first 10 of 30 names (ex-Indeed, London, GCP)
-- [ ] Book Japanese speaking tutor (italki/Preply), schedule 3–4×30min slots
 - [ ] Set up N2 study system (Bunpro or Anki), do first session
-- [ ] Check JLPT December registration window & set reminder
+- [x] Check JLPT December registration window & set reminder
 
 ### Recurring
 - [ ] Daily: 30 min N2 study
+- [ ] Daily: trial voice dictation; decide by Fri review — keep or find alternative
 - [ ] Mon/Tue/Thu/Fri: 30 min speaking practice (once tutor booked)
-- [ ] Friday: sprint review + 2-week calendar/family lookahead
+- [ ] Friday: sprint review + 2-week calendar/family lookahead + decide voice
+      dictation keep/drop + evaluate AI conversation tool progress before
+      booking real tutor
 
 ## Upcoming (next sprints, unscheduled)
+- Book Japanese speaking tutor (italki/Preply), schedule 3–4×30min slots —
+  deferred from Sprint 1; reassess AI conversation tool progress at Fri
+  2026-07-17 review first
+- Register for JLPT N2 (window Aug 17–Sep 7, 2026)
 - Send first 5 outreach messages
 - Register with 2–3 contract recruiters / 1 fractional platform (research options first)
 - First LinkedIn post

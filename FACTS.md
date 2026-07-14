@@ -15,6 +15,8 @@
   full-time employment NOT allowed. Self-imposed rule: no HR-tech clients
 - Owns a Japanese company (ready to invoice: accountant, bank account in place)
 - Also owns a UK company with accounting set up (asset for overseas clients)
+- Accountant confirmed: can work with them to create invoices for both the UK
+  and Japanese companies
 - GCP certifications; comfortable programming; big fan of AI/automation
 - Starting day rate: ¥100,000–150,000/day (confirmed reasonable vs Indeed peers)
 
@@ -22,7 +24,13 @@
 - JLPT N3 passed (paper level); speaking rusty — struggles with basic conversation
 - Bottleneck = output/speaking, not knowledge
 - Goal: JLPT N2 December 2026 (~50/50 odds, backup July 2027); CEFR C1 = 2027–28 goal
+- JLPT N2 registration window: Aug 17 – Sep 7, 2026
 - 2026 speaking target: solid B1 conversation
+- Uses a Claude-based tutor AI (Claude Code / Claude) for generating N2 drills
+  and conversation practice
+- N2 study workflow: weekly vocab/grammar material is pre-loaded to the tutor
+  AI in advance (not daily), so it can generate drills per day/week on demand
+  — saves daily prep time
 
 ## Goals
 - Income target: ≥¥40M/year (restoration of Indeed level, not aspiration)
