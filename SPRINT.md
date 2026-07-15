@@ -10,10 +10,14 @@
 - [x] Write 1-sentence positioning statement, final version — Day 2
 - [x] Refresh LinkedIn: headline, about, open-to-consulting drafted — Day 2
       (see archive/2026-07-14-adhoc-positioning-statement.md for final text)
-- [ ] Paste finalized headline/About onto live LinkedIn profile + enable
-      "Open to providing services" (Product Management/Business Consulting)
-- [ ] Start warm-contact list: first 10 of 30 names (ex-Indeed, London, GCP)
-- [ ] Set up N2 study system (Bunpro or Anki), do first session
+- [x] Paste finalized headline/About onto live LinkedIn profile + enable
+      "Open to providing services" — Day 2/3
+- [ ] Set up merged CRM (warm contacts + networking, single sheet tagged by
+      source) + add first 10 of 30 warm-contact names (ex-Indeed, London, GCP)
+      — merges former separate "warm-contact list" and "networking CRM setup"
+      tasks; pulled forward from Upcoming — Day 4
+- [ ] Set up N2 study system (Anki): v1 built Day 2, card font/design fix +
+      first real study session — Day 3
 - [x] Check JLPT December registration window & set reminder
 
 ### Recurring
@@ -33,7 +37,6 @@
 - Register with 2–3 contract recruiters / 1 fractional platform (research options first)
 - First LinkedIn post
 - Find 2–3 candidate networking events for late July
-- Networking CRM setup (simple sheet + follow-up automation)
 
 ## Blocked / Waiting
 - (none)

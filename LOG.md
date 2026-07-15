@@ -1,5 +1,23 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-15 (Wed) — Sprint 1, Day 3
+- Inbox: empty, nothing to process
+- Yesterday's completions confirmed: LinkedIn profile now live (one-liner +
+  About pasted in, "Open to > Providing services" enabled with service
+  categories selected — categories not tracked in detail per user request);
+  Anki v1 built for N2 weekly material
+- Yesterday's issue found: Anki card front-of-card font too small/hard to
+  read — fix planned for today
+- Yesterday's misses: N2 study session and tutor AI drill not completed
+- Decision: merged "warm-contact list" and "networking CRM setup" (was
+  unscheduled) into one task — single sheet, tagged by contact source —
+  pulled forward into this week's SPRINT.md list; contact list creation
+  pushed to tomorrow (Day 4) so today stays single-domain
+- Today's picks: catch up on N2 study session, drill, and AI tutor
+  conversation; fix Anki card font/design — all Japanese-only, deliberately
+  narrowed after Day 2 spread across three domains and let the habit slip
+- No blockers
+
 ## 2026-07-14 (Tue) — Sprint 1, Day 2
 - Inbox cleared: JLPT reg window (Aug 17–Sep 7) filed to FACTS + reminder task
   added; accountant confirmed invoicing works for both UK/JP entities

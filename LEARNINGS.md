@@ -25,6 +25,21 @@
   metrics), then drafting positioning copy with placeholders for real
   achievement numbers, was a very effective method for producing convincing,
   specific profile copy — worth reusing for outreach messages and CV tailoring.
+- 2026-07-15: Voice dictation continues to garble terms mid-sentence even when
+  the surrounding context is clear (e.g. "one-liner" → "one aligner",
+  "LinkedIn" → "lean inflow", "FACTS.md" → "fax dot m d") — recognizable via
+  context but adds a confirm-before-filing step each time. Further evidence
+  for the Fri 07-17 keep/drop decision.
+- 2026-07-15: Spreading Day 2 across three domains (positioning, LinkedIn,
+  Anki setup) caused the daily Japanese habit (study session + drill) to slip.
+  Day 3 deliberately narrowed to one domain (Japanese only) to recover it.
+  Tentative pattern: single-domain days protect recurring habits better than
+  multi-domain days — worth testing again before treating as confirmed.
+- 2026-07-15: Building the warm-contact list and the networking CRM as one
+  merged system (single sheet, tagged by contact source) instead of two
+  separate ones avoids duplicate tooling and a later migration — merged
+  "Networking CRM setup" (was unscheduled) into this week's warm-contact-list
+  task in SPRINT.md.
 
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created

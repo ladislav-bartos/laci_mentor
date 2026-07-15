@@ -78,8 +78,10 @@
   for larger/enterprise clients; likely filtered out of smaller, scrappier
   startup fractional roles due to big-company-scale proof points (70-person
   teams, 1M+ subscribers) — accepted consciously, not to be "fixed"
-- LinkedIn set to "Open to > Providing services" (Product Management/Business
-  Consulting), not job-seeking
+- LinkedIn profile is live (as of 2026-07-15): finalized headline and About
+  section pasted in; "Open to > Providing services" enabled with service
+  categories selected (not job-seeking) — see archive/
+  2026-07-14-adhoc-positioning-statement.md for the finalized text
 
 ## Working Preferences
 - 2–3 focused hours per weekday for study + career building
