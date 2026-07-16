@@ -12,10 +12,15 @@
       (see archive/2026-07-14-adhoc-positioning-statement.md for final text)
 - [x] Paste finalized headline/About onto live LinkedIn profile + enable
       "Open to providing services" — Day 2/3
-- [ ] Set up merged CRM (warm contacts + networking, single sheet tagged by
-      source) + add first 10 of 30 warm-contact names (ex-Indeed, London, GCP)
-      — merges former separate "warm-contact list" and "networking CRM setup"
-      tasks; pulled forward from Upcoming — Day 4
+- [x] Set up merged CRM: Google Sheet created with agreed column structure
+      (incl. Target Fit vs. Ideal Contact Profile and Role Type
+      Buyer/Connector), LinkedIn 8,000-contact data export requested — Day 4
+      (see FACTS.md "Business Development System" for full structure)
+- [ ] Add first 10 of 30 warm-contact names to the CRM (ex-Indeed, London,
+      GCP) — carried from Day 4, not yet done
+- [ ] Once LinkedIn export lands: AI-assisted bulk Target Fit/Role Type pass
+      on the remaining ~7,990 contacts (script via Claude Code) — added
+      2026-07-16
 - [x] Set up N2 study system (Anki): v1 built Day 2, card font/design fix +
       first real study session — Day 3
 - [ ] Build Japanese conversation practice topic list (self-intro, job,

@@ -92,6 +92,39 @@
   categories selected (not job-seeking) — see archive/
   2026-07-14-adhoc-positioning-statement.md for the finalized text
 
+## Business Development System (built 2026-07-16)
+- CRM: single Google Sheet, tagged by Source (warm/networking). Columns:
+  Name, Source, Company, Title, Connection Strength, Target Fit (Y/N vs.
+  Ideal Contact Profile), Role Type (Buyer/Connector/Neither), Status (not
+  contacted/messaged/replied/meeting booked), Last Contact Date, Notes
+- Target Fit is applied to ALL contacts, including the existing ~8,000
+  LinkedIn connections (not just new networking contacts) — a warm contact
+  who's also a strong ICP fit is the highest-priority outreach
+- Ideal Contact Profile (ICP): growth-stage (Series B+) through enterprise
+  companies, either expanding into Japan/APAC or already Japan-based and
+  scaling; excludes HR-tech/job-board/recruitment-platform companies as
+  clients (hard constraint). Target titles: CEO/COO/CPO (decision-makers),
+  Head/VP of Product or Country Manager Japan (champions/peers), CHRO/Head
+  of Talent (facilitators — not excluded even though HR-tech companies are,
+  since this is about the contact's function, not their employer's industry)
+- Role Type distinguishes Buyers (can personally decide to hire) from
+  Connectors (not a buyer, but know buyers — ex-colleagues, recruiters,
+  VC/accelerator staff, other fractional execs, board members/advisors);
+  each gets a different outreach message (see OUTREACH.md)
+- LinkedIn Sales Navigator deliberately deferred — not paying for it until
+  the warm-outreach messaging approach is proven; revisit once conversion
+  is validated
+- `SOURCES.md` — living research doc of free/low-cost channels for finding
+  new ICP-matching contacts (chambers of commerce, PM meetups, VC/PE
+  portfolio pages, etc.), updated via the `/research-sources` command
+  (rotates research angle each run, logs what worked/didn't)
+- `OUTREACH.md` — living doc of message templates by Role Type (Warm Buyer,
+  Warm Connector, New/Networking Buyer) plus a response log to refine
+  templates against real reply data. Core principle: never open with the
+  pitch — warm contacts get a reconnect message, cold/networking contacts
+  get a specific-context message, and every message ends with a small,
+  low-commitment ask (a call, an intro) rather than "hire me" directly
+
 ## Working Preferences
 - 2–3 focused hours per weekday for study + career building
 - Daily conversational standups + weekly sprints (Friday review/planning)

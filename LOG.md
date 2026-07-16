@@ -23,6 +23,22 @@
   wife's schedule to follow tomorrow
 - Today's picks: CRM setup + first 10 warm contacts, build conversation
   topic list, daily N2 study
+- Afternoon: built the business-dev system — CRM structure (Google Sheet,
+  columns incl. Target Fit vs. Ideal Contact Profile applied to all ~8,000
+  LinkedIn contacts, and Role Type Buyer/Connector), full ICP defined,
+  LinkedIn data export requested; decided to defer Sales Navigator spend
+  until warm outreach is proven
+- Created `SOURCES.md` (contact-sourcing channel research + log) and the
+  `/research-sources` command (rotates research angle each run); committed
+  and pushed
+- Created `OUTREACH.md` — message templates by Role Type (Warm Buyer, Warm
+  Connector, New/Networking Buyer) + response log, principle: never open
+  with the pitch, always end with a low-commitment ask
+- CRM completed: sheet + structure + export requested. Still open: add
+  first 10 warm-contact names, and the bulk AI pass once the export lands
+- Conversation topic list and today's N2 study not yet done — carried to
+  tomorrow (confirmed with user, not assumed)
+- No blockers
 - No blockers
 
 ## 2026-07-15 (Wed) — Sprint 1, Day 3

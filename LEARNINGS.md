@@ -61,9 +61,29 @@
 - 2026-07-16: Daily Anki session took ~90 min (long) — hypothesis is this
   will shorten as word/kanji recognition improves with repetition. Watch the
   trend rather than treating one long session as a problem.
+- 2026-07-16: For business-dev contacts, "Target Fit" (matches the Ideal
+  Contact Profile) and "Role Type" (Buyer vs. Connector) are two separate
+  axes — a contact can be a great ICP fit but not a buyer (e.g. a
+  well-connected ex-colleague), and conflating them into one filter would
+  have led to the wrong message being sent to the wrong person.
+- 2026-07-16: Researching general "top VC firms in Japan" listicles surfaced
+  the funds themselves but not their actual portfolio companies — need to go
+  to each firm's own site directly for real target-company names. Logged in
+  SOURCES.md's research log for the `/research-sources` command to build on.
+- 2026-07-16: Outreach messaging principle — never open with the pitch;
+  warm contacts get a reconnect-first message, cold/networking contacts get
+  a specific-context message, and every message ends with a small,
+  low-commitment ask (a call, an intro) rather than "hire me" directly. A
+  direct pitch to a long-dormant contact reads as transactional and burns
+  relationship equity.
 
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
   "Open to Providing Services" plan finalized (see archive/
   2026-07-14-adhoc-positioning-statement.md)
+- 2026-07-16: Business development system built — CRM structure (Google
+  Sheet, Target Fit + Role Type columns), Ideal Contact Profile defined,
+  `SOURCES.md` + `/research-sources` command for ongoing contact-channel
+  research, `OUTREACH.md` message templates by Role Type. Sales Navigator
+  spend deliberately deferred until warm outreach is proven.
