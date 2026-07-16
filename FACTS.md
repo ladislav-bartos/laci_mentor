@@ -7,6 +7,8 @@
 - Native Hungarian; more fluent in English
 - Weekends: protected family time, almost always busy (incl. family holidays)
 - Wife has her own evening programs → evening events need advance coordination
+- Weekly recurring commitment: Monday 9pm — meeting with the owners of
+  StageLync (stagelync.com)
 
 ## Career & Business
 - 20 years online product management experience (15+ years senior leadership)
@@ -43,7 +45,10 @@
 
 ## Japanese Language
 - JLPT N3 passed (paper level); speaking rusty — struggles with basic conversation
-- Bottleneck = output/speaking, not knowledge
+- Bottleneck = output/speaking, not knowledge — refined 2026-07-16: on
+  grammar/reading drills he often lands the right answer via test-taking
+  skill rather than true understanding; the real gap is vocabulary
+  recall/recognition (both reading and mid-conversation retrieval)
 - Goal: JLPT N2 December 2026 (~50/50 odds, backup July 2027); CEFR C1 = 2027–28 goal
 - JLPT N2 registration window: Aug 17 – Sep 7, 2026
 - 2026 speaking target: solid B1 conversation
@@ -52,6 +57,10 @@
 - N2 study workflow: weekly vocab/grammar material is pre-loaded to the tutor
   AI in advance (not daily), so it can generate drills per day/week on demand
   — saves daily prep time
+- Anki deck content pre-built through week 8 (as of 2026-07-16) — no more
+  weekly Anki prep needed for now
+- AI voice conversation practice: trialing Claude, Google, and Grok — Grok has
+  had the best speech recognition so far (as of 2026-07-16)
 
 ## Goals
 - Income target: ≥¥40M/year (restoration of Indeed level, not aspiration)

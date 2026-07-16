@@ -1,5 +1,30 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-16 (Thu) — Sprint 1, Day 4
+- Inbox: empty, nothing to process
+- Day 3 completions confirmed: Anki font/UX fixed; Anki content pre-built
+  through week 8 (no more weekly Anki prep needed); first real study session
+  done (~90 min)
+- Insight: N2 drills partially good/bad — realized correct grammar/reading
+  answers often come from test-taking skill, not real understanding; true
+  weakness is vocabulary recall/recognition — refocusing study emphasis
+- Trialed Claude/Google/Grok for AI Japanese voice conversation practice
+  (separate from notes-dictation tool) — Grok has best speech recognition so
+  far, leaning toward it
+- Conversation practice currently unstructured; plan to build a topic list
+  (self-intro, job, family, etc.), aiming for 5 min unprompted speech per
+  topic before considering booking a human tutor — tutor still feels
+  premature until basic-topic confidence is built
+- Notes-dictation tool (separate from conversation-practice AI) confirmed
+  working well "as expected" — contrasts with earlier garbling issues; flag
+  for Friday's keep/drop decision
+- Next week's calendar flagged for Friday's family/holiday check: Mon 7/20
+  9pm StageLync meeting, Thu 7/23 evening date night, Fri 7/24 3pm haircut;
+  wife's schedule to follow tomorrow
+- Today's picks: CRM setup + first 10 warm contacts, build conversation
+  topic list, daily N2 study
+- No blockers
+
 ## 2026-07-15 (Wed) — Sprint 1, Day 3
 - Inbox: empty, nothing to process
 - Yesterday's completions confirmed: LinkedIn profile now live (one-liner +

@@ -40,6 +40,27 @@
   separate ones avoids duplicate tooling and a later migration — merged
   "Networking CRM setup" (was unscheduled) into this week's warm-contact-list
   task in SPRINT.md.
+- 2026-07-16: Voice dictation (for notes/journaling) now reported as working
+  well "as expected" — contrasts with the garbling issues logged 2026-07-13
+  and 2026-07-15. Worth surfacing this contrast explicitly at the Fri 07-17
+  keep/drop decision rather than assuming the earlier issues are resolved.
+- 2026-07-16: Real weakness in N2 drills isn't grammar/reading reasoning — he
+  often lands the correct answer via test-taking skill without true
+  understanding. The actual gap is vocabulary recall/recognition, both on the
+  page and mid-conversation. Should shift study emphasis toward vocab.
+- 2026-07-16: Trialed Claude, Google, and Grok for Japanese AI voice
+  conversation practice (separate from the notes-dictation tool above) — Grok
+  has had the best speech recognition so far. Leaning toward using it going
+  forward, not yet a final decision.
+- 2026-07-16: Conversation practice with AI currently feels unstructured.
+  Plan: build a list of ~10 topics (starting with self-introduction, then
+  job, family, etc.) and practice each until able to speak ~5 min unprompted.
+  Booking a human tutor still feels premature — AI can build topic-confidence
+  but can't correct pronunciation or misunderstood word choice, so the plan
+  is confidence-building via AI first, then a tutor for correction.
+- 2026-07-16: Daily Anki session took ~90 min (long) — hypothesis is this
+  will shorten as word/kanji recognition improves with repetition. Watch the
+  trend rather than treating one long session as a problem.
 
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created

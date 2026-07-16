@@ -16,8 +16,11 @@
       source) + add first 10 of 30 warm-contact names (ex-Indeed, London, GCP)
       — merges former separate "warm-contact list" and "networking CRM setup"
       tasks; pulled forward from Upcoming — Day 4
-- [ ] Set up N2 study system (Anki): v1 built Day 2, card font/design fix +
+- [x] Set up N2 study system (Anki): v1 built Day 2, card font/design fix +
       first real study session — Day 3
+- [ ] Build Japanese conversation practice topic list (self-intro, job,
+      family, etc.) — work toward 5 min unprompted speech per topic before
+      considering booking a human tutor — Day 4
 - [x] Check JLPT December registration window & set reminder
 
 ### Recurring
