@@ -130,3 +130,20 @@
 - Daily conversational standups + weekly sprints (Friday review/planning)
 - Wants reasoning behind every recommendation; confirm assumptions, never assume
 - Networking: minimum 2 events/month, target 1/week, day or evening
+- Refined 2026-07-17 — Sprint backlog should be stocked with a full week's
+  worth of candidate tasks (e.g. 12 = 3/day × 4 working days) so the week
+  feels planned and something to be excited about, but actual commitment
+  only happens task-by-task at each daily standup — not a rigid quota;
+  practice/priorities can and do shift mid-week
+- Deliberately treats the first attempts at something new as low-stakes
+  "warm-up" reps to build confidence and refine wording/approach before
+  engaging the highest-value targets — same pattern he's long used with
+  job interviews (first 2-3 treated as practice, not real attempts, so
+  he's calmer and more effective by interview #3-4). Applied 2026-07-17 to
+  outreach: contacting Connectors first deliberately, before the (few)
+  Warm Buyers, as practice rather than for their own conversion value
+- Confidence comes from having knowledge about a situation first — this is
+  why upfront research tasks are weighted as highly as action tasks when
+  something is new to him (e.g. researching how fractional/interim
+  contracting actually works before starting to contract; researching
+  event communication norms before attending networking events)

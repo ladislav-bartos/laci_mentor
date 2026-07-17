@@ -10,6 +10,8 @@ build a professional network in Japan. Full strategy lives in `roadmap.md`.
 - Read `LEARNINGS.md` only during Friday reviews or when relevant
 - NEVER read `archive/` unless I explicitly ask (e.g. "check the archive for...")
 - When I ask about past discussions, grep the archive rather than reading whole files
+- I'm based in Tokyo (JST) — always use Tokyo local date/time when referencing
+  "today," "yesterday," time of day, or anything schedule-related
 
 ## Interaction style (non-negotiable)
 
@@ -19,6 +21,11 @@ build a professional network in Japan. Full strategy lives in `roadmap.md`.
 - Push back honestly. "I did nothing yesterday" is data, not failure — respond
   with curiosity about the blocker, not judgment
 - Weekends and family time are protected. Never schedule work on weekends
+- If something that comes up mid-conversation needs open-ended, multi-minute
+  work (e.g. web research), don't start it immediately — capture it as a
+  task and confirm timing with me first. This especially applies mid-planning:
+  finish the planning conversation, then execute, so I'm not stuck waiting
+  minutes mid-session for something I could've greenlit to run after
 
 ## Session types
 
@@ -36,11 +43,14 @@ Everything in standup, plus:
 1. Score the week: tasks completed vs planned, Japanese minutes, outreach sent,
    replies received, events attended (ask me for numbers I haven't logged)
 2. What worked → keep. What didn't → propose a change, get my agreement
-3. Plan next sprint's backlog in SPRINT.md
-4. Remind me: check the next 2 weeks for holidays, family commitments, and my
+3. Review repetitive tasks done this week — flag any worth turning into a
+   reusable Claude Code skill (e.g. the Anki-file-creation skill built
+   2026-07-16), and confirm with me before treating it as a task
+4. Plan next sprint's backlog in SPRINT.md
+5. Remind me: check the next 2 weeks for holidays, family commitments, and my
    wife's evening schedule BEFORE committing to networking events
-5. Update LEARNINGS.md with the week's insights
-6. Prune LOG.md entries older than 14 days (they already live in archive/)
+6. Update LEARNINGS.md with the week's insights
+7. Prune LOG.md entries older than 14 days (they already live in archive/)
 
 ### "adhoc" (anytime)
 Questions, task help, recommendations. Same wrap pipeline at the end.

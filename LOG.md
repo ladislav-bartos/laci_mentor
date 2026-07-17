@@ -1,5 +1,32 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-17 (Fri) — Sprint 1, Day 5 / Weekly Review
+- Inbox cleared: next-2-weeks scheduling constraints filed to SPRINT.md;
+  CRM (first 10 warm contacts) and conversation-topic-list completions
+  confirmed and checked off
+- Sprint 1 scored: 10/11 planned tasks done (1 blocked on LinkedIn export,
+  not a miss, carried to Sprint 2); all Japanese tasks completed daily;
+  0 outreach/events sent, as expected since nothing was scheduled this week
+- What worked (keep): capping tasks at 3/day; Japanese study format
+  (drills/conversation/Anki) solved the long-standing motivation problem
+- What changed: logged the "build one, validate UX, then batch" Anki
+  lesson as a general principle; added a permanent "review repetitive
+  tasks → candidate skills" step to CLAUDE.md's Friday review; built
+  `/draft-outreach` and `/classify-contact` skills this session
+- Research done: `EVENTS.md` (Tokyo networking events) and
+  `RECRUITERS.md` (contract/fractional agencies) — flagged a high-value
+  chamber event whose registration deadline had already passed
+- OUTREACH.md revised: Connectors first (confidence warm-up), Warm Buyers
+  next sprint — personal "treat first attempts as low-stakes practice"
+  pattern captured in FACTS.md
+- Tutor booking gated to the Fri 2026-07-31 review, conditional on AI-topic
+  coverage + feeling comfortable talking to a person
+- Process corrections logged in CLAUDE.md: confirm before starting
+  multi-minute work mid-conversation; always use Tokyo (JST) time
+- Sprint 2 planned: 12-item stocked backlog (Tue 07-21 → Fri 07-24) plus
+  an 8-item week-after candidate list
+- No blockers
+
 ## 2026-07-16 (Thu) — Sprint 1, Day 4
 - Inbox: empty, nothing to process
 - Day 3 completions confirmed: Anki font/UX fixed; Anki content pre-built

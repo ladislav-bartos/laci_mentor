@@ -77,6 +77,54 @@
   direct pitch to a long-dormant contact reads as transactional and burns
   relationship equity.
 
+- 2026-07-17: Voice dictation (Claude Code) — despite 07-16's "working as
+  expected" report, this session alone had ~10 failed transcription
+  attempts on "Anki" plus "kanji" heard as "conduit." Decision: keep using
+  it anyway (user still calibrating to it, confirm-before-filing is the
+  mitigation), no drop. Recommendation given: pause slightly before/after
+  saying loanwords/proper nouns rather than blending them into the sentence.
+- 2026-07-17: AI voice conversation practice — Grok has the best speech
+  recognition but requires a paid subscription; also trialing OpenAI,
+  improving with use but interrupts during pauses and can't correct
+  pronunciation (it's STT-then-respond, not real pronunciation feedback).
+  Verdict: keep experimenting with both, human tutor stays deferred.
+- 2026-07-17: N2 drill workflow — generating drills as Claude Code repo
+  docs (question doc → user's own typed answers → auto-generated
+  right/wrong + explanation doc) works well: documents both Q&A for later
+  reference and gives real learning feedback. Kanji tested via
+  hiragana-input readings (not multiple choice) genuinely validates
+  recall rather than letting test-taking skill mask the vocab gap.
+- 2026-07-17: Conversation topic list built — 11 topics with subtopics
+  (vocab/phrases/conversations), Anki card design iterated to the
+  intended look. Plan: ~1 week per topic to build real depth rather than
+  rushing through all of them.
+- 2026-07-17: Process lesson — built all weekly Anki files upfront without
+  testing the UX first. In hindsight: build one, use it for a week, fix
+  UX issues found during real use, then batch-replicate to the rest.
+  General principle for any recurring content, not Anki-specific.
+- 2026-07-17: CRM/warm-contact reality check — most of the ~8,000 LinkedIn
+  connections were never actually met, so tagging them "warm" overstated
+  the relationship. Refined rule: a LinkedIn-only connection defaults to
+  Role Type = Connector unless there's real evidence of a Buyer
+  relationship. Sourcing heuristic that worked well: foreign-based
+  (US/UK/AU/NZ/CA) CTO/CPO with "APAC" in their profile — likely a strong
+  Connector (owns APAC remotely) even without being a Buyer themselves.
+- 2026-07-17: Added a permanent step to CLAUDE.md's Friday review —
+  identify repetitive tasks from the week worth turning into a reusable
+  Claude Code skill. Built two this session (`/draft-outreach`,
+  `/classify-contact`); user separately built an Anki-file-creation skill
+  in the Japanese tutor AI.
+- 2026-07-17: Outreach sequencing revised — Connectors first, Warm Buyers
+  the following week. Reasoning is a personal pattern, not a reversal of
+  the original conversion logic: the user deliberately treats first
+  attempts at something new as low-stakes warm-up reps to build
+  confidence/wording (same pattern used with early job interviews),
+  saving the small pool of real Warm Buyers for once he's comfortable.
+- 2026-07-17: Process correction — don't start open-ended, multi-minute
+  work (e.g. spawning research agents) the moment it's mentioned
+  mid-conversation, especially mid-planning; capture it as a task and
+  confirm timing first. Added to CLAUDE.md's interaction style.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
@@ -87,3 +135,17 @@
   `SOURCES.md` + `/research-sources` command for ongoing contact-channel
   research, `OUTREACH.md` message templates by Role Type. Sales Navigator
   spend deliberately deferred until warm outreach is proven.
+- 2026-07-17: Sprint 1 closed — 10/11 planned tasks completed (1 blocked
+  on the LinkedIn export, carried to Sprint 2, not a miss); all
+  Japanese-language tasks completed daily all week; 0 outreach/events, as
+  expected since Phase 0 was foundation-only, not outreach.
+- 2026-07-17: Built `EVENTS.md` (Tokyo networking event research) and
+  `RECRUITERS.md` (contract/fractional recruitment agency research),
+  same living-doc pattern as `SOURCES.md`. Flagged a high-value chamber
+  event (Joint Chamber Summer Cocktail) whose registration deadline had
+  already passed by the time it was found.
+- 2026-07-17: Built `/draft-outreach` and `/classify-contact` commands;
+  added a 4th OUTREACH.md template ("LinkedIn Connector, never met") to
+  close a gap the bulk-classification work surfaced.
+- 2026-07-17: Sprint 2 planned — 12-item stocked backlog (Tue 07-21 → Fri
+  07-24) plus an 8-item candidate list for the week after.
