@@ -61,6 +61,11 @@ that day.
 - [ ] Chamber membership signup, if decided worth it in Sprint 2
 - [ ] Spot-check/quality-pass the bulk Target Fit/Role Type classification
       output
+- [ ] Research/design the branching question set for the free AI-maturity
+      mini-session offer (~3 base questions, expanding per answer, not
+      linear) — see OUTREACH.md's "Free Value-First Offer" section.
+      Prerequisite for using the offer in outreach; NOT a blocker for
+      Sprint 2's Connector batch, which goes out as a plain intro
 
 ## Upcoming (further out, unscheduled)
 - Register for JLPT N2 (window Aug 17–Sep 7, 2026) — set a reminder before

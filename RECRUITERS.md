@@ -73,8 +73,41 @@ network and the global platforms above, not local agencies. This
 reinforces the value of the direct warm/networking outreach system
 already built (`OUTREACH.md`) rather than relying on agencies alone.
 
+## To Do — Next Actions
+*Living list, not a static plan — update this after each
+`/research-recruiters` run, and during standups/reviews once agencies are
+actually contacted (log outcomes in the Outcomes Log below).*
+
+- [ ] Sprint 2: register with 2-3 picks (candidates: Robert Walters Japan,
+  JAC, Toptal Fractional CPO — see SPRINT.md)
+- [ ] Once registered: log the actual outcome per agency in the Outcomes
+  Log below (responsive/not, good fit/not, anything learned) — this is
+  what makes the next research pass smarter instead of repeating the same
+  search
+- [ ] Once a few outcomes are in: use them to find *similar* agencies to
+  the ones that turned out good (e.g. "firms like Robert Walters Japan
+  that also do interim exec placement") rather than only broad searches
+
+## Outcomes Log
+*Fill in once an agency is actually contacted/registered with — mirrors
+`OUTREACH.md`'s Response Log. This is what turns the static research
+tables above into an actively-improving list.*
+
+| Date contacted | Agency | Outcome | Good fit? (Y/N/Unclear) | Notes / similar agencies to look for |
+|---|---|---|---|---|
+| | | | | |
+
 ## Research Log
+*Rotate the research method each run instead of repeating the same
+search — using the same approach every time returns the same set of
+results. Angles to rotate through: (1) direct agency/platform sites, (2)
+industry-association member directories (e.g. interim-management
+associations), (3) LinkedIn searches for people with the target job title
+at agencies, (4) "similar to X" searches once a known-good agency exists
+(see Outcomes Log), (5) recruiting-industry conference/expo exhibitor
+lists, (6) asking existing network contacts which agencies they've
+personally used.*
 
 | Date | Approach taken | What worked | What didn't work | Next idea to try |
 |---|---|---|---|---|
-| 2026-07-17 | Verified each Japan traditional agency's actual interim/exec practice (not just permanent placement), checked global fractional-exec marketplaces for product-specific coverage, checked UK/Australia interim specialists | Robert Walters, JAC, Michael Page Japan, Toptal, and BTG all confirmed genuine interim/fractional/product-specific practices with real registration URLs | No Japan-specific fractional-product network found; several platforms that looked promising by name (Chief, BoardEx, Paro, Execs-in-Motion) turned out not to be actionable or not product-relevant | Once first agency registrations are done, log actual response quality here (same pattern as `OUTREACH.md`'s Response Log) to know which of these to prioritize going forward |
+| 2026-07-17 | Verified each Japan traditional agency's actual interim/exec practice (not just permanent placement), checked global fractional-exec marketplaces for product-specific coverage, checked UK/Australia interim specialists | Robert Walters, JAC, Michael Page Japan, Toptal, and BTG all confirmed genuine interim/fractional/product-specific practices with real registration URLs | No Japan-specific fractional-product network found; several platforms that looked promising by name (Chief, BoardEx, Paro, Execs-in-Motion) turned out not to be actionable or not product-relevant | Try angle (2) industry-association directories and angle (3) LinkedIn title search next, since this pass only used angle (1) direct-site verification |

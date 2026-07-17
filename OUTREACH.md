@@ -83,6 +83,52 @@ context introduction instead.
 > your network scaling a team out here. Happy to do a quick call if
 > useful, no pressure either way.
 
+## Future idea: Free Value-First Offer — AI-Maturity Mini-Session
+*Captured 2026-07-17, not yet active — needs the question-set research
+task done first (see SPRINT.md). Not part of the current 4 templates
+above; this is a planned enhancement to layer on once ready.*
+
+**Concept:** instead of (or alongside) the standard intro, offer a free
+30-min conversation about the contact's current AI/AI-agent usage and
+challenges (e.g. plain Claude/ChatGPT usage vs. automated agents vs.
+dedicated PM tooling), then follow up with a free, personalized action
+plan drawing on real experience — framed as "a human-expert layer on top
+of what generic AI advice would give you," not a sales call in disguise.
+
+**Two delivery modes:**
+1. **Live 30-min session — ACTIVE, use this one first.** No tooling
+   needed, can start as soon as the question set exists.
+2. **Self-serve interactive link (fill in on their own time) —
+   PARKED.** Would need a purpose-built tool: interactive, voice-driven,
+   well-designed enough that using it reflects well on the sender.
+   Deliberately NOT building this yet — parked until several live
+   sessions have been run manually and the real question/branching logic
+   is known, so the tool is designed from real data, not a guess. Same
+   "prove it manually before automating" pattern already used for
+   LinkedIn Sales Navigator (see LEARNINGS.md 2026-07-16). Once proven,
+   could also become an inbound channel via a CEO-targeted campaign — not
+   scoped yet.
+
+**Applies to both Buyers and Connectors** — for Connectors specifically,
+the free offer may prompt them to think of someone else who needs it, or
+realize they need it themselves; either outcome is useful.
+
+**Critical framing principle:** must read as "we're here to help you,"
+never as "we're here for your money" — despite functioning as a lead-gen
+mechanism, the contact should feel like they received something, not that
+they gave something away.
+
+**Why the capacity limit is a feature, not a bug:** at ~5 outreach
+messages/week, running a real 30-min session with all 5 is sustainable —
+and the time cost per session naturally forces prioritizing the
+companies/people actually worth reaching (good companies, senior
+decision-makers) rather than spreading thin.
+
+**Blocking prerequisite:** a branching/adaptive question set for the
+30-min conversation (~3 base questions, expanding per answer rather than
+a fixed linear list) needs to be researched/designed before this offer
+can be used in real outreach.
+
 ## Response Log
 Track what's actually sent and how it lands, so templates can be refined
 based on real signal rather than guesswork.
