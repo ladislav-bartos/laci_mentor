@@ -25,6 +25,16 @@
   multi-minute work mid-conversation; always use Tokyo (JST) time
 - Sprint 2 planned: 12-item stocked backlog (Tue 07-21 → Fri 07-24) plus
   an 8-item week-after candidate list
+- (cont.) New idea captured: a free "AI-maturity mini-session" offer for
+  outreach (live 30-min version active, self-serve AI tool version
+  deliberately parked until live sessions validate the question set —
+  same manual-before-automate pattern as Sales Navigator); question-set
+  research added to the week-after list
+- (cont.) Restructured EVENTS.md + RECRUITERS.md with To Do sections, an
+  Outcomes Log, and rotating-angle research guidance; built
+  `/research-events` + `/research-recruiters` commands; EVENTS.md
+  broadened beyond in-person Tokyo to include online, speaking-
+  opportunity, and tangential-event categories
 - No blockers
 
 ## 2026-07-16 (Thu) — Sprint 1, Day 4

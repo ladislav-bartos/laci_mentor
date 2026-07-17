@@ -124,6 +124,20 @@
   work (e.g. spawning research agents) the moment it's mentioned
   mid-conversation, especially mid-planning; capture it as a task and
   confirm timing first. Added to CLAUDE.md's interaction style.
+- 2026-07-17: "Prove it manually before automating" reaffirmed as a
+  general principle, not a one-off — this is the second time it's been
+  applied (first: LinkedIn Sales Navigator deferred until warm outreach
+  proven, 07-16; second: the AI-maturity mini-session's self-serve tool
+  parked until several live 30-min sessions establish the real question/
+  branching logic). Worth applying by default to future automation ideas
+  in this repo rather than re-deriving the reasoning each time.
+- 2026-07-17: Living-doc design pattern that worked well and is worth
+  reusing for any future research doc (SOURCES.md/EVENTS.md/
+  RECRUITERS.md): separate a static research table from (a) a "To Do"
+  section for actionable next steps, (b) an outcomes/response log for
+  real-world feedback once something is actually tried, and (c) explicit
+  rotating-angle guidance in the Research Log so repeat runs expand
+  coverage instead of re-finding the same results.
 
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
@@ -149,3 +163,13 @@
   close a gap the bulk-classification work surfaced.
 - 2026-07-17: Sprint 2 planned — 12-item stocked backlog (Tue 07-21 → Fri
   07-24) plus an 8-item candidate list for the week after.
+- 2026-07-17: Captured the "Free Value-First Offer" idea in OUTREACH.md
+  (free AI-maturity mini-session, live-session mode active, self-serve
+  tool mode deliberately parked) and added its prerequisite (branching
+  question-set research) to the week-after candidate list.
+- 2026-07-17: Restructured EVENTS.md and RECRUITERS.md with To Do
+  sections, an Outcomes Log (RECRUITERS.md), and rotating-angle research
+  guidance; built `/research-events` and `/research-recruiters` commands
+  mirroring `/research-sources`'s pattern. EVENTS.md broadened beyond
+  in-person-Tokyo-only to include Online/Virtual, Speaking opportunity,
+  and Tangential/creative categories (currently unresearched gaps).
