@@ -138,6 +138,20 @@
   real-world feedback once something is actually tried, and (c) explicit
   rotating-angle guidance in the Research Log so repeat runs expand
   coverage instead of re-finding the same results.
+- 2026-07-21: Built `CONTRACTING.md` — a fractional/interim engagement
+  playbook, same living-doc pattern as EVENTS/RECRUITERS/SOURCES but
+  split by lifecycle stage (marketing self, qualifying a client,
+  interview prep, during-engagement, ending, running multiple
+  concurrently) instead of one flat table, since each stage needs
+  different research. Initial pass (fundamentals only) found: cap
+  committed bandwidth at ~60%, insist on real scope + real authority
+  (not advisory-only), build in a coaching/succession mandate, design
+  deliberate visibility early since integration failure is the top-cited
+  cause of underperforming engagements. Rate data found was global, not
+  Japan-specific — flagged as a gap. See `CONTRACTING.md` for full
+  detail, sources, and the running list of still-unresearched sections
+  (marketing, qualifying, interviewing, during, ending, multi-engagement,
+  AI-usage disclosure norms).
 
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
