@@ -22,7 +22,7 @@ about what to do once you're in one or actually working.
 | Section | Status | Last researched |
 |---|---|---|
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
-| 2. Marketing Myself | Seeded only | — |
+| 2. Marketing Myself | Researched (initial pass) | 2026-07-21 |
 | 3. Qualifying a Client | Seeded only | — |
 | 4. Interview Prep | Seeded only | — |
 | 5. During-Engagement Best Practices | Seeded only | — |
@@ -74,13 +74,53 @@ conservative depending on assumed hours/scope. Not Japan-specific pricing
 ---
 
 ## 2. Marketing Myself
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions to research: how fractional execs position themselves
-publicly (LinkedIn content cadence/topics, case-study framing) vs. what
-reads as generic self-promotion; how much to lead with past
-brand-name employers (DAZN/Rakuten/Indeed) vs. outcomes; norms around
-"currently available" signaling without looking like a job-seeker.
+**Do:**
+- Position around a specific vertical/stage/outcome, not a generic
+  title — "fractional VP of Product" alone competes on price; "Growth &
+  Transformation for Japan/APAC growth-stage-to-enterprise companies"
+  (his actual positioning, per FACTS.md) competes on fit. Specificity is
+  repeatedly cited as the single biggest lever.
+- Post content that demonstrates *how you think*, not that you're
+  available — a sharp, specific observation about a problem his ICP
+  actually has signals someone embedded in the space, worth hiring.
+  Generic "business trends" thought leadership doesn't land the same way.
+- Treat every engagement with a measurable outcome as a case study —
+  before/after metrics mapped to the skills buyers are actually sourcing
+  (for him: growth/acquisition metrics, transformation/process metrics,
+  AI-driven efficiency gains). This matters more in fractional work than
+  in traditional employment, since he can't just point at a company logo
+  and say "I was part of that team" the way an employee can.
+- Frame the fractional choice itself as deliberate ("chose autonomy and
+  broader impact"), not a fallback — relevant given the garden-leave
+  context (FACTS.md) so it doesn't read as "between jobs."
+- Reframe personal branding away from "self-promotion" — it's making
+  existing expertise findable by people who already need it, not
+  manufacturing a persona.
+
+**Don't:**
+- Don't make availability the focus of a post — too much "I'm open to
+  work" signaling reads as underemployment; too little visibility means
+  the right clients never find him. The content itself should carry the
+  positioning; availability stays in the profile/CTA, not the post body.
+- Don't lead with brand-name employers alone (DAZN/Rakuten/Indeed) —
+  useful as credibility backing, but the actual differentiator is the
+  outcome/metric, not the logo.
+- Don't post fewer than 3x/week (algorithm deprioritizes low-frequency
+  accounts) or more than 5x/week (competes with your own posts) —
+  cited range is **3–5 posts/week, including ~1 video/week**.
+
+**Timeline expectation found:** early signals (profile views, connection
+requests) typically appear 8–10 weeks in; consistent pipeline impact
+takes 6–12 months. Useful context for judging whether the LinkedIn
+content push (this week's SPRINT.md tasks #5/#6) is "working" — don't
+expect fast conversion signal.
+
+**Cross-reference:** directly informs this week's SPRINT.md tasks
+"Research LinkedIn post topics/content ideas" and "Draft and publish
+first LinkedIn post" — use the specificity + thinking-not-availability
+principles above when picking topics.
 
 ## 3. Qualifying a Client
 *Status: Seeded only — not yet researched*
@@ -160,12 +200,19 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 1 | [Common Mistakes to Avoid When Hiring a Fractional Executive](https://5ftview.com/fractional-executive-services/mistakes-hiring-fractional-executive/) | Vague scoping, advisory-vs-operator mismatch, integration failure |
 | 2026-07-21 | 1 | [How to Work With Fractional Executives: A First-Timer's Guide](https://fractionus.com/blog/how-to-work-with-fractional-executives-guide) | Authority setup, trust-building on reduced hours |
 | 2026-07-21 | 1 | [The Strategic Role of Interim and Fractional Executives — FocusCore Japan](https://japan.focuscoregroup.com/2025/12/the-strategic-role-of-interim-and-fractional-executives/) | Japan-specific: long decision cycles, speed/precision differentiator |
+| 2026-07-21 | 2 | [LinkedIn for Fractional Executives — Blueberry Media](https://blueberry-media.co.uk/fractional-executives) | Positioning around availability vs. expertise-in-practice tension |
+| 2026-07-21 | 2 | [Why Fractional Executives Need LinkedIn Thought Leadership — Blueberry Media](https://blueberry-media.co.uk/blog/fractional-executive-linkedin-thought-leadership) | Content should demonstrate thinking, not availability |
+| 2026-07-21 | 2 | [Leveraging LinkedIn: A Tactical Guide for Fractional Executives — Mylance](https://www.mylance.co/post/leveraging-linkedin-a-tactical-guide-for-fractional-executives) | Posting cadence 3–5x/week incl. ~1 video/week; 8–10 week signal timeline |
+| 2026-07-21 | 2 | [The 5-Step LinkedIn Strategy Every Fractional Executive Needs to Master — Mylance](https://www.mylance.co/post/the-5-step-linkedin-strategy-every-fractional-executive-needs-to-master) | Specificity (vertical/stage/outcome) over generic titles |
+| 2026-07-21 | 2 | [Executive Personal Branding for Fractional Leaders — Connectd](https://www.connectd.com/article/fractional-executive-personal-branding) | Framing fractional as a deliberate choice, not a fallback |
+| 2026-07-21 | 2 | [Why Personal Brand Matters in Fractional Work — Fractionus](https://fractionus.com/blog/why-personal-brand-matters-in-fractional-work) | Case studies > content volume; brand = findability, not self-promotion |
+| 2026-07-21 | 2 | [Stand Out in a Crowded Market as a Fractional Executive — Mylance](https://www.mylance.co/post/stand-out-in-a-crowded-market-as-a-fractional-executive) | Case studies mapped to buyer-sourced skills, before/after metrics |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
 section whose Last-researched date is 30+ days old is a candidate.*
 
-- [ ] Research section 2 (Marketing Myself)
+- [x] Research section 2 (Marketing Myself) — done 2026-07-21
 - [ ] Research section 3 (Qualifying a Client) — screening questions
 - [ ] Research section 4 (Interview Prep)
 - [ ] Research section 5 (During-Engagement Best Practices)
@@ -185,3 +232,4 @@ section 1 repeatedly.*
 | Date | Section(s) covered | What worked | What didn't | Next idea |
 |---|---|---|---|---|
 | 2026-07-21 | 1 (Engagement Fundamentals) | General web search surfaced consistent, well-corroborated do/don't lists across fractional-exec-focused sites; one Japan-specific case study found | Rate data found was global, not Japan-specific; no Japan-specific fractional-*product* sources surfaced (consistent with the gap already logged in RECRUITERS.md) | Try angle: search LinkedIn posts/newsletters from people actually doing fractional Product work in Japan/APAC, not just agency-published guides |
+| 2026-07-21 | 2 (Marketing Myself) | Strong, specific, consistent findings across LinkedIn-strategy-focused sites (posting cadence, positioning specificity, case-study framing) — this topic is well-covered by existing content marketers targeting fractional execs as a niche | No Japan/APAC-specific LinkedIn-culture angle found (e.g. does the 3-5x/week cadence norm hold in a Japan-business-audience context, or is that a US-centric number) | Next section: 3 (Qualifying a Client), per Coverage-table row order. If revisiting section 2 later, check whether Japan-specific LinkedIn content norms exist |
