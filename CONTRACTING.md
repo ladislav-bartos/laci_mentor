@@ -28,7 +28,7 @@ about what to do once you're in one or actually working.
 | 5. During-Engagement Best Practices | Researched (initial pass) | 2026-07-21 |
 | 6. Ending an Engagement | Researched (initial pass) | 2026-07-21 |
 | 7. Running Multiple Engagements Concurrently | Researched (initial pass) | 2026-07-21 |
-| 8. Using AI as a Fractional Exec | Not started | — |
+| 8. Using AI as a Fractional Exec | Researched (initial pass) | 2026-07-21 |
 | 9. Other Scenarios (gap list) | Ongoing brainstorm | 2026-07-21 |
 
 ---
@@ -545,14 +545,67 @@ than the higher end of the 1–5 range once he's doing hands-on execution
 work, not just advisory.
 
 ## 8. Using AI as a Fractional Exec
-*Status: Not started*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open question raised directly: is using AI tools (e.g. Claude) as part
-of delivering fractional VP of Product work seen as an asset or a
-liability by clients? Disclosure norms — do fractional execs commonly
-tell clients they use AI for parts of the work? Given he's "a big fan of
-AI/automation" (FACTS.md) this is likely to come up in real engagements
-and is worth a dedicated research pass, not folding into section 1.
+**Asset, not liability — but the framing matters:** across fractional
+CFO/COO/CMO sources, AI fluency is consistently positioned as a
+*selling point*, not something to hide. The value framing found: clients
+aren't paying him to *learn* AI tools on their time — they're paying for
+someone who arrives already proficient, having refined AI-assisted
+methods across multiple prior clients. Cross-client AI pattern-
+recognition (what's actually working, not just what's hyped) is framed
+as part of the value a fractional exec brings that a full-time hire
+can't — directly usable in his positioning (section 2) given "big fan of
+AI/automation" is already a stated trait (FACTS.md).
+
+**Where AI-driven fractional work concretely lands:**
+- Pointing AI at the slow, repeatable parts of the job (in CFO examples:
+  modelling, monthly close, board packs) so his limited billable hours
+  go to the judgment calls that actually need a senior human — directly
+  maps onto his own "Transformation = AI-driven internal efficiency"
+  positioning pillar (FACTS.md).
+- One concrete productized pattern found: an "AI audit" / assessment
+  offer that identifies the highest-leverage 5% of work — structurally
+  very similar to his own "Free Value-First Offer" / AI-maturity
+  mini-session idea already logged in OUTREACH.md — this is external
+  validation that the idea has real market precedent, not just an
+  internal hunch.
+
+**Accountability stays with him, not the tool:** across every source,
+the consistent standard is that whatever an AI tool produces as a first
+draft, *he* is accountable for what actually reaches the client/board —
+that's explicitly framed as the line separating a genuine fractional
+executive from "the tool they're using." Useful framing if a client ever
+raises it skeptically: AI changes how the work gets done, not who owns
+the outcome.
+
+**Disclosure norms:**
+- No blanket legal/professional obligation to disclose AI use in most
+  fields (product leadership isn't a regulated profession like law/
+  finance, where disclosure rules are stricter and sometimes mandatory).
+- The practical standard that generalizes well: disclosure matters most
+  when (a) client confidential data is being shared with a third-party
+  AI vendor, or (b) AI use materially affects the fee/pricing basis.
+  Using AI as a personal thinking/drafting tool, then applying his own
+  judgment before anything reaches the client, generally doesn't require
+  proactive disclosure.
+- Best practice found regardless of legal requirement: mention AI-
+  assisted working proactively where it's materially relevant, rather
+  than waiting to be asked — consistent with the "operator with
+  judgment, not hiding how the work gets done" positioning already
+  established in section 1.
+- Data-handling caution: client-confidential material (roadmaps,
+  strategic plans, financials) should never go into a public/consumer AI
+  tool without understanding how that platform handles data — relevant
+  given he already uses Claude Code for his own business-dev/study work;
+  worth being deliberate about what client data, if any, ever touches
+  a personal AI workspace once real engagements start.
+
+**Gap found:** no Japan-specific angle on AI-disclosure norms or client
+attitudes searched for this section — Japanese corporate risk-aversion
+around external AI tools handling business data could plausibly differ
+from the Western sources found here; worth a dedicated look once he's
+actually approaching real client conversations (see To Do).
 
 ## 9. Other Scenarios (gap list)
 *Status: Ongoing brainstorm — 2026-07-21*
@@ -632,6 +685,11 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 7 | [Things to Consider Before Becoming a Fractional CIO — National CIO Review](https://nationalcioreview.com/articles-insights/career/things-to-consider-before-becoming-a-fractional-cio/) | Availability-gap risk, context-switching mindset cost |
 | 2026-07-21 | 7 | [Understanding the Fractional Executive Model — Umbrex](https://umbrex.com/resources/fractional-executive-playbook/understanding-the-fractional-executive-model/) | Reset-routine discipline between clients |
 | 2026-07-21 | 7 | [Rule 1.7: Conflict of Interest: General Rule — DC Bar](https://www.dcbar.org/for-lawyers/legal-ethics/rules-of-professional-conduct/client-lawyer-relationship/conflict-of-interest-general-rule) | Adequate-disclosure/informed-consent standard (adapted from legal-profession framing, not fractional-exec-specific) |
+| 2026-07-21 | 8 | [The AI Tools Fractional CFOs Actually Use — Fractionus](https://fractionus.com/blog/ai-tools-fractional-cfos-actually-use) | Accountability stays with the exec, not the tool; AI on repeatable work frees judgment-calls capacity |
+| 2026-07-21 | 8 | [Fractional + AI: The Perfect Pairing for Business — Fractionus](https://fractionus.com/blog/fractional-talent-ai-cost-effective-business-growth) | AI fluency as a stated value-add, not something to hide |
+| 2026-07-21 | 8 | [Disclosing AI Use to Clients: What Professional Ethics Codes Actually Require in 2026 — The AI Career Lab](https://theaicareerlab.com/blog/disclosing-ai-use-to-clients-professional-ethics-2026) | No blanket disclosure obligation outside regulated professions; disclose when data-sharing or fee basis is affected |
+| 2026-07-21 | 8 | [AI Disclosure in Business: When, Why, and How to Inform Clients — Fourscore Business Law](https://www.fourscorelaw.com/resources/ai-disclosure-in-businessnbspwhen-why-and-how-to-inform-clients-about-your-use-of-ai) | Proactive disclosure as best practice regardless of legal requirement; data-handling caution for confidential material |
+| 2026-07-21 | 8 | [Best Fractional CPO Services for B2B SaaS in 2026 — saasfractionalcpo.com](https://saasfractionalcpo.com/best-fractional-cpo-services-saas/) | "AI audit"/5%-leverage productized offer — precedent for his own AI-maturity mini-session idea (OUTREACH.md) |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -649,13 +707,20 @@ section whose Last-researched date is 30+ days old is a candidate.*
 - [x] Research section 6 (Ending an Engagement) — done 2026-07-21
 - [x] Research section 7 (Running Multiple Engagements Concurrently) —
       done 2026-07-21
-- [ ] Research section 8 (Using AI as a Fractional Exec) — flagged as a
-      real open question, not just a gap-filler
+- [x] Research section 8 (Using AI as a Fractional Exec) — done
+      2026-07-21
 - [ ] Japan-specific day-rate benchmarking — now flagged 3x (sections 1
       and 4), promoted to higher priority: current passes found global
       (US/Europe/UK) figures only, never Japan/APAC-specific
+- [ ] Japan-specific AI-disclosure/data-handling norms for section 8 —
+      current pass found Western sources only; worth a dedicated look
+      once actual client conversations start
 - [ ] Review section 9's gap list — decide which items get promoted to
       full sections
+- [ ] All 9 sections now have an initial pass (as of 2026-07-21) — next
+      runs should shift to staleness-based refreshes (30+ days old) per
+      the priority rules in `.claude/commands/research-contracting.md`,
+      unless a specific gap above is picked instead
 
 ## Research Log
 *Rotate which section(s) get covered each pass rather than re-covering
@@ -672,3 +737,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 5 (During-Engagement Best Practices) | Found a concrete satisfaction stat (fixed-scope beats open-ended by ~35%) and a clear "validate and price it" scope-creep script that's directly usable; pipeline-cadence findings connected cleanly to section 1's bandwidth-cap principle already in the doc | Scope-creep sources were generic consulting advice, not fractional-exec-specific — had to adapt rather than find fractional-specific sourcing; no Japan-specific angle found or searched for this section | Next section: 6 (Ending an Engagement), per Coverage-table row order |
 | 2026-07-21 | 6 (Ending an Engagement) | Fractional-exec-specific offboarding content existed and was concrete (notice periods, report+handover split, "fade-out" failure mode named explicitly); testimonial-ask timing/framing had clear, actionable specifics | No Japan-specific angle searched for this section (e.g. whether Japanese business norms around ending an engagement/references differ); didn't find fractional-Product-specific offboarding content, only general fractional-exec sources | Next section: 7 (Running Multiple Engagements Concurrently), per Coverage-table row order |
 | 2026-07-21 | 7 (Running Multiple Engagements Concurrently) | Good concrete capacity/hours-per-client data (1-5 clients, 10-15 hrs/month norm) and a genuinely useful advisory-vs-action distinction that maps directly onto his own positioning; context-switching findings were consistent across sources | Conflict-of-interest search results skewed toward legal/CPA professional-ethics content rather than fractional-exec-specific guidance — had to adapt the "adequate disclosure" framing rather than finding it stated for this specific field | Section 8 (Using AI as a Fractional Exec) is next per Coverage-table row order — this is the last "Seeded/Not started" section, so after this pass all 9 sections have at least an initial pass and future runs shift to staleness-based (30+ day) refreshes, or the Japan-day-rate gap and section 9 promotions |
+| 2026-07-21 | 8 (Using AI as a Fractional Exec) | Found strong, consistent fractional-exec-specific sources (not generic AI-ethics content) confirming AI fluency is positioned as a value-add across CFO/COO/CMO fractional practice; surfaced a direct external precedent (productized "AI audit"/5%-leverage offer) for his own AI-maturity mini-session idea already in OUTREACH.md | No Japan-specific angle found on AI-disclosure norms or client data-handling attitudes — flagged as a new To Do item rather than folded into the Japan-day-rate gap, since it's a distinct question | All 9 sections now have at least one research pass (2026-07-21). Next runs should follow the staleness-based priority rule (30+ days old) per the command's own logic, or pick from the two Japan-specific gaps now in the To Do list, or review section 9's gap-list for promotion |
