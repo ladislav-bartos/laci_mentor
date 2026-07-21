@@ -24,7 +24,7 @@ about what to do once you're in one or actually working.
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
 | 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
-| 4. Interview Prep | Researched (initial pass) | 2026-07-21 |
+| 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
 | 5. During-Engagement Best Practices | Seeded only | — |
 | 6. Ending an Engagement | Seeded only | — |
 | 7. Running Multiple Engagements Concurrently | Seeded only | — |
@@ -303,6 +303,87 @@ risk regardless of budget/authority signals otherwise looking fine.
   rate as a deliberate first-year anchor, not a ceiling, is normal and
   not a sign of underselling.
 
+### 90-day plan — deep dive: best practices, examples, what to include/leave out
+*Added 2026-07-21, at explicit request — expands the 90-day-plan
+guidance above with concrete structure, real examples, and an
+explicit do/don't list.*
+
+**Structure by phase (general executive-interview convention):**
+- **Days 1–30 — Assessment/Clarity:** learn the landscape, map business
+  goals to risks, identify where accountability/ownership is unclear,
+  interview key stakeholders/direct reports. Output: a plain-English
+  brief naming the top risks and initial actions — not a fix yet, a
+  diagnosis.
+- **Days 31–60 — Planning/first action:** diagnosis becomes action.
+  Produce the actual execution plan with named owners and success
+  metrics; explicitly state tradeoffs (what's being delayed, what risk
+  is being accepted, and why). Establish a regular reporting rhythm
+  (priorities/blockers/decisions needed) with the client's leadership.
+- **Days 61–90 — Control/proof:** show measurable results against the
+  metrics defined in phase 2 — not just confidence or more documents.
+  Demonstrate the team can operate without his constant involvement
+  (this is itself evidence of good fractional practice, not a risk to
+  hide).
+
+**Concrete example found (fractional CMO, B2B SaaS, $2M ARR, adaptable
+as a model — not to copy verbatim):**
+- Days 1–30 (~45 hrs): fix a specific broken process with a fast,
+  visible win (their case: lead-routing delay), add one measurement/
+  qualification framework, and launch one new visible channel.
+- Days 31–60 (~100 hrs): one focused strategic build (their case: an
+  ABM program against 50 named target accounts) plus a content/asset
+  foundation.
+- Days 61–90 (~40 hrs): systematize what was built — document the
+  workflow, build a metrics dashboard, and train the client's own team
+  to run it without him.
+- Target outcomes were stated as specific numbers (e.g. "15 qualified
+  opportunities," "sub-1-hour response time"), not vague improvement
+  language — this specificity is what made the example concrete rather
+  than generic.
+- A second example (fractional CTO) used the same 3-phase shape:
+  Clarity → Planning → Control, ending in "simpler ownership, faster
+  decisions, better completion tracking" as the phase-3 deliverable —
+  reinforcing that phase 3 should read as *operational proof*, not more
+  planning.
+
+**Do:**
+- Prioritize ruthlessly — 2–3 highest-impact areas, not comprehensive
+  transformation across every function (matches the fractional-hours
+  constraint already noted above).
+- Deliver a visible early win inside the first 30 days — this builds
+  credibility/buy-in for the larger changes proposed in phase 2, rather
+  than making the client wait for results.
+- Quantify everything — both past accomplishments used as evidence and
+  future targets stated as plan goals. Generic language ("improve
+  processes") is explicitly called out as unimpressive; specific numbers
+  tied to the *actual* company/role are what stands out.
+- Tie the plan to the specific job description/company context (real
+  initiatives, products, values found in research) — a plan that reads
+  as reusable across any company reads as low-effort.
+- Build systems, not personal dependency — an explicit goal by day 90
+  should be that the client's team can execute without him being the
+  bottleneck for routine decisions.
+- Keep it to 1 page (2 max for exec-level roles) — length isn't the
+  signal of thoroughness; specificity is.
+
+**Don't:**
+- Don't include generic, expected-by-default goals as if they were
+  insights ("learn the company culture," "build relationships with the
+  team") — every plan has these; they don't differentiate him.
+- Don't design a plan that actually needs 6–12 months to execute when
+  the real available time is ~4.5–6 FTE-weeks (per the fractional-hours
+  math already noted above) — this signals not understanding his own
+  constraint.
+- Don't push all value into the back half — spending the first 60 days
+  purely on "foundational work" with results promised only in months
+  4–6 fails the "visible early win" expectation above.
+- Don't become the critical path for everything — requiring his sign-off
+  on routine decisions defeats the "build systems not dependency" goal
+  and creates the exact integration/authority problems flagged in
+  sections 1 and 3.
+- Don't present the plan and stop — walk the interviewer through it in
+  detail rather than treating the document itself as the deliverable.
+
 ## 5. During-Engagement Best Practices
 *Status: Seeded only — not yet researched*
 
@@ -394,6 +475,10 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 4 | [Fractional Executive Hourly Rate & Day Rate 2025-2026 — fractional-csuite.com](https://fractional-csuite.com/tools/rates/) | Rate-derivation formula (salary/220 days × density multiplier); Europe/UK reference rates |
 | 2026-07-21 | 4 | [Fractional vs full-time executives: the complete decision framework — Connectd](https://www.connectd.com/article/fractional-vs-full-time-executives-the-complete-decision-framework) | Scoping-conversation vs. open-ended full-time interview distinction |
 | 2026-07-21 | 4 | [When Should You Move from Fractional to Full-Time Executive? — Fractionus](https://fractionus.com/blog/when-to-scale-from-fractional-to-full-time-executive) | Commitment-level question — fractional as deliberate path vs. stopgap |
+| 2026-07-21 | 4 | [30-60-90 Day Plan: Template for an Interview — Valamis](https://www.valamis.com/hub/30-60-90-day-plan) | What to include/leave out, generic-content pitfall, 1-2 page length norm |
+| 2026-07-21 | 4 | [Free 30-60-90 Day Plan Template — Career Sidekick](https://careersidekick.com/90-day-plan-job-interview/) | Phase structure (learn/transition/deliver), quantification emphasis |
+| 2026-07-21 | 4 | [90-Day Plans for Fractional Leaders That Actually Work — Talha Fakhar, Medium](https://talhafakhar.medium.com/90-day-plans-for-fractional-leaders-that-actually-work-7c5b028f531c) | Concrete B2B SaaS fractional CMO example w/ hours + do's/don'ts list |
+| 2026-07-21 | 4 | [Fractional CTO Roadmap: First 30/60/90 Days — Tyson Martin](https://tysonmartin.com/fractional-cto-roadmap-first-90-days) | 2nd concrete example (Clarity/Planning/Control phases), "visible control not documentation" principle |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -404,6 +489,8 @@ section whose Last-researched date is 30+ days old is a candidate.*
       fractional CPOs/VPs of Product) — done 2026-07-21
 - [x] Research section 3 (Qualifying a Client) — done 2026-07-21
 - [x] Research section 4 (Interview Prep) — done 2026-07-21
+- [x] 90-day-plan deep dive for section 4 (best practices, real
+      examples, do/don't, include/leave-out) — done 2026-07-21
 - [ ] Research section 5 (During-Engagement Best Practices)
 - [ ] Research section 6 (Ending an Engagement)
 - [ ] Research section 7 (Running Multiple Engagements Concurrently)
@@ -426,3 +513,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 2 (Marketing Myself — real post analysis) | WebFetch could pull full post text, reactions, comments, and comment content directly from public LinkedIn post URLs (no login wall hit for these 12) — found via `site:linkedin.com/posts` web search. Clear, consistent pattern emerged: dialogue/story format and debate-provoking claims outperform generic listicles and stat-led hooks by 5-30x on reactions | 2 of 12 posts had comments hidden behind a sign-in wall; sample skews toward posts that already surfaced in earlier searches (some author overlap with the secondary-source pass) | If redone: search by specific author handles known to post regularly (not just topic keywords) to reduce overlap, and try to find Japan/APAC-based fractional execs' posts specifically to check if the same format patterns hold in that market |
 | 2026-07-21 | 3 (Qualifying a Client) | Fractional-exec-specific vetting/qualifying-question content is a well-covered niche (multiple dedicated "questions to ask" articles); found a genuinely Japan-specific angle (cultural-intelligence-debt risk from compressed research) that ties directly to his actual ICP | Search results skewed toward client-side vetting advice ("how to vet a fractional exec") rather than exec-side qualifying advice — had to infer the exec's-side framing from client-side content in a few cases | Next section: 4 (Interview Prep), per Coverage-table row order. Could also revisit with an angle specifically for exec-side (not client-side) qualifying advice if this section is refreshed |
 | 2026-07-21 | 4 (Interview Prep) | Found a concrete, usable rate-derivation formula (salary÷220days×density multiplier) that gives him a defensible way to derive a number instead of guessing; 90-day-plan structure and evaluation criteria were consistent across sources | Rate reference data was Europe/UK only, not Japan — this is now the 3rd section (after 1 and this one) to hit the same Japan-day-rate gap, making it a higher-priority standalone item | Next section: 5 (During-Engagement Best Practices), per Coverage-table row order. The recurring Japan-rate gap across sections 1 and 4 is now worth its own dedicated research pass rather than a side note each time |
+| 2026-07-21 | 4 (Interview Prep — 90-day-plan deep dive, user-requested) | Found two genuinely concrete real-world examples (fractional CMO and fractional CTO) with actual hour allocations and phase deliverables, not just abstract advice — gave a template he can adapt rather than write from scratch | Both concrete examples were CMO/CTO, not Product-specific — had to adapt the shape (3-phase: diagnose/plan/prove) rather than finding a product-leadership-specific example | If revisited: search specifically for fractional CPO/VP Product 90-day-plan examples (not just CMO/CTO) to get a role-matched template instead of adapting from an adjacent function |
