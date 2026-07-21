@@ -1,5 +1,15 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-21 (Tue) — Sprint 2, Day 1
+- Inbox: cleared a stray leftover note from 2026-07-17 (Japanese activities
+  completed) — no longer actionable, discarded per user
+- Mon 2026-07-20 (bank holiday) — day off, nothing to report, as planned
+- LinkedIn export landed in email today; download still pending
+- Today's picks (in order): bulk `/classify-contact` pass on ~7,990
+  contacts, research LinkedIn post topics/content ideas, research
+  interim/fractional contracting best practices
+- No blockers
+
 ## 2026-07-17 (Fri) — Sprint 1, Day 5 / Weekly Review
 - Inbox cleared: next-2-weeks scheduling constraints filed to SPRINT.md;
   CRM (first 10 warm contacts) and conversation-topic-list completions

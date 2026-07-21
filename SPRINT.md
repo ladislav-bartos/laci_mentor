@@ -86,4 +86,4 @@ that day.
   Nothing else planned yet.
 
 ## Blocked / Waiting
-- (none — LinkedIn export has an expected pickup date of Tue 2026-07-21)
+- (none — LinkedIn export landed in email 2026-07-21, download pending)
