@@ -22,6 +22,9 @@ Steps:
 5. Plan next sprint's backlog in `SPRINT.md`.
 6. Remind me to check the next 2 weeks for holidays, family commitments, and
    my wife's evening schedule BEFORE committing to any networking events.
+6a. Remind me to run `/research-content-watch` (weekly check for new posts
+   from CONTENT.md's watchlist) — it doesn't run on its own, so flag it as
+   an available action this session rather than assuming it happened.
 7. Update `LEARNINGS.md` with the week's insights.
 8. Prune `LOG.md` entries older than 14 days — they already live in
    `archive/`.

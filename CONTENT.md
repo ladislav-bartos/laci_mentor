@@ -142,10 +142,16 @@ inspiration — read the top few before writing anything.*
 ---
 
 ## 5. Weekly content monitoring
-*Status: designed 2026-07-21, not yet actually running on a schedule —
-see the open question below.*
+*Status: decided 2026-07-21 — on-demand command, not unattended
+automation. Last checked: not yet run.*
 
-**What a weekly check should do:**
+Runs via `/research-content-watch` (`.claude/commands/`) — mirrors the
+existing `/research-events`/`/research-recruiters` pattern. It does
+**not** run on its own; `/weekly-review` (CLAUDE.md's Friday review)
+now includes a step reminding to run it, since it's an available action
+each session should surface rather than assume happened.
+
+**What the check does:**
 1. For each person in §3's watchlist, check for new posts since the
    last check.
 2. Add any new post that's clearly on-topic (fractional/interim
@@ -153,24 +159,11 @@ see the open question below.*
 3. Check for new best-practice articles (LinkedIn strategy for
    executives, fractional-content guidance) — fold genuinely new
    findings into §7.
-4. Note the check date at the top of this section so staleness is
-   visible at a glance.
+4. Update the "Last checked" date above so staleness is visible at a
+   glance.
 
-**Open question — how should "automatic" actually run?** Two options,
-meaningfully different in commitment level:
-- **(a) On-demand command**, run manually — e.g. at each Friday review,
-  mirroring how `/research-events` etc. already work. Nothing runs
-  without him or a session explicitly triggering it.
-- **(b) True unattended automation** — a scheduled cloud agent (cron)
-  that runs weekly on its own, no session needed to trigger it. This is
-  a meaningfully bigger commitment than anything built so far in this
-  repo (everything else is conversational/on-demand) — it would run and
-  commit to this repo unattended. Needs explicit setup via the
-  `schedule` skill, and worth confirming he actually wants unattended
-  automation vs. a manual weekly command, before setting it up.
-
-*Not yet built either way — flagging for his decision rather than
-picking one.*
+Full step-by-step logic lives in
+`.claude/commands/research-content-watch.md`.
 
 ---
 
@@ -254,8 +247,8 @@ rows) for the original research citations this file was built from —
 not duplicated here to avoid drift between the two files.*
 
 ## To Do — Next Research
-- [ ] Decide §5's open question: on-demand weekly command vs. true
-      unattended scheduled automation
+- [x] Decide §5's open question — done 2026-07-21: on-demand
+      `/research-content-watch`, run during `/weekly-review`
 - [ ] Find actual Japan/APAC-based fractional CPO/VP-Product LinkedIn
       posters — repeated gap across every research pass so far
 - [ ] Once real posts go out: fill in §1's Status/Date/Engagement
