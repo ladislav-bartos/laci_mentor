@@ -22,7 +22,7 @@ about what to do once you're in one or actually working.
 | Section | Status | Last researched |
 |---|---|---|
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
-| 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
+| 2. Marketing Myself | Researched (3rd pass: +10 prioritized topics) | 2026-07-21 |
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
 | 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
 | 5. During-Engagement Best Practices | Researched (initial pass) | 2026-07-21 |
@@ -189,6 +189,106 @@ DAZN/Rakuten/Indeed background gives him real dialogue/story material
 than generic listicles — the data above suggests that's the format to
 lean into for the LinkedIn content push, not "5 benefits of fractional
 leadership" style posts.
+
+### Additional real-post research: case studies + AI/2026 trend topics
+*Added 2026-07-21, at explicit request — supplements the 12-post format
+analysis above with topic-level (not just format-level) findings.*
+
+- Concrete fractional-CPO case studies with hard numbers were found
+  circulating publicly (e.g. a $5MM profit-increase quarter, a 30%
+  policy-retention uplift, a "drove 4X product usage" case study) —
+  confirms specific, quantified outcome-stories are a recognized and
+  rewarded content category in this niche, not just a format hunch from
+  the 12-post sample.
+- AI + fractional product leadership is a live, timely 2026 topic:
+  sources cite compressed product cycles, AI reducing build time, and
+  fractional leaders having more room than in-house leaders to
+  experiment with new tools since they carry fewer day-to-day
+  responsibilities — a specific, current angle beyond generic "AI is
+  important" filler.
+- Senior PM and product-leadership hiring both up ~20-22% YoY per 2026
+  sources — a market-momentum stat usable as a hook, but per the earlier
+  finding (Maxfield's post, 7 reactions), a stat alone underperforms
+  without a personal story or specific claim attached to it.
+
+### Recommended topics — 10, priority order
+*Added 2026-07-21, at explicit request. Derived from the format
+patterns above (dialogue/story and original frameworks outperform
+listicles; debate-provoking beats safe consensus; case studies with
+hard numbers are a rewarded category) applied to his specific
+background (FACTS.md) and positioning (Growth & Transformation,
+Japan/APAC, growth-stage-to-enterprise ICP).*
+
+1. **The DAZN Japan 0-to-1 story.** A specific decision point during the
+   0-to-1 launch (team of 4, path to 1M+ subscribers in 12 months) —
+   what the actual problem/choice was, what he did, why, and the
+   quantified outcome. Dialogue/story format, the single best-performing
+   pattern found (Mackey, 253/67) — his strongest, most differentiated
+   material, and no one else in the sample has a Japan 0-to-1 launch at
+   this scale to draw on.
+2. **Interim vs. Fractional vs. Consultant — through a Japan/APAC
+   market-entry lens.** An original categorization framework (mirrors
+   Gupta's 322/56 top performer) applied to a angle no post in the
+   sample covered: which model actually fits a company expanding into
+   Japan specifically, and why. Fills a real gap — no Japan-specific
+   version of this framework surfaced anywhere in the research.
+3. **The Rakuten transformation story.** Leading a 70-person
+   cross-functional team through a mobile-app migration that grew
+   retention 20%, conversion 30%. Same dialogue/story format as #1 — the
+   organizational-scale challenge (70 people, DevOps/FE/BE/mobile/PM/QA)
+   is a differentiator most fractional-CPO posters at his level can't
+   match.
+4. **"VP of Product, not CPO — and why that's deliberate."**
+   Debate-provoking framing (mirrors Mackey's highest-comment post,
+   67 comments) built directly on his own already-decided positioning
+   rationale (FACTS.md: CPO is ambiguous/vision-setting, VP of Product =
+   execution). Genuinely contestable claim, easy to defend since he's
+   already reasoned through it — low prep effort, high discussion
+   potential.
+5. **The Japan "cultural-intelligence debt" post.** Drawn directly from
+   his own section 3 research above: what he's observed about companies
+   compressing the research/cultural-groundwork phase when entering
+   Japan, and what it costs them later. Original, specific, and
+   demonstrates "how he thinks" (section 2's core content principle) —
+   turns his own research process into content.
+6. **"Why fractional works for growth-stage-to-enterprise — not
+   early-stage."** Mirrors Schneider's "why fractional works for stage
+   X" format (166/45) but flipped to his actual ICP, which is
+   under-represented in the sample (most fractional-CPO content targets
+   early-stage/startup audiences). Differentiates him from the crowded
+   early-stage fractional-CPO conversation.
+7. **The Indeed AI/ML case study (25% job-matching improvement).**
+   Ties his "Transformation = AI-driven internal efficiency" pillar to
+   a concrete, quantified result, riding the live 2026 AI-in-product
+   trend found above — but framed as *his specific result*, not a
+   generic "AI is changing product" trend post (which underperformed in
+   the sample, per Maxfield's 7-reaction post).
+8. **"The truth about going fractional after 20 years in big tech."**
+   Vulnerable/myth-busting format (mirrors McHugh's 72/8) — honestly
+   answers what ex-colleagues are likely already asking him privately,
+   and frames the garden-leave transition as a deliberate choice, not a
+   fallback (ties to section 2's "frame as deliberate" principle).
+9. **AI-audit / "highest-leverage 5%" teaser.** A short, specific
+   example of what a quick AI-maturity assessment surfaces for a product
+   org — soft-launches the free-value-first offer already logged in
+   OUTREACH.md as public content, validated by finding this exact
+   pattern used by other fractional practices (section 8). Save until
+   a few posts in, once some content rhythm/credibility is established.
+10. **Objectivity as the fractional value-add — reflective post.**
+    Mirrors Stanton-Bennett's lower-stakes reflective format (19/4) —
+    how moving across DAZN/Rakuten/Indeed contexts built outside-in
+    pattern recognition an embedded employee doesn't get. Lowest prep
+    effort of the ten and doesn't require revealing new material, so
+    it's a reasonable one to hold in reserve for a lower-capacity week.
+
+**Sequencing note (reasoning, not a fixed rule):** this order leads with
+his two highest-differentiation, best-performing-format topics (#1, #2)
+rather than a "safe" warm-up post — a deliberate call given LinkedIn
+content is public/low-stakes compared to 1:1 outreach (where his own
+warm-up-rep pattern, FACTS.md, applies to protect a real relationship).
+If he'd rather ease in with something lower-effort first, #10 or #4 work
+as gentler opens — flag this if the order doesn't feel right and it can
+be reshuffled.
 
 ## 3. Qualifying a Client
 *Status: Researched (initial pass) — 2026-07-21*
@@ -690,6 +790,9 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 8 | [Disclosing AI Use to Clients: What Professional Ethics Codes Actually Require in 2026 — The AI Career Lab](https://theaicareerlab.com/blog/disclosing-ai-use-to-clients-professional-ethics-2026) | No blanket disclosure obligation outside regulated professions; disclose when data-sharing or fee basis is affected |
 | 2026-07-21 | 8 | [AI Disclosure in Business: When, Why, and How to Inform Clients — Fourscore Business Law](https://www.fourscorelaw.com/resources/ai-disclosure-in-businessnbspwhen-why-and-how-to-inform-clients-about-your-use-of-ai) | Proactive disclosure as best practice regardless of legal requirement; data-handling caution for confidential material |
 | 2026-07-21 | 8 | [Best Fractional CPO Services for B2B SaaS in 2026 — saasfractionalcpo.com](https://saasfractionalcpo.com/best-fractional-cpo-services-saas/) | "AI audit"/5%-leverage productized offer — precedent for his own AI-maturity mini-session idea (OUTREACH.md) |
+| 2026-07-21 | 2 | [How I Drove 4X Product Usage as a Fractional CPO — Prodify](https://www.prodify.group/blog/fractional-product-executive-4x-usage) | Confirms quantified case-study posts are a rewarded content category |
+| 2026-07-21 | 2 | [Interim/Fractional CPO Case Studies — Harpal Singh](https://www.harpalsingh.com/work) | Real-world case-study examples w/ hard metrics ($5MM profit increase, 30% retention uplift) |
+| 2026-07-21 | 2 | [The Rise of the Fractional Product Manager in the AI Era — Security Boulevard](https://securityboulevard.com/2026/04/the-rise-of-the-fractional-product-manager-in-the-ai-era/) | AI + fractional product leadership as a live 2026 topic; hiring-growth stats |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -721,6 +824,12 @@ section whose Last-researched date is 30+ days old is a candidate.*
       runs should shift to staleness-based refreshes (30+ days old) per
       the priority rules in `.claude/commands/research-contracting.md`,
       unless a specific gap above is picked instead
+- [x] 10 prioritized LinkedIn post topics for section 2 — done
+      2026-07-21, directly resolves this week's SPRINT.md task "Research
+      LinkedIn post topics/content ideas"
+- [ ] Once posts start going out: log actual engagement per topic
+      against the predictions above (new Outcomes-Log-style table, not
+      yet built) — will validate or correct the format/topic hypotheses
 
 ## Research Log
 *Rotate which section(s) get covered each pass rather than re-covering
@@ -738,3 +847,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 6 (Ending an Engagement) | Fractional-exec-specific offboarding content existed and was concrete (notice periods, report+handover split, "fade-out" failure mode named explicitly); testimonial-ask timing/framing had clear, actionable specifics | No Japan-specific angle searched for this section (e.g. whether Japanese business norms around ending an engagement/references differ); didn't find fractional-Product-specific offboarding content, only general fractional-exec sources | Next section: 7 (Running Multiple Engagements Concurrently), per Coverage-table row order |
 | 2026-07-21 | 7 (Running Multiple Engagements Concurrently) | Good concrete capacity/hours-per-client data (1-5 clients, 10-15 hrs/month norm) and a genuinely useful advisory-vs-action distinction that maps directly onto his own positioning; context-switching findings were consistent across sources | Conflict-of-interest search results skewed toward legal/CPA professional-ethics content rather than fractional-exec-specific guidance — had to adapt the "adequate disclosure" framing rather than finding it stated for this specific field | Section 8 (Using AI as a Fractional Exec) is next per Coverage-table row order — this is the last "Seeded/Not started" section, so after this pass all 9 sections have at least an initial pass and future runs shift to staleness-based (30+ day) refreshes, or the Japan-day-rate gap and section 9 promotions |
 | 2026-07-21 | 8 (Using AI as a Fractional Exec) | Found strong, consistent fractional-exec-specific sources (not generic AI-ethics content) confirming AI fluency is positioned as a value-add across CFO/COO/CMO fractional practice; surfaced a direct external precedent (productized "AI audit"/5%-leverage offer) for his own AI-maturity mini-session idea already in OUTREACH.md | No Japan-specific angle found on AI-disclosure norms or client data-handling attitudes — flagged as a new To Do item rather than folded into the Japan-day-rate gap, since it's a distinct question | All 9 sections now have at least one research pass (2026-07-21). Next runs should follow the staleness-based priority rule (30+ days old) per the command's own logic, or pick from the two Japan-specific gaps now in the To Do list, or review section 9's gap-list for promotion |
+| 2026-07-21 | 2 (Marketing Myself — 10 prioritized topics, user-requested) | Confirmed quantified case-study posts as a recognized rewarded category (found real examples with hard $/% numbers) and a live 2026 AI+product trend angle; successfully synthesized the format-pattern findings from the 12-post analysis into 10 concrete, personalized topics tied to specific FACTS.md achievements | Didn't find any actual Japan/APAC-based fractional CPO/VP-Product LinkedIn posters to check whether the same format patterns (dialogue/story winning, stat-only losing) hold in a Japan-business-audience context specifically — same gap noted after the original 12-post pass, still unresolved | If revisited: search for actual Japan/APAC-based fractional-exec LinkedIn posters specifically (not just Western ones) to validate the format patterns locally; once real posts go out, log actual engagement per topic to check the predictions in this pass |
