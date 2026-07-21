@@ -24,7 +24,7 @@ about what to do once you're in one or actually working.
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
 | 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
-| 4. Interview Prep | Seeded only | — |
+| 4. Interview Prep | Researched (initial pass) | 2026-07-21 |
 | 5. During-Engagement Best Practices | Seeded only | — |
 | 6. Ending an Engagement | Seeded only | — |
 | 7. Running Multiple Engagements Concurrently | Seeded only | — |
@@ -246,12 +246,62 @@ done before this engagement?"* A client that's skipped this is higher
 risk regardless of budget/authority signals otherwise looking fine.
 
 ## 4. Interview Prep
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions: how fractional/interim interviews differ from full-time
-interviews (more scoping conversation, less culture-fit theater);
-likely question types (e.g. "walk through a 90-day plan for X");
-how to talk rate/day-count without underselling.
+**How fractional interviews differ from full-time ones:**
+- The conversation is a scoping exercise, not a culture-fit/career-arc
+  interview — full-time interviews probe broad, open-ended
+  responsibility; fractional conversations need to nail down a defined
+  scope ("a function built," "operations tightened," not "a director
+  managing a team long-term").
+- Commitment level gets probed directly — expect to be asked (or to
+  proactively address) whether he's genuinely building a fractional
+  practice vs. splitting attention while also full-time job-hunting.
+  Given garden leave until March 2027 (FACTS.md), he can answer this
+  cleanly: fractional/interim work *is* the committed path right now,
+  not a stopgap.
+- Timeline is compressed — a full-time search runs 4–8 months; fractional
+  engagements can start within weeks. Expect less process, faster
+  decisions, and be ready to scope quickly rather than expecting a long
+  multi-round process.
+
+**The 90-day-plan question — near-certain to come up:**
+- It's evaluated as a demonstration of *thinking*, not a literal
+  commitment — interviewers are checking strategic judgment, how he
+  handles ambiguity, and prioritization under real constraints, not
+  whether the specific tasks are "correct."
+- Structure: name the top 3 priorities, define what success looks like
+  at 90 days, name what's not working that needs fixing, and identify
+  key stakeholders to build relationships with early.
+- Fractional-specific constraint to build into the plan explicitly: at
+  typical part-time hours (e.g. 15–20 hrs/week ≈ 180–240 hours over 90
+  days, roughly 4.5–6 FTE-weeks), the plan must show ruthless
+  prioritization to 2–3 highest-impact initiatives — a full-time-style
+  broad plan reads as not understanding the fractional constraint.
+- Avoid genericness — a plan not visibly tailored to the specific
+  company/role reads as a template, undermining the "operator with
+  judgment" positioning from section 1.
+
+**Talking rate without underselling:**
+- Useful anchoring formula found: day rate ≈ (fully-loaded equivalent
+  FTE salary ÷ ~220 working days) × a 1.3–1.6× "engagement density"
+  multiplier (accounts for context-switching overhead across clients).
+  This gives him a defensible way to derive/justify a number from a real
+  full-time VP of Product salary benchmark, rather than picking a figure
+  out of the air.
+- A further ±15–25% premium is commonly applied for deep specialization
+  or brand-name pedigree (his DAZN/Rakuten/Indeed background plausibly
+  qualifies) — back the number with quantifiable track record when
+  asked to justify it, don't just state it.
+- Reference rates found (not Japan-specific, but a useful sanity check):
+  Europe ~€900–2,300/day senior band, UK £800–1,400/day. His stated
+  ¥100,000–150,000/day (~$650–950 at typical rates) sits notably below
+  these Western bands — worth knowing going into a negotiation, though
+  Japan-market rate norms specifically are still an open gap (see To Do).
+- Most fractional execs start in the "senior band" in year one and
+  negotiate up as referrals/track record accumulate — framing a starting
+  rate as a deliberate first-year anchor, not a ceiling, is normal and
+  not a sign of underselling.
 
 ## 5. During-Engagement Best Practices
 *Status: Seeded only — not yet researched*
@@ -339,6 +389,11 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 3 | [Fractional Consulting: The Comprehensive Guide for Consultants — Consulting Success](https://www.consultingsuccess.com/what-is-fractional-consulting-a-comprehensive-guide-for-consultants) | Value-based budget framing ("what would solving this be worth") |
 | 2026-07-21 | 3 | [Council Post: Fractional Executives Aren't Consultants — Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/03/31/fractional-executives-arent-consultants-heres-the-real-difference/) | Authority-to-hire signals, mutual-qualification mindset |
 | 2026-07-21 | 3 | [Executive Hiring Is Not an HR Event — Japan Intercultural Consulting](https://japanintercultural.com/free-resources/executive-hiring-is-not-an-hr-event-it-is-a-strategic-decision-why-japanese-companies-struggle-with-ad-hoc-executive-selection/) | Japan-specific: vague buzzword criteria, cultural-intelligence-debt risk from compressed research phase |
+| 2026-07-21 | 4 | [90-Day Plans for Fractional Leaders That Actually Work — Talha Fakhar, Medium](https://talhafakhar.medium.com/90-day-plans-for-fractional-leaders-that-actually-work-7c5b028f531c) | 90-day plan as thinking-architecture demo; fractional hours constraint on plan scope |
+| 2026-07-21 | 4 | [90 Day Plan for Executive Interviews — Mary Taylor & Associates](https://marytaylorandassociates.com/news-insights/90-day-plan-for-executive-interviews/) | Standard 90-day-plan structure (priorities, success definition, stakeholders) |
+| 2026-07-21 | 4 | [Fractional Executive Hourly Rate & Day Rate 2025-2026 — fractional-csuite.com](https://fractional-csuite.com/tools/rates/) | Rate-derivation formula (salary/220 days × density multiplier); Europe/UK reference rates |
+| 2026-07-21 | 4 | [Fractional vs full-time executives: the complete decision framework — Connectd](https://www.connectd.com/article/fractional-vs-full-time-executives-the-complete-decision-framework) | Scoping-conversation vs. open-ended full-time interview distinction |
+| 2026-07-21 | 4 | [When Should You Move from Fractional to Full-Time Executive? — Fractionus](https://fractionus.com/blog/when-to-scale-from-fractional-to-full-time-executive) | Commitment-level question — fractional as deliberate path vs. stopgap |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -348,14 +403,15 @@ section whose Last-researched date is 30+ days old is a candidate.*
 - [x] Real post analysis for section 2 (12 posts by practicing
       fractional CPOs/VPs of Product) — done 2026-07-21
 - [x] Research section 3 (Qualifying a Client) — done 2026-07-21
-- [ ] Research section 4 (Interview Prep)
+- [x] Research section 4 (Interview Prep) — done 2026-07-21
 - [ ] Research section 5 (During-Engagement Best Practices)
 - [ ] Research section 6 (Ending an Engagement)
 - [ ] Research section 7 (Running Multiple Engagements Concurrently)
 - [ ] Research section 8 (Using AI as a Fractional Exec) — flagged as a
       real open question, not just a gap-filler
-- [ ] Japan-specific day-rate benchmarking (current pass found global
-      figures only, not Japan/APAC-specific)
+- [ ] Japan-specific day-rate benchmarking — now flagged 3x (sections 1
+      and 4), promoted to higher priority: current passes found global
+      (US/Europe/UK) figures only, never Japan/APAC-specific
 - [ ] Review section 9's gap list — decide which items get promoted to
       full sections
 
@@ -369,3 +425,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 2 (Marketing Myself) | Strong, specific, consistent findings across LinkedIn-strategy-focused sites (posting cadence, positioning specificity, case-study framing) — this topic is well-covered by existing content marketers targeting fractional execs as a niche | No Japan/APAC-specific LinkedIn-culture angle found (e.g. does the 3-5x/week cadence norm hold in a Japan-business-audience context, or is that a US-centric number) | Next section: 3 (Qualifying a Client), per Coverage-table row order. If revisiting section 2 later, check whether Japan-specific LinkedIn content norms exist |
 | 2026-07-21 | 2 (Marketing Myself — real post analysis) | WebFetch could pull full post text, reactions, comments, and comment content directly from public LinkedIn post URLs (no login wall hit for these 12) — found via `site:linkedin.com/posts` web search. Clear, consistent pattern emerged: dialogue/story format and debate-provoking claims outperform generic listicles and stat-led hooks by 5-30x on reactions | 2 of 12 posts had comments hidden behind a sign-in wall; sample skews toward posts that already surfaced in earlier searches (some author overlap with the secondary-source pass) | If redone: search by specific author handles known to post regularly (not just topic keywords) to reduce overlap, and try to find Japan/APAC-based fractional execs' posts specifically to check if the same format patterns hold in that market |
 | 2026-07-21 | 3 (Qualifying a Client) | Fractional-exec-specific vetting/qualifying-question content is a well-covered niche (multiple dedicated "questions to ask" articles); found a genuinely Japan-specific angle (cultural-intelligence-debt risk from compressed research) that ties directly to his actual ICP | Search results skewed toward client-side vetting advice ("how to vet a fractional exec") rather than exec-side qualifying advice — had to infer the exec's-side framing from client-side content in a few cases | Next section: 4 (Interview Prep), per Coverage-table row order. Could also revisit with an angle specifically for exec-side (not client-side) qualifying advice if this section is refreshed |
+| 2026-07-21 | 4 (Interview Prep) | Found a concrete, usable rate-derivation formula (salary÷220days×density multiplier) that gives him a defensible way to derive a number instead of guessing; 90-day-plan structure and evaluation criteria were consistent across sources | Rate reference data was Europe/UK only, not Japan — this is now the 3rd section (after 1 and this one) to hit the same Japan-day-rate gap, making it a higher-priority standalone item | Next section: 5 (During-Engagement Best Practices), per Coverage-table row order. The recurring Japan-rate gap across sections 1 and 4 is now worth its own dedicated research pass rather than a side note each time |
