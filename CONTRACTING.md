@@ -21,7 +21,7 @@ about what to do once you're in one or actually working.
 
 | Section | Status | Last researched |
 |---|---|---|
-| 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
+| 1. Engagement Fundamentals | Researched (2nd pass: +Japan day-rate benchmarking) | 2026-07-21 |
 | 2. Marketing Myself | Researched (3rd pass: +10 prioritized topics) | 2026-07-21 |
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
 | 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
@@ -70,6 +70,58 @@ $5,000–12,000/month or $100–250/hr in current market data — roughly in
 line with the ¥100,000–150,000/day starting rate (FACTS.md), possibly
 conservative depending on assumed hours/scope. Not Japan-specific pricing
 — worth a dedicated pass (see To Do).
+
+### Japan-specific day-rate benchmarking
+*Added 2026-07-21 — resolves the gap flagged 3x across sections 1 and 4
+(now the top-priority To Do item). Sourced from Japanese-language
+freelance/業務委託 (gyōmu itaku) consulting-rate data, since Western
+fractional-exec sources (used elsewhere in this doc) don't reflect
+Japan-market pricing.*
+
+- **Japan freelance/業務委託 consultant rates (direct contract, not
+  through an agency):** manager-level-and-above consultants run
+  ¥2,000,000–3,500,000/month; AI/DX-specialization work runs
+  ¥1,500,000–2,200,000/month; strategy-focused work runs
+  ¥2,000,000–3,200,000/month. Converted to a day rate at ~20 working
+  days/month, that's roughly **¥75,000–175,000/day** depending on
+  specialization and seniority band.
+- **His stated ¥100,000–150,000/day starting rate sits squarely inside
+  this Japan-market range** — this is a meaningfully different
+  conclusion than section 1's original (Western-sourced) rate context
+  above, which read his rate as "possibly conservative." Against actual
+  Japan-market freelance-consulting data, it's well-calibrated, not
+  underpriced.
+- **Cross-check via the section-4 rate-derivation formula** (salary ÷
+  220 days × 1.3–1.6 density multiplier), using two different salary
+  anchors:
+  - Using a general/traditional-industry Japan VP-of-Product salary
+    benchmark found (~¥16.5M/year, Morgan McKinley 2026 guide, though
+    for a narrower "Asset Management" vertical): ¥16.5M ÷ 220 × 1.3–1.6
+    ≈ **¥97,500–120,000/day** — lines up closely with his stated rate
+    and with the freelance-consultant data above.
+  - Using his own actual, more directly comparable recent comp (¥40M/yr
+    at Indeed, FACTS.md — a global-tech-in-Japan compensation band, not
+    a traditional-industry one): ¥40M ÷ 220 × 1.3–1.6 ≈
+    **¥236,000–291,000/day** — well above his stated starting rate.
+  - **Reading:** his stated rate is conservative relative to his own
+    actual recent earning level at a global tech company, but
+    appropriately calibrated (not underpriced) relative to the general
+    Japan freelance-consulting market. This is a legitimate strategic
+    choice for a *starting* rate (undercutting to build a first Japan
+    fractional track record), not a mistake — but it does mean there's
+    real room to negotiate upward for clients who can pay
+    global-tech-level rates (e.g. foreign companies entering Japan,
+    which is his actual ICP) rather than anchoring to the lower
+    traditional-market range.
+- **Agency discount to expect:** rates through an intermediary/agency in
+  Japan run 20–40% lower than direct-contract rates due to commission —
+  relevant given this sprint's task of registering with 2–3 agencies
+  (RECRUITERS.md) — worth going in expecting a lower realized rate via
+  that channel than direct outreach would get.
+- **Data-quality note:** one search result (Glassdoor "VP salary" for
+  Tokyo) returned an implausible "$29,000,000/year" figure that reads
+  as a scraping/data artifact, not real market signal — excluded from
+  the analysis above rather than cited as if reliable.
 
 ---
 
@@ -793,6 +845,9 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 2 | [How I Drove 4X Product Usage as a Fractional CPO — Prodify](https://www.prodify.group/blog/fractional-product-executive-4x-usage) | Confirms quantified case-study posts are a rewarded content category |
 | 2026-07-21 | 2 | [Interim/Fractional CPO Case Studies — Harpal Singh](https://www.harpalsingh.com/work) | Real-world case-study examples w/ hard metrics ($5MM profit increase, 30% retention uplift) |
 | 2026-07-21 | 2 | [The Rise of the Fractional Product Manager in the AI Era — Security Boulevard](https://securityboulevard.com/2026/04/the-rise-of-the-fractional-product-manager-in-the-ai-era/) | AI + fractional product leadership as a live 2026 topic; hiring-growth stats |
+| 2026-07-21 | 1 | [2026 Product Development VP, Asset Management Salaries in Tokyo — Morgan McKinley](https://www.morganmckinley.com/jp/salary-guide/data/product-development-vp-asset-management/tokyo) | Japan VP-of-Product salary anchor (~¥16.5M/yr) for rate-formula cross-check |
+| 2026-07-21 | 1 | [フリーコンサルタント単価相場 — フリーコンサルタント.jp](https://freeconsultant.jp/column/c381/) | Japan freelance/業務委託 consultant monthly rates by level/specialization |
+| 2026-07-21 | 1 | [フリーランスコンサルタントの単価相場 — ARROW pro](https://arrowpro.jp/column/freelance-consultant-rate/) | Corroborating Japan freelance-consultant rate ranges, incl. agency-vs-direct discount |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -812,9 +867,10 @@ section whose Last-researched date is 30+ days old is a candidate.*
       done 2026-07-21
 - [x] Research section 8 (Using AI as a Fractional Exec) — done
       2026-07-21
-- [ ] Japan-specific day-rate benchmarking — now flagged 3x (sections 1
-      and 4), promoted to higher priority: current passes found global
-      (US/Europe/UK) figures only, never Japan/APAC-specific
+- [x] Japan-specific day-rate benchmarking — done 2026-07-21 (added to
+      section 1). Finding: his stated ¥100-150k/day is well-calibrated
+      to the Japan freelance-consulting market, though conservative
+      relative to his own actual recent (global-tech) comp level
 - [ ] Japan-specific AI-disclosure/data-handling norms for section 8 —
       current pass found Western sources only; worth a dedicated look
       once actual client conversations start
@@ -848,3 +904,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 7 (Running Multiple Engagements Concurrently) | Good concrete capacity/hours-per-client data (1-5 clients, 10-15 hrs/month norm) and a genuinely useful advisory-vs-action distinction that maps directly onto his own positioning; context-switching findings were consistent across sources | Conflict-of-interest search results skewed toward legal/CPA professional-ethics content rather than fractional-exec-specific guidance — had to adapt the "adequate disclosure" framing rather than finding it stated for this specific field | Section 8 (Using AI as a Fractional Exec) is next per Coverage-table row order — this is the last "Seeded/Not started" section, so after this pass all 9 sections have at least an initial pass and future runs shift to staleness-based (30+ day) refreshes, or the Japan-day-rate gap and section 9 promotions |
 | 2026-07-21 | 8 (Using AI as a Fractional Exec) | Found strong, consistent fractional-exec-specific sources (not generic AI-ethics content) confirming AI fluency is positioned as a value-add across CFO/COO/CMO fractional practice; surfaced a direct external precedent (productized "AI audit"/5%-leverage offer) for his own AI-maturity mini-session idea already in OUTREACH.md | No Japan-specific angle found on AI-disclosure norms or client data-handling attitudes — flagged as a new To Do item rather than folded into the Japan-day-rate gap, since it's a distinct question | All 9 sections now have at least one research pass (2026-07-21). Next runs should follow the staleness-based priority rule (30+ days old) per the command's own logic, or pick from the two Japan-specific gaps now in the To Do list, or review section 9's gap-list for promotion |
 | 2026-07-21 | 2 (Marketing Myself — 10 prioritized topics, user-requested) | Confirmed quantified case-study posts as a recognized rewarded category (found real examples with hard $/% numbers) and a live 2026 AI+product trend angle; successfully synthesized the format-pattern findings from the 12-post analysis into 10 concrete, personalized topics tied to specific FACTS.md achievements | Didn't find any actual Japan/APAC-based fractional CPO/VP-Product LinkedIn posters to check whether the same format patterns (dialogue/story winning, stat-only losing) hold in a Japan-business-audience context specifically — same gap noted after the original 12-post pass, still unresolved | If revisited: search for actual Japan/APAC-based fractional-exec LinkedIn posters specifically (not just Western ones) to validate the format patterns locally; once real posts go out, log actual engagement per topic to check the predictions in this pass |
+| 2026-07-21 | 1 (Engagement Fundamentals — Japan day-rate benchmarking) | Switching to Japanese-language search terms (業務委託, 単価相場) surfaced genuinely Japan-specific freelance-consulting rate data where English-language searches (used in every prior pass) had failed 3 times running; cross-checking against both a market-benchmark salary and his own actual comp via the rate-derivation formula produced a nuanced, non-obvious finding (well-calibrated vs. market, conservative vs. his own comp) rather than a flat "too low/too high" verdict | Still no rate data specific to *fractional/interim* work in Japan — this used general freelance/業務委託 consulting rates as the closest proxy, not a fractional-executive-specific Japan source (none found in 4 attempts across this and earlier passes) | This closes the most-flagged gap in the doc. Remaining Japan-specific gaps: AI-disclosure norms (section 8's To Do item) and the recurring Japan/APAC-poster gap (CONTENT.md/section 2) — both are candidates for the next run, or pick a staleness-based refresh per the command's priority rules |
