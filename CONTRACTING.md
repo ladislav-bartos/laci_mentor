@@ -26,7 +26,7 @@ about what to do once you're in one or actually working.
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
 | 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
 | 5. During-Engagement Best Practices | Researched (initial pass) | 2026-07-21 |
-| 6. Ending an Engagement | Seeded only | — |
+| 6. Ending an Engagement | Researched (initial pass) | 2026-07-21 |
 | 7. Running Multiple Engagements Concurrently | Seeded only | — |
 | 8. Using AI as a Fractional Exec | Not started | — |
 | 9. Other Scenarios (gap list) | Ongoing brainstorm | 2026-07-21 |
@@ -435,11 +435,53 @@ as a model — not to copy verbatim):**
   self-limiting without needing a hard "no."
 
 ## 6. Ending an Engagement
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions: standard offboarding practices; when/how to ask for a
-reference or testimonial; handover documentation norms; how to keep the
-relationship warm for referrals after the contract ends.
+**Offboarding timing and structure:**
+- Start offboarding formally 4 weeks before the final day for typical
+  engagements, 6–8 weeks for longer/complex ones — set this trigger and
+  the notice-period clause (typically 2–4 weeks, 4–6 for complex
+  engagements) *in the original contract*, not improvised at the end.
+  This mirrors section 1's "insist on real scope up front" discipline —
+  the exit is part of the scope, not an afterthought.
+- Produce two artifacts at closedown: a **report** (what was learned,
+  what was built, results against the metrics from section 4's 90-day
+  plan / section 5's KPIs) and a **handover** (relationship intros,
+  access transfer, documentation) — treat these as distinct
+  deliverables, not one blended email.
+- If ending because a permanent hire is taking over, plan on ~1 month of
+  parallel working with the incoming leader: walk through decisions and
+  their context, introduce the team, and transfer board/investor/
+  stakeholder relationships directly rather than leaving that to
+  secondhand notes.
+- A limited paid advisory period after formal end (commonly ~2–4
+  hrs/month for 30–60 days) is a normal, explicitly-priced offer — gives
+  the client a low-cost way to ask follow-up questions without an open
+  ongoing retainer, and keeps the relationship warm for referrals.
+
+**Failure mode to avoid — "the fade-out":** engagement never formally
+ends, involvement just gradually shrinks with no closedown report and no
+structured handover. This squanders the case-study/testimonial value
+(section 2) since there's no clean, well-documented "before/after"
+moment to point to.
+
+**Asking for references/testimonials:**
+- Ask at the close-out meeting, while the outcome is fresh — waiting
+  weakens both the client's memory of specifics and their motivation to
+  write it.
+- Don't leave it open-ended ("could you write a testimonial?") — give
+  concrete prompts (specific ROI achieved, how the approach differed)
+  and offer to draft a rough version for them to edit; this lowers
+  friction and produces more specific, usable material than a blank-page
+  ask.
+- A strong testimonial moment is also the right moment to ask for
+  referrals — the client has just re-articulated the value delivered,
+  which is exactly when introducing him to another contact is easiest
+  for them to justify.
+- Have one reusable testimonial-request template ready rather than
+  drafting a new ask each time — reduces friction on his side too.
+- Follow up once, about a week later, if there's no response — normal
+  and expected, not pushy.
 
 ## 7. Running Multiple Engagements Concurrently
 *Status: Seeded only — not yet researched*
@@ -528,6 +570,10 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 5 | [Client Pipeline Kickstart — generatingpipeline.com](https://generatingpipeline.com/generating-pipeline-os/) | Visible positioning + outreach + repeated case study as the working pattern |
 | 2026-07-21 | 5 | [Mastering Scope Creep While Keeping Client Satisfied — Thoughtlab](https://thoughtlab.com/blog/mastering-scope-creep-say-no-to-extra-work-and-sti/) | Scope conversation at kickoff, boundary framing as protection not pushback |
 | 2026-07-21 | 5 | [How to Handle Scope Creep Without Hurting Client Relationships — Pursue The Passion](https://pursuethepassion.com/how-to-handle-scope-creep-without-hurting-client-relationships/) | "Validate and price it" language, lightweight change-request habit |
+| 2026-07-21 | 6 | [How to Offboard a Fractional Executive and Keep the Knowledge — Fractionus](https://fractionus.com/blog/fractional-executive-offboarding) | Notice-period norms, report+handover structure, "fade-out" failure mode |
+| 2026-07-21 | 6 | [How a Fractional CTO Engagement Should End — Rational Partners](https://rational.partners/insights/how-fractional-cto-engagements-end) | Parallel-working handover to permanent hire, paid advisory-period norm |
+| 2026-07-21 | 6 | [7 hacks to asking for testimonials from freelance clients — Bonsai](https://www.hellobonsai.com/blog/how-to-ask-for-testimonials) | Timing (ask at close-out), concrete prompts vs. open-ended ask |
+| 2026-07-21 | 6 | [How to Get Powerful Consulting Testimonials and Case Studies — Consulting Success](https://www.consultingsuccess.com/consulting-testimonials) | Testimonial → referral-ask sequencing |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -542,7 +588,7 @@ section whose Last-researched date is 30+ days old is a candidate.*
       examples, do/don't, include/leave-out) — done 2026-07-21
 - [x] Research section 5 (During-Engagement Best Practices) — done
       2026-07-21
-- [ ] Research section 6 (Ending an Engagement)
+- [x] Research section 6 (Ending an Engagement) — done 2026-07-21
 - [ ] Research section 7 (Running Multiple Engagements Concurrently)
 - [ ] Research section 8 (Using AI as a Fractional Exec) — flagged as a
       real open question, not just a gap-filler
@@ -565,3 +611,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 4 (Interview Prep) | Found a concrete, usable rate-derivation formula (salary÷220days×density multiplier) that gives him a defensible way to derive a number instead of guessing; 90-day-plan structure and evaluation criteria were consistent across sources | Rate reference data was Europe/UK only, not Japan — this is now the 3rd section (after 1 and this one) to hit the same Japan-day-rate gap, making it a higher-priority standalone item | Next section: 5 (During-Engagement Best Practices), per Coverage-table row order. The recurring Japan-rate gap across sections 1 and 4 is now worth its own dedicated research pass rather than a side note each time |
 | 2026-07-21 | 4 (Interview Prep — 90-day-plan deep dive, user-requested) | Found two genuinely concrete real-world examples (fractional CMO and fractional CTO) with actual hour allocations and phase deliverables, not just abstract advice — gave a template he can adapt rather than write from scratch | Both concrete examples were CMO/CTO, not Product-specific — had to adapt the shape (3-phase: diagnose/plan/prove) rather than finding a product-leadership-specific example | If revisited: search specifically for fractional CPO/VP Product 90-day-plan examples (not just CMO/CTO) to get a role-matched template instead of adapting from an adjacent function |
 | 2026-07-21 | 5 (During-Engagement Best Practices) | Found a concrete satisfaction stat (fixed-scope beats open-ended by ~35%) and a clear "validate and price it" scope-creep script that's directly usable; pipeline-cadence findings connected cleanly to section 1's bandwidth-cap principle already in the doc | Scope-creep sources were generic consulting advice, not fractional-exec-specific — had to adapt rather than find fractional-specific sourcing; no Japan-specific angle found or searched for this section | Next section: 6 (Ending an Engagement), per Coverage-table row order |
+| 2026-07-21 | 6 (Ending an Engagement) | Fractional-exec-specific offboarding content existed and was concrete (notice periods, report+handover split, "fade-out" failure mode named explicitly); testimonial-ask timing/framing had clear, actionable specifics | No Japan-specific angle searched for this section (e.g. whether Japanese business norms around ending an engagement/references differ); didn't find fractional-Product-specific offboarding content, only general fractional-exec sources | Next section: 7 (Running Multiple Engagements Concurrently), per Coverage-table row order |
