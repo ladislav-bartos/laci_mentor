@@ -22,7 +22,7 @@ about what to do once you're in one or actually working.
 | Section | Status | Last researched |
 |---|---|---|
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
-| 2. Marketing Myself | Researched (initial pass) | 2026-07-21 |
+| 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
 | 3. Qualifying a Client | Seeded only | — |
 | 4. Interview Prep | Seeded only | — |
 | 5. During-Engagement Best Practices | Seeded only | — |
@@ -122,6 +122,74 @@ expect fast conversion signal.
 first LinkedIn post" — use the specificity + thinking-not-availability
 principles above when picking topics.
 
+### Real post analysis (12 posts by practicing fractional CPOs/VPs of Product)
+*Added 2026-07-21 — actual posts read (via LinkedIn post URLs), not
+secondary "how to LinkedIn" advice like the rest of this section.*
+
+| Author | Format | Reactions | Comments |
+|---|---|---|---|
+| David Mackey | Dialogue/story (founder conversation) | 253 | 67 |
+| Aakash Gupta | Original framework (2x2 matrix, researched w/ 20 practitioners) | 322 | 56 |
+| Lisa Schneider | "Why fractional works for stage X" explainer | 166 | 45 |
+| Beth McHugh* | Vulnerable "here's the truth" post | 72 | 8 |
+| Jason Knight | Guide announcement (original long-form) | 79 | 16 |
+| Nick Kenn | Personal "what I'm seeing lately" observation | 41 | 10 |
+| Anna Divers | Myth-busting FAQ ("is this understood?") | 22 | 4 |
+| Mark Stanton-Bennett | Reflective "my value-add" post | 19 | 4 |
+| Meraj Imani | General leadership content (burnout series) | 13 | n/a |
+| Jonathon Hensley (share #2) | Sharing someone else's guide | 8 | n/a |
+| Doug Maxfield | Trend/stat-led hook, no personal story | 7 | 1 |
+| Jonathon Hensley (share #1) | Generic pros/cons checklist | 6 | 1 |
+
+*\*URL slug read "elizabethswanson" but the fetched post content was
+authored by Beth McHugh — flagging the mismatch in case this source is
+revisited.*
+
+**What actually drives engagement (ranked by the pattern, not just one
+outlier):**
+- **Specific dialogue/story beats generic advice.** The single highest
+  performer (Mackey, 253/67) was a real conversation with a named
+  scenario ("a pre-seed founder asked me to help hire a CTO..."), not a
+  listicle. Bullet-point "pros and cons of fractional CPOs" posts
+  (both Hensley posts) got the *lowest* engagement in the sample (6–8
+  reactions) despite covering similar ground.
+- **Original long-form/frameworks outperform sharing others' content.**
+  Gupta's and Knight's own researched guides (322 and 79 reactions)
+  vastly outperformed Hensley re-sharing those same guides (6–8
+  reactions) — resharing doesn't transfer the engagement.
+- **Debate-provoking content gets the most comments.** Both
+  highest-comment posts (Mackey 67, Gupta 56) drew real disagreement in
+  the replies (e.g. "modern CTOs already do this," "fractional
+  terminology doesn't make sense") — nuanced/contestable claims
+  outperform safe consensus statements.
+- **"Truth about"/myth-busting framing reliably works at smaller
+  scale.** McHugh's and Divers' posts, answering the actual questions
+  people ask in DMs ("what's it really like," "is this understood?"),
+  landed solid engagement (72/8 and 22/4) without needing a big
+  following.
+- **Trend-stat hooks without a personal angle underperform.** Maxfield's
+  post cited a genuinely striking stat (CPO presence in Fortune 1000
+  rose from 15% to 60%) but got only 7 reactions — a compelling
+  statistic alone isn't enough without a personal story or specific
+  claim attached to it.
+- **Author following size matters, but isn't everything.** Gupta (an
+  established product-newsletter influencer) and Mackey (14K followers)
+  drew the biggest numbers, but McHugh (3.5K followers) still beat both
+  Hensley posts (6.7K followers) — format and specificity mattered more
+  than raw audience size in this sample.
+- **Comment tone is mostly practitioner pushback, not cheerleading** —
+  disagreement, "how do you actually...", or a related counterexample
+  are the norm, not pure praise. Posting something with a genuine,
+  debatable point of view invites more real engagement than a safe,
+  broadly-agreeable statement.
+
+**Applied to his positioning:** his Growth & Transformation, Japan/APAC,
+DAZN/Rakuten/Indeed background gives him real dialogue/story material
+(e.g. a specific decision made during the DAZN 0-to-1 launch) rather
+than generic listicles — the data above suggests that's the format to
+lean into for the LinkedIn content push, not "5 benefits of fractional
+leadership" style posts.
+
 ## 3. Qualifying a Client
 *Status: Seeded only — not yet researched*
 
@@ -207,12 +275,26 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 2 | [Executive Personal Branding for Fractional Leaders — Connectd](https://www.connectd.com/article/fractional-executive-personal-branding) | Framing fractional as a deliberate choice, not a fallback |
 | 2026-07-21 | 2 | [Why Personal Brand Matters in Fractional Work — Fractionus](https://fractionus.com/blog/why-personal-brand-matters-in-fractional-work) | Case studies > content volume; brand = findability, not self-promotion |
 | 2026-07-21 | 2 | [Stand Out in a Crowded Market as a Fractional Executive — Mylance](https://www.mylance.co/post/stand-out-in-a-crowded-market-as-a-fractional-executive) | Case studies mapped to buyer-sourced skills, before/after metrics |
+| 2026-07-21 | 2 | [David Mackey — CTO vs CPO fractional hiring post](https://www.linkedin.com/posts/davidatalbany_cto-cpo-fractional-activity-7026104288917483520-OASF) | Dialogue/story format, top engagement in sample (253/67) |
+| 2026-07-21 | 2 | [Aakash Gupta — fractional CPO framework post](https://www.linkedin.com/posts/aagupta_the-fractional-cpo-role-is-the-hottest-new-activity-7195254671630893056-Dipr) | Original researched framework, 2nd-highest engagement (322/56) |
+| 2026-07-21 | 2 | [Lisa Schneider — why fractional works post](https://www.linkedin.com/posts/lisaschneider64_startup-fractionalcpo-hiring-activity-7087097561198567424-2VBt) | Stage-specific explainer, 166/45 |
+| 2026-07-21 | 2 | [Beth McHugh (via elizabethswanson URL) — "truth about" post](https://www.linkedin.com/posts/elizabethswanson_fractional-consulting-productmanagement-activity-7303125603526864896-kJXC) | Vulnerable/myth-busting format works at smaller follower count |
+| 2026-07-21 | 2 | [Jason Knight — Ultimate Guide announcement](https://www.linkedin.com/posts/jason-knight_the-ultimate-guide-to-fractional-product-activity-7149840971495604224-J-qe) | Original long-form guide, 79/16 |
+| 2026-07-21 | 2 | [Nick Kenn — delivery best practices post](https://www.linkedin.com/posts/nick-kenn_as-a-fractional-cpo-ive-traditionally-activity-7288110728589283328-dUnl) | Personal observation format, moderate engagement |
+| 2026-07-21 | 2 | [Anna Divers — myth-busting FAQ post](https://www.linkedin.com/posts/annadivers_life-as-a-fractional-product-leader-activity-7146167586659987456-4h-e) | FAQ/myth-busting format |
+| 2026-07-21 | 2 | [Mark Stanton-Bennett — objectivity post](https://www.linkedin.com/posts/markstantonbennett_what-is-fractional-leadership-a-complete-activity-7369681479397699586-z7Kj) | Reflective value-add framing |
+| 2026-07-21 | 2 | [Meraj Imani — burnout series post](https://www.linkedin.com/posts/merajimani_meraj-imani-fractional-product-leader-activity-7374125411380879360-EzZO) | General leadership content, lower relevance/engagement |
+| 2026-07-21 | 2 | [Jonathon Hensley — pros/cons checklist post](https://www.linkedin.com/posts/jonathonhensley_should-you-hire-a-fractional-chief-product-activity-7115753951316045824-bJwS) | Generic checklist format, lowest engagement in sample |
+| 2026-07-21 | 2 | [Jonathon Hensley — resharing Knight's guide](https://www.linkedin.com/posts/jonathonhensley_the-ultimate-guide-to-fractional-product-activity-7150176111870558210-7In6) | Resharing others' content underperforms vs. original |
+| 2026-07-21 | 2 | [Doug Maxfield — CPO trend/stat post](https://www.linkedin.com/posts/douglasmaxfield_the-chief-product-officers-guide-to-ai-transformation-activity-7363254938212188161-vn96) | Stat-led hook without personal story underperforms |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
 section whose Last-researched date is 30+ days old is a candidate.*
 
 - [x] Research section 2 (Marketing Myself) — done 2026-07-21
+- [x] Real post analysis for section 2 (12 posts by practicing
+      fractional CPOs/VPs of Product) — done 2026-07-21
 - [ ] Research section 3 (Qualifying a Client) — screening questions
 - [ ] Research section 4 (Interview Prep)
 - [ ] Research section 5 (During-Engagement Best Practices)
@@ -233,3 +315,4 @@ section 1 repeatedly.*
 |---|---|---|---|---|
 | 2026-07-21 | 1 (Engagement Fundamentals) | General web search surfaced consistent, well-corroborated do/don't lists across fractional-exec-focused sites; one Japan-specific case study found | Rate data found was global, not Japan-specific; no Japan-specific fractional-*product* sources surfaced (consistent with the gap already logged in RECRUITERS.md) | Try angle: search LinkedIn posts/newsletters from people actually doing fractional Product work in Japan/APAC, not just agency-published guides |
 | 2026-07-21 | 2 (Marketing Myself) | Strong, specific, consistent findings across LinkedIn-strategy-focused sites (posting cadence, positioning specificity, case-study framing) — this topic is well-covered by existing content marketers targeting fractional execs as a niche | No Japan/APAC-specific LinkedIn-culture angle found (e.g. does the 3-5x/week cadence norm hold in a Japan-business-audience context, or is that a US-centric number) | Next section: 3 (Qualifying a Client), per Coverage-table row order. If revisiting section 2 later, check whether Japan-specific LinkedIn content norms exist |
+| 2026-07-21 | 2 (Marketing Myself — real post analysis) | WebFetch could pull full post text, reactions, comments, and comment content directly from public LinkedIn post URLs (no login wall hit for these 12) — found via `site:linkedin.com/posts` web search. Clear, consistent pattern emerged: dialogue/story format and debate-provoking claims outperform generic listicles and stat-led hooks by 5-30x on reactions | 2 of 12 posts had comments hidden behind a sign-in wall; sample skews toward posts that already surfaced in earlier searches (some author overlap with the secondary-source pass) | If redone: search by specific author handles known to post regularly (not just topic keywords) to reduce overlap, and try to find Japan/APAC-based fractional execs' posts specifically to check if the same format patterns hold in that market |
