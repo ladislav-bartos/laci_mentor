@@ -27,7 +27,7 @@ about what to do once you're in one or actually working.
 | 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
 | 5. During-Engagement Best Practices | Researched (initial pass) | 2026-07-21 |
 | 6. Ending an Engagement | Researched (initial pass) | 2026-07-21 |
-| 7. Running Multiple Engagements Concurrently | Seeded only | — |
+| 7. Running Multiple Engagements Concurrently | Researched (initial pass) | 2026-07-21 |
 | 8. Using AI as a Fractional Exec | Not started | — |
 | 9. Other Scenarios (gap list) | Ongoing brainstorm | 2026-07-21 |
 
@@ -484,12 +484,65 @@ moment to point to.
   and expected, not pushy.
 
 ## 7. Running Multiple Engagements Concurrently
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions: capacity/time-split norms (e.g. 60/40, 3 days + 2 days);
-conflict-of-interest management (competitors, overlapping ICPs — flagged
-briefly in section 1's sources); disclosure norms — do clients expect to
-know about the other engagement; scheduling/context-switching pitfalls.
+**Capacity norms found:**
+- Most successful fractional execs run **1–5 clients at once**; typical
+  load is **10–15 hrs/month per retainer** (range 5–20), so the *number*
+  of clients matters less than the *type* of engagement.
+- Advisory-only engagements need far fewer hours, so support more
+  simultaneous clients; action/implementation engagements (weekly
+  operating meetings, hands-on execution) eat much more time per client
+  and mean fewer clients at once. Given his stated differentiator is
+  execution over advice (section 1), he should budget for the
+  fewer-concurrent-clients end of this range, not assume he can run 4–5
+  advisory-style engagements at his committed hours.
+- Design capacity intentionally in advance — map dedicated time per
+  client across the week/month, with flexible buffer left over for
+  urgent items — rather than accepting engagements first and figuring
+  out the schedule after. Ties directly to section 1's ~60% bandwidth
+  cap: that's the *design*, this section is the *how* of actually
+  running it week to week.
+
+**Context-switching and scheduling pitfalls:**
+- The core risk isn't the number of clients, it's the switching cost:
+  each client needs a different mindset, priority set, and level of
+  detail — without deliberate time-blocking, dedicated communication
+  channels, and documented workflows per client, focus dilutes and
+  details get missed.
+- Availability gaps are a real risk: a client's sudden urgent moment
+  (e.g. a crisis or big decision point) can land exactly when he's
+  deep in another client's work — this is a genuine tradeoff of the
+  model, not a solvable-away problem, and worth being explicit about in
+  the qualifying conversation (section 3) rather than implying
+  always-on availability.
+- A deliberate "reset" routine between client contexts (even something
+  small — closing one client's docs/tools before opening the next) is
+  cited as what separates execs who stay fully engaged per client from
+  those whose output quality dilutes across clients.
+
+**Conflict of interest and disclosure:**
+- Two clients being competitors is *not automatically* disqualifying —
+  but if the rivalry is significant to either client, they may not
+  accept him serving both even on unrelated work. This is a judgment
+  call per relationship, not a blanket rule.
+- Adequate disclosure is the operative standard: give each client(actual
+  or prospective) enough information about his other engagements to make
+  an informed decision about proceeding — this can be handled
+  proactively via a general statement in the engagement agreement itself
+  (e.g. "I don't work exclusively for one company in a given market
+  sector") rather than needing a fresh disclosure conversation each time.
+- Where a genuine, serious conflict exists between two specific clients,
+  informed consent may not be obtainable at all — in that case the
+  right move is to decline one of the two, not attempt a workaround.
+
+**Applied to him:** his stated ~60% bandwidth cap (section 1) leaves
+room for roughly one more meaningful engagement, or a mix of one larger
+execution-heavy client plus lighter advisory work — consistent with the
+"action engagements support fewer concurrent clients" finding above,
+this argues for capacity-planning around 1–2 concurrent clients rather
+than the higher end of the 1–5 range once he's doing hands-on execution
+work, not just advisory.
 
 ## 8. Using AI as a Fractional Exec
 *Status: Not started*
@@ -574,6 +627,11 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 6 | [How a Fractional CTO Engagement Should End — Rational Partners](https://rational.partners/insights/how-fractional-cto-engagements-end) | Parallel-working handover to permanent hire, paid advisory-period norm |
 | 2026-07-21 | 6 | [7 hacks to asking for testimonials from freelance clients — Bonsai](https://www.hellobonsai.com/blog/how-to-ask-for-testimonials) | Timing (ask at close-out), concrete prompts vs. open-ended ask |
 | 2026-07-21 | 6 | [How to Get Powerful Consulting Testimonials and Case Studies — Consulting Success](https://www.consultingsuccess.com/consulting-testimonials) | Testimonial → referral-ask sequencing |
+| 2026-07-21 | 7 | [How to Manage Multiple Clients Effectively — fractionaljobs.io](https://www.fractionaljobs.io/help/how-to-manage-multiple-clients-effectively) | Capacity design, expectation-setting, never overcommitting time |
+| 2026-07-21 | 7 | [How Many Clients Should a Fractional CMO Have at Once? — breakthrough3x](https://blog.breakthrough3x.com/how-many-clients-should-a-fractional-cmo-have-at-once-capacity-factors-service-impact/) | 1-5 client range, hours/month per retainer, advisory-vs-action engagement-type impact on capacity |
+| 2026-07-21 | 7 | [Things to Consider Before Becoming a Fractional CIO — National CIO Review](https://nationalcioreview.com/articles-insights/career/things-to-consider-before-becoming-a-fractional-cio/) | Availability-gap risk, context-switching mindset cost |
+| 2026-07-21 | 7 | [Understanding the Fractional Executive Model — Umbrex](https://umbrex.com/resources/fractional-executive-playbook/understanding-the-fractional-executive-model/) | Reset-routine discipline between clients |
+| 2026-07-21 | 7 | [Rule 1.7: Conflict of Interest: General Rule — DC Bar](https://www.dcbar.org/for-lawyers/legal-ethics/rules-of-professional-conduct/client-lawyer-relationship/conflict-of-interest-general-rule) | Adequate-disclosure/informed-consent standard (adapted from legal-profession framing, not fractional-exec-specific) |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -589,7 +647,8 @@ section whose Last-researched date is 30+ days old is a candidate.*
 - [x] Research section 5 (During-Engagement Best Practices) — done
       2026-07-21
 - [x] Research section 6 (Ending an Engagement) — done 2026-07-21
-- [ ] Research section 7 (Running Multiple Engagements Concurrently)
+- [x] Research section 7 (Running Multiple Engagements Concurrently) —
+      done 2026-07-21
 - [ ] Research section 8 (Using AI as a Fractional Exec) — flagged as a
       real open question, not just a gap-filler
 - [ ] Japan-specific day-rate benchmarking — now flagged 3x (sections 1
@@ -612,3 +671,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 4 (Interview Prep — 90-day-plan deep dive, user-requested) | Found two genuinely concrete real-world examples (fractional CMO and fractional CTO) with actual hour allocations and phase deliverables, not just abstract advice — gave a template he can adapt rather than write from scratch | Both concrete examples were CMO/CTO, not Product-specific — had to adapt the shape (3-phase: diagnose/plan/prove) rather than finding a product-leadership-specific example | If revisited: search specifically for fractional CPO/VP Product 90-day-plan examples (not just CMO/CTO) to get a role-matched template instead of adapting from an adjacent function |
 | 2026-07-21 | 5 (During-Engagement Best Practices) | Found a concrete satisfaction stat (fixed-scope beats open-ended by ~35%) and a clear "validate and price it" scope-creep script that's directly usable; pipeline-cadence findings connected cleanly to section 1's bandwidth-cap principle already in the doc | Scope-creep sources were generic consulting advice, not fractional-exec-specific — had to adapt rather than find fractional-specific sourcing; no Japan-specific angle found or searched for this section | Next section: 6 (Ending an Engagement), per Coverage-table row order |
 | 2026-07-21 | 6 (Ending an Engagement) | Fractional-exec-specific offboarding content existed and was concrete (notice periods, report+handover split, "fade-out" failure mode named explicitly); testimonial-ask timing/framing had clear, actionable specifics | No Japan-specific angle searched for this section (e.g. whether Japanese business norms around ending an engagement/references differ); didn't find fractional-Product-specific offboarding content, only general fractional-exec sources | Next section: 7 (Running Multiple Engagements Concurrently), per Coverage-table row order |
+| 2026-07-21 | 7 (Running Multiple Engagements Concurrently) | Good concrete capacity/hours-per-client data (1-5 clients, 10-15 hrs/month norm) and a genuinely useful advisory-vs-action distinction that maps directly onto his own positioning; context-switching findings were consistent across sources | Conflict-of-interest search results skewed toward legal/CPA professional-ethics content rather than fractional-exec-specific guidance — had to adapt the "adequate disclosure" framing rather than finding it stated for this specific field | Section 8 (Using AI as a Fractional Exec) is next per Coverage-table row order — this is the last "Seeded/Not started" section, so after this pass all 9 sections have at least an initial pass and future runs shift to staleness-based (30+ day) refreshes, or the Japan-day-rate gap and section 9 promotions |
