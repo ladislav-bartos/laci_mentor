@@ -25,7 +25,7 @@ about what to do once you're in one or actually working.
 | 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
 | 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
 | 4. Interview Prep | Researched (2nd pass: +90-day-plan deep dive) | 2026-07-21 |
-| 5. During-Engagement Best Practices | Seeded only | — |
+| 5. During-Engagement Best Practices | Researched (initial pass) | 2026-07-21 |
 | 6. Ending an Engagement | Seeded only | — |
 | 7. Running Multiple Engagements Concurrently | Seeded only | — |
 | 8. Using AI as a Fractional Exec | Not started | — |
@@ -385,11 +385,54 @@ as a model — not to copy verbatim):**
   detail rather than treating the document itself as the deliverable.
 
 ## 5. During-Engagement Best Practices
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions: cadence for client feedback/check-ins; how to keep
-building the network and pipeline for the *next* engagement while
-already billing one; managing scope creep once inside.
+**Check-in cadence and communication:**
+- Set up weekly check-ins and transparent reporting from day one — a
+  shared view of goals/KPIs, not something introduced only once a
+  problem arises.
+- Beyond 1:1 check-ins, be part of the client's own recurring rhythm
+  (weekly leadership sync, cross-functional planning) rather than
+  running a parallel reporting track — integration into their existing
+  cadence, not a bolt-on process (ties to section 1's integration
+  finding).
+- Consolidate priorities/decisions/approvals into a single shared
+  document as the source of truth — prevents side-conversation scope
+  drift and conflicting assumptions building up silently.
+- Fixed-scope engagements with a defined operating cadence (weekly
+  rhythm, monthly review, quarterly checkpoint) reportedly outperform
+  open-ended retainers by ~35% on client-reported satisfaction — matches
+  section 1's "insist on real scope" finding, extended into the
+  during-engagement phase.
+
+**Keeping the pipeline alive while already billing:**
+- Block dedicated weekly time for business development even while
+  actively delivering — pipeline work reported as "a weekly habit, not
+  an afterthought"; skipping it while busy is the most-cited reason
+  fractional execs hit dry spells right after a contract ends.
+  Directly relevant to his own capacity-cap principle already in
+  section 1 (~60% bandwidth cap) — the unallocated ~40% is partly *for*
+  this.
+- Expect a lagging, lumpy pattern: "nothing, nothing, nothing, then
+  several clients arrive close together" as earlier pipeline work
+  matures — a quiet month isn't necessarily a signal something's wrong.
+- The repeated success pattern cited: visible positioning (LinkedIn,
+  per section 2) + direct outreach + one strong case study repeated
+  consistently in public — not passively waiting for inbound.
+
+**Handling scope creep:**
+- Prevent it at the source: have the explicit scope conversation at
+  kickoff (ties to section 1/3's "insist on real scope" — carry the same
+  discipline into delivery, not just qualifying), get it in writing, and
+  frame boundaries as protecting the engagement's success, not
+  resistance to the client's ideas.
+- When a client asks for something outside scope, don't flatly refuse —
+  validate the idea and price it: "Let's figure out what that would
+  take, so we can decide together" keeps him positioned as a partner
+  while still surfacing that added scope has a cost (time or fee).
+- A lightweight change-request habit (what's changing, what's the
+  impact, who approves it) makes casual scope-creep requests
+  self-limiting without needing a hard "no."
 
 ## 6. Ending an Engagement
 *Status: Seeded only — not yet researched*
@@ -479,6 +522,12 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 4 | [Free 30-60-90 Day Plan Template — Career Sidekick](https://careersidekick.com/90-day-plan-job-interview/) | Phase structure (learn/transition/deliver), quantification emphasis |
 | 2026-07-21 | 4 | [90-Day Plans for Fractional Leaders That Actually Work — Talha Fakhar, Medium](https://talhafakhar.medium.com/90-day-plans-for-fractional-leaders-that-actually-work-7c5b028f531c) | Concrete B2B SaaS fractional CMO example w/ hours + do's/don'ts list |
 | 2026-07-21 | 4 | [Fractional CTO Roadmap: First 30/60/90 Days — Tyson Martin](https://tysonmartin.com/fractional-cto-roadmap-first-90-days) | 2nd concrete example (Clarity/Planning/Control phases), "visible control not documentation" principle |
+| 2026-07-21 | 5 | [How to Package a Fractional Engagement: Scope, Cadence, Exit — pmguru.org](https://www.pmguru.org/insights/packaging-fractional-engagements/) | Operating-cadence structure, fixed-scope vs. open-ended satisfaction data |
+| 2026-07-21 | 5 | [How to Integrate a Fractional Executive Into Your Leadership Team — 5FT View Consulting](https://5ftview.com/fractional-executive-services/how-to-integrate-fractional-executive/) | Integration into existing client rhythm vs. parallel reporting track |
+| 2026-07-21 | 5 | [Why Some Fractional Leaders Never Struggle for Pipeline — fractionaljobs.io](https://www.fractionaljobs.io/blog/why-some-fractional-leaders-never-struggle-for-pipeline-and-how-to-become-one-of-them) | Weekly pipeline habit, lumpy/lagging client-arrival pattern |
+| 2026-07-21 | 5 | [Client Pipeline Kickstart — generatingpipeline.com](https://generatingpipeline.com/generating-pipeline-os/) | Visible positioning + outreach + repeated case study as the working pattern |
+| 2026-07-21 | 5 | [Mastering Scope Creep While Keeping Client Satisfied — Thoughtlab](https://thoughtlab.com/blog/mastering-scope-creep-say-no-to-extra-work-and-sti/) | Scope conversation at kickoff, boundary framing as protection not pushback |
+| 2026-07-21 | 5 | [How to Handle Scope Creep Without Hurting Client Relationships — Pursue The Passion](https://pursuethepassion.com/how-to-handle-scope-creep-without-hurting-client-relationships/) | "Validate and price it" language, lightweight change-request habit |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -491,7 +540,8 @@ section whose Last-researched date is 30+ days old is a candidate.*
 - [x] Research section 4 (Interview Prep) — done 2026-07-21
 - [x] 90-day-plan deep dive for section 4 (best practices, real
       examples, do/don't, include/leave-out) — done 2026-07-21
-- [ ] Research section 5 (During-Engagement Best Practices)
+- [x] Research section 5 (During-Engagement Best Practices) — done
+      2026-07-21
 - [ ] Research section 6 (Ending an Engagement)
 - [ ] Research section 7 (Running Multiple Engagements Concurrently)
 - [ ] Research section 8 (Using AI as a Fractional Exec) — flagged as a
@@ -514,3 +564,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 3 (Qualifying a Client) | Fractional-exec-specific vetting/qualifying-question content is a well-covered niche (multiple dedicated "questions to ask" articles); found a genuinely Japan-specific angle (cultural-intelligence-debt risk from compressed research) that ties directly to his actual ICP | Search results skewed toward client-side vetting advice ("how to vet a fractional exec") rather than exec-side qualifying advice — had to infer the exec's-side framing from client-side content in a few cases | Next section: 4 (Interview Prep), per Coverage-table row order. Could also revisit with an angle specifically for exec-side (not client-side) qualifying advice if this section is refreshed |
 | 2026-07-21 | 4 (Interview Prep) | Found a concrete, usable rate-derivation formula (salary÷220days×density multiplier) that gives him a defensible way to derive a number instead of guessing; 90-day-plan structure and evaluation criteria were consistent across sources | Rate reference data was Europe/UK only, not Japan — this is now the 3rd section (after 1 and this one) to hit the same Japan-day-rate gap, making it a higher-priority standalone item | Next section: 5 (During-Engagement Best Practices), per Coverage-table row order. The recurring Japan-rate gap across sections 1 and 4 is now worth its own dedicated research pass rather than a side note each time |
 | 2026-07-21 | 4 (Interview Prep — 90-day-plan deep dive, user-requested) | Found two genuinely concrete real-world examples (fractional CMO and fractional CTO) with actual hour allocations and phase deliverables, not just abstract advice — gave a template he can adapt rather than write from scratch | Both concrete examples were CMO/CTO, not Product-specific — had to adapt the shape (3-phase: diagnose/plan/prove) rather than finding a product-leadership-specific example | If revisited: search specifically for fractional CPO/VP Product 90-day-plan examples (not just CMO/CTO) to get a role-matched template instead of adapting from an adjacent function |
+| 2026-07-21 | 5 (During-Engagement Best Practices) | Found a concrete satisfaction stat (fixed-scope beats open-ended by ~35%) and a clear "validate and price it" scope-creep script that's directly usable; pipeline-cadence findings connected cleanly to section 1's bandwidth-cap principle already in the doc | Scope-creep sources were generic consulting advice, not fractional-exec-specific — had to adapt rather than find fractional-specific sourcing; no Japan-specific angle found or searched for this section | Next section: 6 (Ending an Engagement), per Coverage-table row order |
