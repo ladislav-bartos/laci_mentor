@@ -23,7 +23,7 @@ about what to do once you're in one or actually working.
 |---|---|---|
 | 1. Engagement Fundamentals | Researched (initial pass) | 2026-07-21 |
 | 2. Marketing Myself | Researched (2nd pass: +real post analysis) | 2026-07-21 |
-| 3. Qualifying a Client | Seeded only | — |
+| 3. Qualifying a Client | Researched (initial pass) | 2026-07-21 |
 | 4. Interview Prep | Seeded only | — |
 | 5. During-Engagement Best Practices | Seeded only | — |
 | 6. Ending an Engagement | Seeded only | — |
@@ -191,13 +191,59 @@ lean into for the LinkedIn content push, not "5 benefits of fractional
 leadership" style posts.
 
 ## 3. Qualifying a Client
-*Status: Seeded only — not yet researched*
+*Status: Researched (initial pass) — 2026-07-21*
 
-Open questions: what screening questions reveal whether a company
-actually has authority-to-hire vs. is "browsing"; how to detect scope
-vagueness early (before a bad-fit engagement starts); red flags specific
-to growth-stage-to-enterprise Japan/APAC clients (per his ICP in
-FACTS.md).
+**Core mindset:** a fractional executive is also evaluating the client,
+not just being evaluated — treat the discovery call as mutual
+qualification, not a one-sided pitch.
+
+**Questions to ask a prospective client:**
+- "Are you willing to let someone else actually make decisions in this
+  area?" — if the honest answer is no, they need an advisor/consultant,
+  not a fractional exec with real authority (ties to section 1's
+  authority-vs-advisory finding).
+- "What's the actual problem?" — push past a vague label ("help with
+  growth") to a specific problem statement ("we're not converting
+  trial-to-paid at the rate our funding model assumes"). If they can't
+  get specific, that's the scope-vagueness red flag from section 1
+  showing up at the qualifying stage.
+- "Do you want strategy, execution, or both?" — strategy-only leaves
+  them needing someone else to execute it; execution-only means no one's
+  building the infrastructure to sustain results after he leaves.
+- "What 3–5 metrics would tell you this engagement worked?" — if they
+  can't name any, they're not really positioned to manage the
+  engagement, regardless of budget.
+- Budget: don't lead with rate. Ask "what would solving this be worth to
+  you over the next 90 days?" — value-based framing anchors on their
+  quantified pain, not his day rate in isolation. If pushed for a number
+  first, "it depends on scope — tell me more about the project" buys
+  room to understand their budget and needs before anchoring.
+- Willing to say when he's the *wrong* fit — e.g. "if you're not ready
+  to give the product function real decision rights, this engagement
+  will fail" — signals selling outcomes, not selling himself, and is
+  itself a trust-building move in the qualifying conversation.
+
+**Red flags:**
+- Vague pricing structure, reluctance to give references, or promises
+  that sound too good to be true.
+- The role as actually offered turns out different from how it was
+  described during hiring — almost always an authority issue in
+  disguise (mirrors section 1: "advisory access dressed up as
+  authority").
+- Vague, buzzword-driven success criteria ("leadership," "global
+  mindset") instead of anchored strategic priorities — leads to
+  impression-driven, drifting evaluation of his own performance later.
+- Focus on short-term gains with no long-term strategic thinking, or an
+  inability/unwillingness to name 3–5 progress metrics.
+
+**Japan/APAC-specific angle found:** for Japan-market-entry clients
+specifically, the biggest cited risk is companies compressing the
+research/cultural-intelligence phase in pursuit of speed, paying a
+"cultural intelligence debt" later (missed deals, stalled enterprise
+pilots) — a useful qualifying question for his actual ICP: *"What
+research or cultural groundwork on the Japan market have you already
+done before this engagement?"* A client that's skipped this is higher
+risk regardless of budget/authority signals otherwise looking fine.
 
 ## 4. Interview Prep
 *Status: Seeded only — not yet researched*
@@ -287,6 +333,12 @@ revisited months later — content may have updated).*
 | 2026-07-21 | 2 | [Jonathon Hensley — pros/cons checklist post](https://www.linkedin.com/posts/jonathonhensley_should-you-hire-a-fractional-chief-product-activity-7115753951316045824-bJwS) | Generic checklist format, lowest engagement in sample |
 | 2026-07-21 | 2 | [Jonathon Hensley — resharing Knight's guide](https://www.linkedin.com/posts/jonathonhensley_the-ultimate-guide-to-fractional-product-activity-7150176111870558210-7In6) | Resharing others' content underperforms vs. original |
 | 2026-07-21 | 2 | [Doug Maxfield — CPO trend/stat post](https://www.linkedin.com/posts/douglasmaxfield_the-chief-product-officers-guide-to-ai-transformation-activity-7363254938212188161-vn96) | Stat-led hook without personal story underperforms |
+| 2026-07-21 | 3 | [How to Vet a Fractional Executive Before You Hire — Fractionus](https://fractionus.com/blog/how-to-vet-fractional-executive-before-you-hire) | Authority question, problem-statement specificity, strategy-vs-execution question |
+| 2026-07-21 | 3 | [10 Questions to Ask Before You Hire a Fractional Executive — Jessica Donahue](https://www.jessicadonahue.com/blog/10-questions-to-ask-before-you-hire-a-fractional-executive) | Fit/wrong-fit honesty as a trust signal |
+| 2026-07-21 | 3 | [Questions to Ask a Fractional Executive Before You Engage — 5FT View Consulting](https://5ftview.com/fractional-executive-services/questions-to-ask-fractional-executive) | Metrics-naming test (3-5 metrics) |
+| 2026-07-21 | 3 | [Fractional Consulting: The Comprehensive Guide for Consultants — Consulting Success](https://www.consultingsuccess.com/what-is-fractional-consulting-a-comprehensive-guide-for-consultants) | Value-based budget framing ("what would solving this be worth") |
+| 2026-07-21 | 3 | [Council Post: Fractional Executives Aren't Consultants — Forbes](https://www.forbes.com/councils/forbesbusinesscouncil/2026/03/31/fractional-executives-arent-consultants-heres-the-real-difference/) | Authority-to-hire signals, mutual-qualification mindset |
+| 2026-07-21 | 3 | [Executive Hiring Is Not an HR Event — Japan Intercultural Consulting](https://japanintercultural.com/free-resources/executive-hiring-is-not-an-hr-event-it-is-a-strategic-decision-why-japanese-companies-struggle-with-ad-hoc-executive-selection/) | Japan-specific: vague buzzword criteria, cultural-intelligence-debt risk from compressed research phase |
 
 ## To Do — Next Research
 *Living list — update after each research pass. Revisit monthly: any
@@ -295,7 +347,7 @@ section whose Last-researched date is 30+ days old is a candidate.*
 - [x] Research section 2 (Marketing Myself) — done 2026-07-21
 - [x] Real post analysis for section 2 (12 posts by practicing
       fractional CPOs/VPs of Product) — done 2026-07-21
-- [ ] Research section 3 (Qualifying a Client) — screening questions
+- [x] Research section 3 (Qualifying a Client) — done 2026-07-21
 - [ ] Research section 4 (Interview Prep)
 - [ ] Research section 5 (During-Engagement Best Practices)
 - [ ] Research section 6 (Ending an Engagement)
@@ -316,3 +368,4 @@ section 1 repeatedly.*
 | 2026-07-21 | 1 (Engagement Fundamentals) | General web search surfaced consistent, well-corroborated do/don't lists across fractional-exec-focused sites; one Japan-specific case study found | Rate data found was global, not Japan-specific; no Japan-specific fractional-*product* sources surfaced (consistent with the gap already logged in RECRUITERS.md) | Try angle: search LinkedIn posts/newsletters from people actually doing fractional Product work in Japan/APAC, not just agency-published guides |
 | 2026-07-21 | 2 (Marketing Myself) | Strong, specific, consistent findings across LinkedIn-strategy-focused sites (posting cadence, positioning specificity, case-study framing) — this topic is well-covered by existing content marketers targeting fractional execs as a niche | No Japan/APAC-specific LinkedIn-culture angle found (e.g. does the 3-5x/week cadence norm hold in a Japan-business-audience context, or is that a US-centric number) | Next section: 3 (Qualifying a Client), per Coverage-table row order. If revisiting section 2 later, check whether Japan-specific LinkedIn content norms exist |
 | 2026-07-21 | 2 (Marketing Myself — real post analysis) | WebFetch could pull full post text, reactions, comments, and comment content directly from public LinkedIn post URLs (no login wall hit for these 12) — found via `site:linkedin.com/posts` web search. Clear, consistent pattern emerged: dialogue/story format and debate-provoking claims outperform generic listicles and stat-led hooks by 5-30x on reactions | 2 of 12 posts had comments hidden behind a sign-in wall; sample skews toward posts that already surfaced in earlier searches (some author overlap with the secondary-source pass) | If redone: search by specific author handles known to post regularly (not just topic keywords) to reduce overlap, and try to find Japan/APAC-based fractional execs' posts specifically to check if the same format patterns hold in that market |
+| 2026-07-21 | 3 (Qualifying a Client) | Fractional-exec-specific vetting/qualifying-question content is a well-covered niche (multiple dedicated "questions to ask" articles); found a genuinely Japan-specific angle (cultural-intelligence-debt risk from compressed research) that ties directly to his actual ICP | Search results skewed toward client-side vetting advice ("how to vet a fractional exec") rather than exec-side qualifying advice — had to infer the exec's-side framing from client-side content in a few cases | Next section: 4 (Interview Prep), per Coverage-table row order. Could also revisit with an angle specifically for exec-side (not client-side) qualifying advice if this section is refreshed |
