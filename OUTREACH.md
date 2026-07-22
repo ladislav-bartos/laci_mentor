@@ -127,6 +127,50 @@ continue.
 > feelings either way. Happy to find a time this week or next if you're
 > open to it.
 
+### 6. LinkedIn Service Marketplace — Deliverable-Scoped Coaching, Intro-Call-First (experimental)
+*Use when:* the marketplace request asks for a bounded deliverable (a
+60-day plan, a 360-degree review) rather than open-ended coaching, and
+key scoping questions are unanswered (does the client want to create the
+deliverable themselves with input, or have the coach build it? is this
+really a one-off or will it turn into ongoing coaching?). Added
+2026-07-22 after a request from Sutirtha Prakash (career transition,
+targeting AI/product-strategy/digital-transformation leadership roles).
+Unlike template 5 (Sara — clearly ongoing coaching, so a trial-then-
+hourly structure could be proposed directly), here the ask itself is
+ambiguous enough that pricing/structure can't be honestly proposed yet —
+so the message asks for a short intro call instead of quoting terms.
+
+**Positioning note (correction from an earlier draft):** don't call out
+specific tactics/methods as a selling point (reads as gimmicky) — instead
+cite genuine lived experience: repeatedly having to do this exact
+exercise (rapid strengths/gaps assessment, 60-90 day plans) when moving
+into new companies/roles (DAZN, Rakuten, Indeed, Amazon).
+
+**Drafted message (sent 2026-07-22 — see Response Log for outcome):**
+
+> Hi Sutirtha — thanks for sharing this, and congrats on juggling the
+> IndianOil transformation project and OmnaCore alongside the transition.
+>
+> This kind of work is genuinely familiar to me — every time I've moved
+> into a new company or role (DAZN, Rakuten, Indeed, Amazon), I've had to
+> do exactly this: quickly figure out my own strengths and gaps, build a
+> 60-90 day plan, and make sure I deliver what's expected of me from day
+> one. So the 60-day-plan / 360-review exercise is something I've lived
+> repeatedly, not just coached from the outside.
+>
+> Before proposing anything specific, I think it's worth a short intro
+> call — a few things would shape how I could actually help: are you
+> looking for an ongoing coaching relationship, or specifically a 60-day
+> plan / 360 review as a one-off deliverable? And if it's the latter, do
+> you want to build it yourself with my input, or would you rather I put
+> it together based on what I learn about your situation? The right
+> approach — and the right way to structure fees — really depends on
+> those answers.
+>
+> Happy to find 20-30 min this week or next if useful — no commitment
+> either way, just want to make sure I'm actually the right fit before we
+> figure out next steps.
+
 ## Future idea: Free Value-First Offer — AI-Maturity Mini-Session
 *Captured 2026-07-17, not yet active — needs the question-set research
 task done first (see SPRINT.md). Not part of the current 4 templates
@@ -180,4 +224,5 @@ based on real signal rather than guesswork.
 | Date sent | Contact / Company | Role Type | Template used | Response (Y/N) | Notes |
 |---|---|---|---|---|---|
 | 2026-07-22 | Sara Al-Attas / Riyad Bank | N/A (marketplace lead, off-ICP) | 5. Service Marketplace Coaching Proposal | Pending | Experimental — practice/skill-building framing, not a core-ICP lead. Update this row once she replies |
+| 2026-07-22 | Sutirtha Prakash | N/A (marketplace lead, off-ICP but strong subject-matter overlap) | 6. Service Marketplace Deliverable-Scoped Coaching, Intro-Call-First | Pending | Career transition, targeting AI/product-strategy/digital-transformation leadership roles — asked for intro call rather than quoting terms since scope (deliverable vs. ongoing; who builds it) is unresolved |
 | | | | | | |
