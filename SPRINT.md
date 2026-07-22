@@ -23,7 +23,28 @@ that day.
 - [ ] Send first outreach batch (5 messages) via `/draft-outreach` — to
       **Connectors**, deliberately as a warm-up rep before Warm Buyers
       next sprint (see FACTS.md 2026-07-17 refinement)
-- [ ] Register with 2–3 agencies/platforms from `RECRUITERS.md`
+- [ ] Register with 2–3 agencies/platforms from `RECRUITERS.md` — pushed
+      out from today 2026-07-22: mid-registration with Robert Walters
+      Japan, realized the CV doesn't reflect finalized LinkedIn
+      positioning (missing "Fractional/Interim" framing and the
+      Transformation pillar) — CV now rebuilt (see task below), ready to
+      resume registration; still need to decide the specialization
+      dropdown pick (leaning "Product data & design", vs. "Technology &
+      digital" or "C-suite & executive search" — genuinely ambiguous,
+      user's call)
+- [x] Rebuild CV to reflect finalized LinkedIn positioning (new, added
+      2026-07-22) — done 2026-07-22: reviewed 4 existing CV files found
+      in `uploads/private/` (v1 technical-framing, v2 growth-framing
+      draft, v3 "tripla_VPoP" growth-complete — the strongest of the
+      three, and its PDF export), archived v1/v2 to
+      `uploads/private/cv-archive/`, built v4 on top of v3's content:
+      explicit "Fractional/Interim" framing + a two-pillar Growth/
+      Transformation structure matching FACTS.md's positioning (no new
+      achievements invented — existing Rakuten/Amazon bullets were
+      already Transformation evidence, just unlabeled before). See
+      `uploads/private/CV_v4_fractional-interim-growth-transformation.docx`.
+      No local PDF export tool available (no pdflatex/LibreOffice) — user
+      to export PDF via Google Docs before submitting
 - [ ] Decide chamber membership + which event(s) to target and when
       (from `EVENTS.md`)
 - [ ] Research LinkedIn post topics/content ideas (build a short running
