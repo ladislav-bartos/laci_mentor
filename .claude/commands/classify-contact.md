@@ -1,6 +1,7 @@
 ---
 description: Classify a CRM contact's Target Fit (vs Ideal Contact Profile) and Role Type (Buyer/Connector/Neither), for the LinkedIn bulk pass or new contacts as they're added
 argument-hint: [one contact's name/title/company, a list of several, or a path to an exported CSV]
+model: claude-haiku-4-5-20251001
 ---
 
 On-demand contact classification. Purpose: apply the CRM's Target Fit and

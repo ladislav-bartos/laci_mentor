@@ -1,6 +1,7 @@
 ---
 description: Quick-capture dictated notes/updates into INBOX.md, then commit once done
 argument-hint: [optional first note text]
+model: claude-haiku-4-5-20251001
 ---
 
 Quick-capture mode. Purpose: let the user dictate one or more short updates
