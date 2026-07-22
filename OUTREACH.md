@@ -83,6 +83,50 @@ context introduction instead.
 > your network scaling a team out here. Happy to do a quick call if
 > useful, no pressure either way.
 
+### 5. LinkedIn Service Marketplace — Coaching Proposal (experimental)
+*Use when:* an inbound LinkedIn Service Marketplace request is off-ICP for
+the core fractional VP of Product offer, but genuinely aligns with a real
+personal strength/interest and is structured as low-risk (a free trial
+before any money changes hands). Added 2026-07-22 after a marketplace
+request from Sara Al-Attas (Head of Strategy, Riyad Bank) asking for
+coaching on org politics, leadership presence, and career momentum.
+Rationale: the user has mentored ~5 mentees (~4/5 women) on building
+leadership strength/confidence, with a good track record — this isn't
+really an exception to the ICP rules, it's the same "treat a first
+attempt as low-stakes practice" pattern already used for outreach,
+applied to a new opportunity type; worthwhile now specifically because of
+current spare capacity, and would be reconsidered if that capacity
+disappears (per the user, 2026-07-22).
+
+**Structure:** honest, short message; two-part focus (confidence/strength
+to execute strategy first, day-to-day AI-assisted effectiveness second);
+first 1-2 sessions free as a mutual trial, then $100/hr if she wants to
+continue.
+
+**Drafted message (sent 2026-07-22 — see Response Log for outcome):**
+
+> Hi Sara — saw your request for support on navigating organizational
+> politics, building leadership presence, and gaining momentum in your
+> role. This isn't my main focus (I come from a 20-year product-
+> management background — most recently DAZN, Rakuten, Indeed), but I've
+> spent a lot of that time mentoring people stepping into bigger
+> leadership roles, and most of my mentees have been women navigating
+> exactly this kind of challenge.
+>
+> What I've found matters most isn't the strategy itself — most senior
+> leaders already know good strategy when they see it — it's the
+> confidence and strength to actually execute it under pressure, in the
+> middle of organizational politics. That's where I'd focus first.
+> Second, I'd also bring in a practical layer most coaches won't: how to
+> use AI day-to-day to make yourself sharper, faster, and more confident
+> in the moment, not just as a strategy tool.
+>
+> If that sounds useful: I'd suggest starting with one or two sessions,
+> no charge, so we can both see if it's a good fit. If it is and you'd
+> like to continue, my rate after that is $100/hr. If not, no hard
+> feelings either way. Happy to find a time this week or next if you're
+> open to it.
+
 ## Future idea: Free Value-First Offer — AI-Maturity Mini-Session
 *Captured 2026-07-17, not yet active — needs the question-set research
 task done first (see SPRINT.md). Not part of the current 4 templates
@@ -135,4 +179,5 @@ based on real signal rather than guesswork.
 
 | Date sent | Contact / Company | Role Type | Template used | Response (Y/N) | Notes |
 |---|---|---|---|---|---|
+| 2026-07-22 | Sara Al-Attas / Riyad Bank | N/A (marketplace lead, off-ICP) | 5. Service Marketplace Coaching Proposal | Pending | Experimental — practice/skill-building framing, not a core-ICP lead. Update this row once she replies |
 | | | | | | |

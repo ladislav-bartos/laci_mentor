@@ -43,10 +43,22 @@ that day.
 - [ ] Research event communication best practices — a reusable prep
       checklist: what to talk about, how to present yourself, who to
       talk to, usable before any event regardless of its specific focus
-- [ ] Review 2 inbound LinkedIn Service requests (Rushikesh M., Sara
+- [x] Review 2 inbound LinkedIn Service requests (Rushikesh M., Sara
       Al-Attas — both received 2026-07-22) and decide reply/no-reply on
       each; build a reusable decision rule/checklist for future inbound
-      service requests (new, added 2026-07-22)
+      service requests (new, added 2026-07-22) — done 2026-07-22: these
+      are marketplace-posted requests, not direct messages, so there's
+      nothing to "decline" — the choice is whether to submit a proposal.
+      Rushikesh: skip, no proposal (off-service-line, non-buyer). Sara:
+      proposal drafted and sent — see `OUTREACH.md` template 5 and its
+      Response Log
+- [ ] Research LinkedIn Service Marketplace — how requests/proposals
+      actually work (visibility, notifications, pricing), best practices
+      (do/don't), and review which service categories are selected
+      against who actually gets recommended (to reduce false-positive
+      leads like Rushikesh); build a new living doc `SERVICE_MARKETPLACE.md`
+      following the `EVENTS.md`/`RECRUITERS.md` pattern (new, added
+      2026-07-22 — may carry to next sprint, not urgent)
 
 ### Recurring
 - [ ] Daily: 30 min+ N2 study (drills, Anki, weekly conversation topic)
