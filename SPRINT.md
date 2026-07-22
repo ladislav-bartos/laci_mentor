@@ -38,6 +38,10 @@ that day.
 - [ ] Research event communication best practices — a reusable prep
       checklist: what to talk about, how to present yourself, who to
       talk to, usable before any event regardless of its specific focus
+- [ ] Review 2 inbound LinkedIn Service requests (Rushikesh M., Sara
+      Al-Attas — both received 2026-07-22) and decide reply/no-reply on
+      each; build a reusable decision rule/checklist for future inbound
+      service requests (new, added 2026-07-22)
 
 ### Recurring
 - [ ] Daily: 30 min+ N2 study (drills, Anki, weekly conversation topic)
@@ -86,4 +90,4 @@ that day.
   Nothing else planned yet.
 
 ## Blocked / Waiting
-- (none — LinkedIn export landed in email 2026-07-21, download pending)
+- (none — LinkedIn export resubmitted 2026-07-21, landed in email 2026-07-22, download pending)

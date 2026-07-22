@@ -12,9 +12,3 @@ Facts, ideas, tasks, questions — no formatting needed. Claude routes each item
 ## 2026-07-17
 
 ## 2026-07-21
-- Completed the research for fractional jobs and completed the research
-  for the LinkedIn posts. Also completed all Japanese-language-related
-  tasks, which includes the daily chapters, the drill, the conversation
-  part, and the Anki part.
-- LinkedIn data export: had to resubmit the request, waiting on it
-  again.

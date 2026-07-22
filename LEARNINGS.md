@@ -153,6 +153,15 @@
   (marketing, qualifying, interviewing, during, ending, multi-engagement,
   AI-usage disclosure norms).
 
+- 2026-07-22: LinkedIn Premium/Services (signed up 07-21) started sending
+  inbound service-request leads via marketplace matching. First 2 (a
+  junior non-buyer wanting dashboard work; a senior but off-geography/
+  off-service-line coaching request) were both clear ICP mismatches —
+  suggests the matching is firing on broad selected service categories
+  rather than the actual fractional VP of Product/Growth & Transformation
+  positioning. Building a decision rule for future inbound requests
+  rather than evaluating each ad hoc.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and

@@ -111,6 +111,13 @@
   Connectors (not a buyer, but know buyers — ex-colleagues, recruiters,
   VC/accelerator staff, other fractional execs, board members/advisors);
   each gets a different outreach message (see OUTREACH.md)
+- Signed up for LinkedIn Premium/Services (2026-07-21), which enables
+  receiving inbound "service request" leads from LinkedIn's marketplace
+  matching. First 2 requests received 2026-07-22 were both ICP mismatches
+  (junior non-buyer requesting dashboard work; senior but off-geography/
+  off-service-line coaching request) — signal that selected service
+  categories may be too broad; a decision rule for handling these is being
+  built (see LEARNINGS.md 2026-07-22)
 - LinkedIn Sales Navigator deliberately deferred — not paying for it until
   the warm-outreach messaging approach is proven; revisit once conversion
   is validated

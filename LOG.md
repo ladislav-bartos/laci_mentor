@@ -1,5 +1,22 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-22 (Wed) — Sprint 2, Day 2
+- Inbox: confirmed 07-21 completions (contracting research, LinkedIn
+  post-topics research, all Japanese tasks) folded into yesterday's log;
+  LinkedIn export resubmission resolved — email landed today, download
+  still pending (no longer blocked)
+- New: signed up for LinkedIn Premium/Services 07-21, which surfaced 2
+  inbound service-request leads today (Rushikesh M. — dashboard work,
+  junior non-buyer; Sara Al-Attas — off-geography/off-service-line
+  coaching request). Both look like ICP mismatches from broad service
+  categories; decision + reusable rule deferred to today's task list
+  rather than resolved live in standup
+- Today's picks: (1) download LinkedIn export + bulk `/classify-contact`
+  pass on ~7,990 contacts, (2) review the 2 inbound service requests,
+  decide reply/no-reply, and build a reusable decision rule, (3)
+  register with exactly 1 agency/platform from RECRUITERS.md
+- No blockers
+
 ## 2026-07-21 (Tue) — Sprint 2, Day 1
 - Inbox: cleared a stray leftover note from 2026-07-17 (Japanese activities
   completed) — no longer actionable, discarded per user
