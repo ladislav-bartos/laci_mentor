@@ -13,8 +13,13 @@ Treat this as a full week's worth of candidate tasks to pick from, not a
 rigid quota — pick 1–3 at each daily standup, per your actual capacity
 that day.
 
-- [ ] Bulk `/classify-contact` pass on the remaining ~7,990 LinkedIn
-      contacts once the export lands (Tue pickup)
+- [x] Bulk `/classify-contact` pass on the remaining ~7,990 LinkedIn
+      contacts once the export lands (Tue pickup) — done 2026-07-22:
+      8,025 contacts classified (10 batches), Buyer-overclassification
+      bug found and corrected across all batches (final: 4 real Buyers,
+      6,757 Connectors, 1,261 Neither), merged into a tiered priority
+      list — see `uploads/private/crm-priority-list-2026-07-22.csv`,
+      ready to import into the CRM Google Sheet as a new tab
 - [ ] Send first outreach batch (5 messages) via `/draft-outreach` — to
       **Connectors**, deliberately as a warm-up rep before Warm Buyers
       next sprint (see FACTS.md 2026-07-17 refinement)
@@ -63,8 +68,9 @@ that day.
 - [ ] Follow up on replies from batch 1 outreach / recruiter registrations
 - [ ] Attend or RSVP to the event decided on in Sprint 2
 - [ ] Chamber membership signup, if decided worth it in Sprint 2
-- [ ] Spot-check/quality-pass the bulk Target Fit/Role Type classification
-      output
+- [ ] Import the "LinkedIn Bulk Import" tab into the CRM Google Sheet and
+      spot-check a sample of each Priority Tier (esp. Tier 1's 4 Buyers)
+      before treating the list as ready for outreach
 - [ ] Research/design the branching question set for the free AI-maturity
       mini-session offer (~3 base questions, expanding per answer, not
       linear) — see OUTREACH.md's "Free Value-First Offer" section.
@@ -90,4 +96,4 @@ that day.
   Nothing else planned yet.
 
 ## Blocked / Waiting
-- (none — LinkedIn export resubmitted 2026-07-21, landed in email 2026-07-22, download pending)
+- (none — LinkedIn export downloaded and fully classified 2026-07-22)

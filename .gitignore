@@ -1,0 +1,3 @@
+# Private uploads (PII, raw exports — never committed)
+uploads/private/*
+!uploads/private/.gitkeep

@@ -162,6 +162,27 @@
   positioning. Building a decision rule for future inbound requests
   rather than evaluating each ad hoc.
 
+- 2026-07-22: Bulk `/classify-contact` pass on the ~8,600-contact LinkedIn
+  export — approach: split into a 300-row first batch (run inline,
+  spot-check-ready) plus 9 background batches of up to 1,000 rows each,
+  each a separate Haiku-4.5 subagent reading its own line range and
+  writing its own output CSV to `uploads/private/` (never committed —
+  contains names). Rubric refinements made permanent in
+  `.claude/commands/classify-contact.md` rather than re-derived per batch:
+  job-board/recruitment-platform/staffing-agency employers (Indeed,
+  YOUTRUST, Findy, Robert Half, etc.) get Target Fit N but Role Type
+  Connector; ex-colleagues at Indeed/Rakuten/Amazon/DAZN default to
+  Connector as a real relationship rather than the generic LinkedIn-only
+  default; fully blank export rows are skipped, not classified.
+  Batching by line-range + parallel subagents kept this from being a
+  single giant serial task; see the first-batch breakdown in this
+  session's minutes for a preview of patterns worth expecting: very few
+  Buyers surface from a cold mass export (LinkedIn-only defaults to
+  Connector), a large chunk of Target-Fit-N rows are recruiting/staffing
+  agencies (still valuable as Connectors), and a visible ex-Indeed-
+  colleague cluster and a quantum-computing-event cluster stood out as
+  identifiable sub-groups within the network.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and

@@ -16,6 +16,30 @@
   decide reply/no-reply, and build a reusable decision rule, (3)
   register with exactly 1 agency/platform from RECRUITERS.md
 - No blockers
+- (cont.) Built `MODELS.md` — cost-conscious model-selection guide;
+  pinned `classify-contact` and `add-note` to Haiku 4.5 in their command
+  frontmatter (mechanical/high-volume, spot-checked anyway), left
+  standup/adhoc/review/draft-outreach/research-* on Sonnet 5 default
+- (cont.) Set up `uploads/private/` (gitignored) and `uploads/shared/`
+  folders for file uploads containing PII vs. safe-to-commit content
+- (cont.) Bulk `/classify-contact` pass completed on the full ~8,600-row
+  LinkedIn export: 8,025 contacts classified across 1 inline batch (300
+  rows) + 9 parallel Haiku background batches (up to 1,000 rows each).
+  Found and corrected a real bug — several batches ignored the "LinkedIn-
+  only defaults to Connector, not Buyer" rule and title-matched instead,
+  producing Buyer rates from 1% to 39% depending on batch. Ran a
+  correction pass on every batch (2026-07-22 refinements made permanent
+  in `classify-contact.md`); final result: 4 real Buyers (all with
+  ex-colleague or explicit country-manager evidence), 6,757 Connectors,
+  1,261 Neither. Also caught and fixed a Target-Fit-Y=0 anomaly in one
+  batch (too conservative) during the same pass
+- (cont.) Merged all batches into a tiered priority list —
+  `uploads/private/crm-priority-list-2026-07-22.csv` — Tier 1 Buyers (4),
+  Tier 2 ex-colleague Connectors (281), Tier 3 facilitator-function
+  Connectors (818), Tier 4 cold-but-Target-Fit-Y Connectors (1,051),
+  Tier 5 everything else (4,607); Neither excluded. Formatted to match
+  the CRM Google Sheet's existing columns plus a new Priority Tier
+  column, ready to import as a new "LinkedIn Bulk Import" tab
 
 ## 2026-07-21 (Tue) — Sprint 2, Day 1
 - Inbox: cleared a stray leftover note from 2026-07-17 (Japanese activities
