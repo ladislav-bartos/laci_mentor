@@ -154,3 +154,19 @@
   something is new to him (e.g. researching how fractional/interim
   contracting actually works before starting to contract; researching
   event communication norms before attending networking events)
+- Mentoring background (surfaced 2026-07-22): has mentored ~5 mentees,
+  ~4/5 of them women, with a good track record helping them build
+  leadership strength/confidence and execute career strategy. Also has
+  repeated first-hand experience with rapid strengths/gaps assessment and
+  60-90 day plans from moving into new companies/roles (DAZN, Rakuten,
+  Indeed, Amazon)
+- Policy (2026-07-22): off-ICP inbound LinkedIn Service Marketplace
+  requests (coaching, etc.) are worth engaging as low-stakes practice/
+  skill-building *when they genuinely align with a real strength* (e.g.
+  the mentoring background above), contingent on currently having spare
+  capacity — revisit this policy if that capacity disappears. When
+  pitching, cite genuine lived experience, not a named tactic/method (a
+  named technique reads as gimmicky). If the requester's ask is a bounded
+  deliverable with unclear scope (e.g. "60-day plan" vs. "360 review,"
+  unclear who builds it), propose a short intro call rather than quoting
+  terms/pricing upfront — see `OUTREACH.md` templates 5 and 6

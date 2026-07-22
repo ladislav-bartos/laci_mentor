@@ -40,6 +40,26 @@
   Tier 5 everything else (4,607); Neither excluded. Formatted to match
   the CRM Google Sheet's existing columns plus a new Priority Tier
   column, ready to import as a new "LinkedIn Bulk Import" tab
+- (cont.) Corrected an earlier misunderstanding of the 2 inbound LinkedIn
+  Service Marketplace requests — they're posted listings, not direct
+  messages, so there's nothing to decline. Rushikesh: skipped, no
+  proposal (off-service-line, non-buyer). Sara: reconsidered after
+  pushback — her ask aligns with a real mentoring strength (surfaced and
+  filed to FACTS.md), so a trial-then-$100/hr coaching proposal was
+  drafted and sent (`OUTREACH.md` template 5)
+- (cont.) Started Robert Walters Japan registration, but found the CV
+  never adopted the finalized LinkedIn positioning (no "Fractional/
+  Interim" framing, Growth-only, missing the Transformation pillar) —
+  paused registration, reviewed 4 existing CV files (archived 2 outdated
+  versions to `uploads/private/cv-archive/`), rebuilt a v4 CV closing
+  both gaps. Registration itself pushed to tomorrow; specialization
+  dropdown choice still open (leaning "Product data & design")
+- (cont.) Second inbound marketplace request (Sutirtha Prakash) reviewed
+  — stronger fit than Sara's since the ask (positioning himself for AI/
+  product-strategy/digital-transformation leadership roles) is literally
+  the user's own domain. Scope is ambiguous (deliverable vs. ongoing;
+  who builds it), so drafted an intro-call-first message instead of
+  quoting terms (`OUTREACH.md` template 6)
 
 ## 2026-07-21 (Tue) — Sprint 2, Day 1
 - Inbox: cleared a stray leftover note from 2026-07-17 (Japanese activities

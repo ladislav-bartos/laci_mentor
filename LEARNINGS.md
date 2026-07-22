@@ -183,6 +183,26 @@
   colleague cluster and a quantum-computing-event cluster stood out as
   identifiable sub-groups within the network.
 
+- 2026-07-22: Positioning materials drift out of sync across surfaces —
+  LinkedIn's headline/About were finalized 2026-07-14, but the CV never
+  got the same update (found mid-registration with Robert Walters Japan:
+  the CV read as a full-time-exec, growth-only document, missing both the
+  "Fractional/Interim" framing and the Transformation half of the
+  positioning). Worth periodically auditing every public-facing material
+  (CV, LinkedIn, any one-pager) against the single source of truth
+  positioning statement rather than assuming an update to one propagates.
+- 2026-07-22: For off-ICP inbound coaching requests (LinkedIn Service
+  Marketplace), citing a specific named tactic/method as a selling point
+  (e.g. "my job-posting reverse-engineering method") reads as gimmicky —
+  citing genuine lived, repeated experience (e.g. "I've done exactly this
+  60-day-plan exercise every time I've moved into a new company") lands
+  better and is more honest about what's actually being offered.
+- 2026-07-22: When a marketplace coaching request's scope is ambiguous
+  (deliverable vs. ongoing relationship; unclear who actually produces
+  the deliverable), propose a short intro call instead of quoting
+  pricing/structure upfront — quoting terms for an unscoped ask is
+  guessing, and the call itself is low-cost.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
