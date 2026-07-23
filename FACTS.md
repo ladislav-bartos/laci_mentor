@@ -133,7 +133,13 @@
   low-commitment ask (a call, an intro) rather than "hire me" directly
 
 ## Working Preferences
-- 2–3 focused hours per weekday for study + career building
+- Refined 2026-07-23 — weekday capacity floor: 2 focused hours/day (1h
+  Japanese + 1h career-related). Actual time is often higher (has been
+  running 2–3h Japanese + 2–3h career recently, using AI heavily to speed
+  up research), but the floor is the planning baseline, not a target to
+  round up to. Regardless of hours available, cap at 3 tasks/day. Japanese
+  currently feels like the top priority (fluency seen as crucial for
+  future roles) but the exact daily split may keep changing
 - Daily conversational standups + weekly sprints (Friday review/planning)
 - Wants reasoning behind every recommendation; confirm assumptions, never assume
 - Networking: minimum 2 events/month, target 1/week, day or evening

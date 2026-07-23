@@ -1,5 +1,25 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-23 (Thu) — Sprint 2, Day 3
+- Inbox: empty, nothing to process
+- Retroactive fix: yesterday's Japanese study completion wasn't logged in
+  the 07-22 entry — confirmed done, noted here. Also confirmed 07-21's
+  LinkedIn-post-topics research and interim/fractional-contracting
+  research were completed but never checked off in SPRINT.md — checked
+  off now
+- Capacity clarified — actual pace has been running 2–3h/day Japanese +
+  2–3h/day career (AI-assisted research speeding things up), above the
+  documented "2–3 hours/day total" constraint. Decided not to raise the
+  documented floor to match: new floor is 2h/day (1h Japanese + 1h
+  career), extra hours are bonus capacity, and daily task count capped at
+  3 regardless of hours available. Updated CLAUDE.md and FACTS.md
+- Today's picks: (1) complete Robert Walters registration (resuming with
+  the new CV), (2) send first outreach batch (5 messages) to Connectors
+  via `/draft-outreach`, (3) decide chamber membership + which event(s)
+  to target, plus a quick (4) review/reply to inbound LinkedIn service
+  request(s), not counted against the 3-task cap
+- No blockers
+
 ## 2026-07-22 (Wed) — Sprint 2, Day 2
 - Inbox: confirmed 07-21 completions (contracting research, LinkedIn
   post-topics research, all Japanese tasks) folded into yesterday's log;

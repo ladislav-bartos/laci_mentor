@@ -203,6 +203,15 @@
   pricing/structure upfront — quoting terms for an unscoped ask is
   guessing, and the call itself is low-cost.
 
+- 2026-07-23: Capacity clarified — actual recent pace has been running
+  2–3h/day Japanese + 2–3h/day career (using AI heavily to speed up
+  research), well above CLAUDE.md's stated "2–3 hours/day" total. Rather
+  than raise the documented floor to match the higher pace, user set the
+  floor deliberately low (2h/day: 1h Japanese + 1h career) with extra
+  hours treated as bonus capacity, and capped daily task assignment at 3
+  regardless of hours available — avoids planning that assumes the higher
+  pace holds every day. CLAUDE.md and FACTS.md updated accordingly.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and

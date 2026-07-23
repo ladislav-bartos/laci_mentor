@@ -77,6 +77,9 @@ If a strategy decision conflicts with this repo's files, flag it to me — the n
 
 - No HR-tech, job-board, or recruitment-platform clients before April 2027
 - No full-time employment before April 2027 (garden leave terms)
-- Weekday capacity: 2–3 focused hours/day. Do not overplan
+- Weekday capacity floor: 2 focused hours/day (1h Japanese + 1h
+  career-related). More hours are often available and welcome, but never
+  assign more than 3 tasks/day regardless of hours available — refined
+  2026-07-23, replaces the earlier flat "2–3 hours/day" framing
 - Which legal entity (JP vs UK company) invoices which client = accountant question,
   never decide this for me
