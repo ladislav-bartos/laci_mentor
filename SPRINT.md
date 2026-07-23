@@ -83,9 +83,14 @@ that day.
       leads like Rushikesh); build a new living doc `SERVICE_MARKETPLACE.md`
       following the `EVENTS.md`/`RECRUITERS.md` pattern (new, added
       2026-07-22 — may carry to next sprint, not urgent)
-- [ ] Review incoming LinkedIn service request(s), reply if appropriate —
+- [x] Review incoming LinkedIn service request(s), reply if appropriate —
       today's pick 2026-07-23, quick task (not counted against the 3-task
-      cap)
+      cap) — done 2026-07-23: 2 new requests (George Sanare — VA, vague
+      goal-clarification ask, off-fit; Asad Aftab — 60-day-plan/leadership
+      ask, otherwise on-fit but tagged "Open to Work") — both skipped, no
+      proposal. "Open to Work" flagged as a possible new red-flag signal
+      (job-seeker, not a paying business) worth folding into the
+      SERVICE_MARKETPLACE.md decision-rule research
 
 ### Recurring
 - [ ] Daily: 30 min+ N2 study (drills, Anki, weekly conversation topic)
