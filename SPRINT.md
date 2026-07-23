@@ -23,15 +23,39 @@ that day.
 - [ ] Send first outreach batch (5 messages) via `/draft-outreach` — to
       **Connectors**, deliberately as a warm-up rep before Warm Buyers
       next sprint (see FACTS.md 2026-07-17 refinement). Today's pick
-      2026-07-23
-- [ ] Register with 2–3 agencies/platforms from `RECRUITERS.md` — pushed
+      2026-07-23 — in progress: picked 5 senior, non-ex-colleague
+      Connectors from Tiers 3/4 (Dharmesh Raithatha/CPO MAGIC AI, Abishek
+      Varadarajan/Director PM Meta, Amir Arshadnejad/Director of Product
+      ESL FACEIT, Duncan Dragonetti/Head of Product Yoto, Martin Roll/
+      Senior Advisor McKinsey), Template 4 (LinkedIn Connector, never
+      met). 3 of 5 approved as drafted (Amir, Duncan, Martin) — not yet
+      sent. 2 still being refined: Meta draft revised (AI angle vs. weak
+      "at that scale" comment) but not yet confirmed; Dharmesh draft
+      reworked twice (turns out he sent a real 2018 connection message —
+      "connecting with fellow product leaders so my feed isn't just
+      recruiters" — so this is actually a reply-in-thread, not a cold
+      open) — still not landing right, paused 2026-07-23 to continue
+      tomorrow with more time. Carried to 2026-07-24
+- [x] Register with 2–3 agencies/platforms from `RECRUITERS.md` — pushed
       out from 2026-07-22: mid-registration with Robert Walters Japan,
       realized the CV doesn't reflect finalized LinkedIn positioning
       (missing "Fractional/Interim" framing and the Transformation
       pillar) — CV now rebuilt, ready to resume registration; specialization
       dropdown pick still open (leaning "Product data & design", vs.
-      "Technology & digital" or "C-suite & executive search"). Today's
-      pick 2026-07-23: resume and complete Robert Walters registration
+      "Technology & digital" or "C-suite & executive search"). Done
+      2026-07-23: Robert Walters registration completed (simple — name,
+      phone, CV upload); also registered with a second recruiter site
+      same day (name not yet confirmed — needs a follow-up note at next
+      standup). Found a "hiring contractor" listing for Tripla (the same
+      VPoP role he was rejected for pre-repositioning) on the second
+      site — see FACTS.md/LOG.md for the Tripla thread
+- [x] Update CV with the tenure-pattern reframing sentence (new,
+      surfaced 2026-07-23) — done same day: added a line to the
+      Professional Summary of `CV_v4_...docx` explicitly reframing the
+      DAZN/Rakuten/Amazon/Indeed tenure pattern as deliberate fractional/
+      interim-style breadth, not job-hopping — prompted by discovering
+      Tripla's original rejection (pre-repositioning) cited frequent job
+      changes as the reason
 - [x] Rebuild CV to reflect finalized LinkedIn positioning (new, added
       2026-07-22) — done 2026-07-22: reviewed 4 existing CV files found
       in `uploads/private/` (v1 technical-framing, v2 growth-framing
@@ -46,7 +70,9 @@ that day.
       No local PDF export tool available (no pdflatex/LibreOffice) — user
       to export PDF via Google Docs before submitting
 - [ ] Decide chamber membership + which event(s) to target and when
-      (from `EVENTS.md`). Today's pick 2026-07-23
+      (from `EVENTS.md`). Today's pick 2026-07-23 — not reached today,
+      outreach-batch drafting took the remaining time; carried to
+      2026-07-24
 - [x] Research LinkedIn post topics/content ideas (build a short running
       list to pull from weekly) — done 2026-07-21, confirmed 2026-07-23
       (was completed but not checked off at the time)

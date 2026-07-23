@@ -19,6 +19,42 @@
   to target, plus a quick (4) review/reply to inbound LinkedIn service
   request(s), not counted against the 3-task cap
 - No blockers
+- (cont.) Reviewed 2 new inbound LinkedIn service-request listings
+  (George Sanare — VA, vague ask, off-fit; Asad Aftab — 60-day-plan/
+  leadership ask, otherwise on-fit but "Open to Work") — skipped both,
+  no proposal. Flagged "Open to Work" as a possible new red-flag signal
+  for the future SERVICE_MARKETPLACE.md decision-rule research
+- (cont.) Robert Walters registration completed — simple (name, phone,
+  CV upload). Also registered with a second recruiter site today (name
+  TBD, needs confirming). Reviewing RW job listings surfaced a VP of
+  Product (VPoP) role at Tripla — same role/company he was rejected for
+  before applying directly through a recruiter, pre-repositioning; that
+  earlier rejection reason turned out to be the CV showing frequent job
+  changes, not (as first assumed) his "Open to Providing Services"
+  LinkedIn status. Since v4's CV and this listing's "contract" framing
+  both resolve that original objection, updated the CV with an explicit
+  sentence reframing the DAZN/Rakuten/Amazon/Indeed tenure pattern as
+  deliberate fractional/interim breadth rather than job-hopping. Texted
+  the original India-based recruiter to ask about re-approaching Tripla
+  as a contractor/interim VP of Product — they declined to re-engage;
+  next step under consideration is going through the new second
+  recruiter site instead, or applying directly via Robert Walters
+- (cont.) Outreach batch drafting started — picked 5 senior,
+  non-ex-colleague Connectors from Tiers 3/4 of the priority list
+  (Dharmesh Raithatha/CPO MAGIC AI, Abishek Varadarajan/Director PM
+  Meta, Amir Arshadnejad/Director of Product ESL FACEIT, Duncan
+  Dragonetti/Head of Product Yoto, Martin Roll/Senior Advisor McKinsey),
+  all cold LinkedIn-only connections → Template 4. 3 of 5 approved as
+  drafted (Amir, Duncan, Martin), not yet sent. Meta draft needed a
+  rework (weak "at that scale" comment swapped for tying Meta's AI
+  reputation to his own AI/ML background) — revised version pending
+  confirmation. Dharmesh draft needed several rewrites: turned out
+  Dharmesh sent a real, memorable message when they first connected in
+  2018 ("connecting with fellow product leaders so my feed isn't just
+  recruiters"), making this a reply-in-thread rather than a cold open —
+  still hadn't landed right after 3 attempts, paused to finish with more
+  time tomorrow. Chamber/event decision (today's 3rd pick) not reached —
+  ran out of time on outreach drafting. Both carried to 2026-07-24
 
 ## 2026-07-22 (Wed) — Sprint 2, Day 2
 - Inbox: confirmed 07-21 completions (contracting research, LinkedIn
