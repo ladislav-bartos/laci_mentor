@@ -11,7 +11,21 @@ from scratch each time.
 Steps:
 
 1. Gather what's needed, using `$ARGUMENTS` for anything already given.
-   Ask ONE question at a time for whatever's missing — don't guess:
+   Ask ONE question at a time for whatever's missing — don't guess. This
+   is a required per-contact check, added 2026-07-24 specifically so this
+   never turns into a mass-send process — realistic pace is ~2/day (maybe
+   5/day once practiced), by design, not a limitation to fix:
+   - **Met them before?** (Y/N — if Y, where/when/what was discussed —
+     reference this directly in the message)
+   - **Received a message from them before** (e.g. their own connection-
+     request note)? (Y/N — if Y, what did they actually say, even
+     paraphrased — this makes it a reply-in-thread, not a cold open, and
+     doesn't need to explicitly call out "you messaged me in [year]" since
+     they'll see their own original message in the same thread)
+   - **Background/role review**: their current role, company, and — most
+     importantly — a genuine similarity to the user's own experience worth
+     calling out ("I'm doing X too"), not just a compliment on their
+     achievements
    - Name, Company, Title
    - Source: warm (actually met/worked together) vs. networking (met at an
      event) vs. LinkedIn-only (1st-degree connection, never actually met)
@@ -36,7 +50,14 @@ Steps:
    the achievement(s) from FACTS.md likely to land with *this* contact's
    context — don't dump the full achievement list into every message.
    Follow OUTREACH.md's core principle: never open with the pitch, end
-   with a small low-commitment ask.
+   with a small low-commitment ask. Check tone against OUTREACH.md's
+   Voice Reference sample (added 2026-07-24) — favor its plainer phrasing
+   ("really appreciate," "thanks in advance") over more polished/formal
+   AI-sounding phrasing ("incredibly grateful," "I am currently seeking").
+   Title note: "VP of Product" is the default, but "CPO" alongside it is
+   fine when the recipient is at a startup (CPO there is typically
+   hands-on/execution, unlike at a big company) — see FACTS.md positioning
+   refinement 2026-07-24.
 4. Show the draft, ask if they want edits. Iterate until approved.
 5. Once approved, ask: was this actually sent (now or already)? If yes,
    append one row to `OUTREACH.md`'s Response Log (Date sent, Contact/

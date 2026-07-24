@@ -90,7 +90,12 @@
 - Title deliberately "VP of Product," not "CPO" — CPO is ambiguous (Chief
   Product/People/Procurement/Process Officer) and implies vision-setting,
   while VP of Product implies execution — a better match for his stated
-  differentiator (execution over strategy-writing)
+  differentiator (execution over strategy-writing). Refined 2026-07-24:
+  this rule is strongest for the primary headline/LinkedIn positioning.
+  In 1:1 outreach tailored to a startup-context recipient, mentioning
+  "CPO" alongside "VP of Product" is fine — at a startup, CPO is
+  typically hands-on/execution-focused (effectively the VP of Product
+  role), unlike at a big company where it implies vision-setting only
 - Target audience: growth-stage to enterprise companies (not early-stage
   startups) expanding/growing in Japan/APAC. Deliberate trade-off: strong fit
   for larger/enterprise clients; likely filtered out of smaller, scrappier

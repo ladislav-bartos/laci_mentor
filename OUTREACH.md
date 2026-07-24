@@ -26,6 +26,35 @@ to save the small pool of actual Warm Buyers for once he's comfortable.
 Plan: Connectors in Sprint 2 (week of 2026-07-21), Warm Buyers the
 following week once confidence is built.
 
+## Voice Reference (added 2026-07-24)
+The first message to actually land in the user's own voice, after several
+rewrites — use as the tone benchmark for future drafts. Plainer than
+typical AI phrasing: "really sorry," "wanted to reach out," "I'd really
+appreciate," "Thanks in advance" — not "incredibly delayed," "I am
+currently seeking," "incredibly grateful."
+
+**Sent to Dharmesh Raithatha (CPO, MAGIC AI) — reply-in-thread to his own
+2018 connection message, Template 4:**
+
+> Hi Dharmesh,
+>
+> Really sorry for the delayed reply! Great to see your journey to CPO at
+> Magic.AI, and the growth of your fractional practice.
+>
+> Given your own work as a fractional CPO, I wanted to reach out. I'm
+> currently exploring my next fractional/interim CPO or VP of Product
+> role — based in Tokyo, focused on driving business growth and
+> transformation through AI, both internally and for clients. I'm looking
+> to expand my reach here, so if you know anyone in your network who
+> could use this kind of expertise, I'd really appreciate an introduction.
+>
+> Thanks in advance,
+> Ladislav
+
+Note: uses "CPO" alongside "VP of Product," deliberately — Dharmesh is at
+a startup (MAGIC AI), where CPO is typically hands-on/execution rather
+than pure vision-setting. See FACTS.md positioning refinement 2026-07-24.
+
 ## Templates
 
 ### 1. Warm Buyer
@@ -224,5 +253,6 @@ based on real signal rather than guesswork.
 | Date sent | Contact / Company | Role Type | Template used | Response (Y/N) | Notes |
 |---|---|---|---|---|---|
 | 2026-07-22 | Sara Al-Attas / Riyad Bank | N/A (marketplace lead, off-ICP) | 5. Service Marketplace Coaching Proposal | Pending | Experimental — practice/skill-building framing, not a core-ICP lead. Update this row once she replies |
-| 2026-07-22 | Sutirtha Prakash | N/A (marketplace lead, off-ICP but strong subject-matter overlap) | 6. Service Marketplace Deliverable-Scoped Coaching, Intro-Call-First | Pending | Career transition, targeting AI/product-strategy/digital-transformation leadership roles — asked for intro call rather than quoting terms since scope (deliverable vs. ongoing; who builds it) is unresolved |
+| 2026-07-22 | Sutirtha Prakash | N/A (marketplace lead, off-ICP but strong subject-matter overlap) | 6. Service Marketplace Deliverable-Scoped Coaching, Intro-Call-First | Y | Replied, call booked and held 2026-07-24. Discussed flexible options (joint working sessions @ $100/hr vs. self-serve AI-drafted plan + paid review); he chose the AI-drafted-plan-plus-review option. Said he'll likely need the services, TBD if/when he comes back |
+| 2026-07-24 | Dharmesh Raithatha / MAGIC AI | Connector | 4. LinkedIn Connector (never met) — reply-in-thread variant | Pending | First of the Connector batch actually sent. Took multiple rewrites to land tone/voice — now the Voice Reference sample above |
 | | | | | | |
