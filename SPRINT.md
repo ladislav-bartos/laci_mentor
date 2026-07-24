@@ -28,14 +28,12 @@ that day.
       Varadarajan/Director PM Meta, Amir Arshadnejad/Director of Product
       ESL FACEIT, Duncan Dragonetti/Head of Product Yoto, Martin Roll/
       Senior Advisor McKinsey), Template 4 (LinkedIn Connector, never
-      met). 3 of 5 approved as drafted (Amir, Duncan, Martin) — not yet
-      sent. 2 still being refined: Meta draft revised (AI angle vs. weak
-      "at that scale" comment) but not yet confirmed; Dharmesh draft
-      reworked twice (turns out he sent a real 2018 connection message —
-      "connecting with fellow product leaders so my feed isn't just
-      recruiters" — so this is actually a reply-in-thread, not a cold
-      open) — still not landing right, paused 2026-07-23 to continue
-      tomorrow with more time. Carried to 2026-07-24
+      met). Correction 2026-07-24: none are actually approved yet —
+      "approved" means ready to send, and until sent it isn't approved.
+      Only 1 of 5 (Dharmesh) has been reviewed in depth so far and the
+      user wasn't happy with the draft — it needs to sound like his own
+      voice/writing style, not generic AI phrasing. All 5 need iteration.
+      Carried to 2026-07-24
 - [x] Register with 2–3 agencies/platforms from `RECRUITERS.md` — pushed
       out from 2026-07-22: mid-registration with Robert Walters Japan,
       realized the CV doesn't reflect finalized LinkedIn positioning
@@ -44,11 +42,11 @@ that day.
       dropdown pick still open (leaning "Product data & design", vs.
       "Technology & digital" or "C-suite & executive search"). Done
       2026-07-23: Robert Walters registration completed (simple — name,
-      phone, CV upload); also registered with a second recruiter site
-      same day (name not yet confirmed — needs a follow-up note at next
-      standup). Found a "hiring contractor" listing for Tripla (the same
-      VPoP role he was rejected for pre-repositioning) on the second
-      site — see FACTS.md/LOG.md for the Tripla thread
+      phone, CV upload) — a same-day logging error briefly described this
+      as two separate recruiter sites; corrected 2026-07-24, it's one
+      registration (Robert Walters). Found a "hiring contractor" listing
+      for Tripla (the same VPoP role he was rejected for pre-repositioning)
+      on Robert Walters itself — see FACTS.md/LOG.md for the Tripla thread
 - [x] Update CV with the tenure-pattern reframing sentence (new,
       surfaced 2026-07-23) — done same day: added a line to the
       Professional Summary of `CV_v4_...docx` explicitly reframing the
@@ -118,7 +116,15 @@ that day.
       (job-seeker, not a paying business) worth folding into the
       SERVICE_MARKETPLACE.md decision-rule research
 
+- [ ] Prep questions for the Sutirtha Prakash call (new, added 2026-07-24)
+      — call is this afternoon, discussing his LinkedIn service-request
+      project (positioning for AI/product-strategy/digital-transformation
+      leadership roles) in more detail
+
 ### Recurring
+- [ ] Daily: review and reply (if appropriate) to new LinkedIn Service
+      Marketplace requests/leads — added 2026-07-24, not counted against
+      the 3-task cap; some days nothing to review, some days several
 - [ ] Daily: 30 min+ N2 study (drills, Anki, weekly conversation topic)
 - [ ] Daily: voice dictation (Claude Code notes) + AI conversation
       practice (Grok/OpenAI) — decided 2026-07-17: keep both, still
@@ -141,6 +147,13 @@ that day.
 - [ ] Import the "LinkedIn Bulk Import" tab into the CRM Google Sheet and
       spot-check a sample of each Priority Tier (esp. Tier 1's 4 Buyers)
       before treating the list as ready for outreach
+- [ ] Improve the outreach-drafting process (new, added 2026-07-24) —
+      current `/draft-outreach` output isn't landing in the user's own
+      voice; wants deeper per-contact research (profile, background,
+      mutual connections) feeding into a message that sounds like
+      something he'd actually write, not generic AI phrasing. Evaluate
+      whether this warrants a dedicated skill vs. refining the existing
+      one. Captured as idea only — not started, timing TBD
 - [ ] Research/design the branching question set for the free AI-maturity
       mini-session offer (~3 base questions, expanding per answer, not
       linear) — see OUTREACH.md's "Free Value-First Offer" section.
@@ -162,8 +175,12 @@ that day.
   Thu = date night. Only open slot for a networking event = **Fri 2026-07-24,
   after 5pm** (haircut + Eva duty before 5pm). Note: no event found for
   this slot as of the 2026-07-17 EVENTS.md research pass.
-- Week of 2026-07-27: Thu 2026-07-30 = date night (standing, as usual).
-  Nothing else planned yet.
+- Week of 2026-07-27 (logged 2026-07-24): Mon 7/27 evening = wife has her
+  own programs. Tue 7/28 evening = **free** (best slot for a networking
+  event if one's decided on). Wed 7/29 evening = volleyball watching w/
+  friends. Thu 7/30 = date night (standing, as usual). Fri 7/31 evening =
+  user meeting friends for dinner (not available for work events).
+- Week of 2026-08-03: not yet checked — check at next Friday review.
 
 ## Blocked / Waiting
 - (none — LinkedIn export downloaded and fully classified 2026-07-22)

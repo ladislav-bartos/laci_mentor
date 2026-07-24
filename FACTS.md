@@ -9,6 +9,9 @@
 - Wife has her own evening programs → evening events need advance coordination
 - Weekly recurring commitment: Monday 9pm — meeting with the owners of
   StageLync (stagelync.com)
+- Japan public holidays remaining in 2026 (logged 2026-07-24): Aug 11,
+  Sep 21, Sep 22, Sep 23, Oct 12, Nov 3, Nov 23, Dec 31 — check against
+  these before scheduling work on those dates
 
 ## Career & Business
 - 20 years online product management experience (15+ years senior leadership)
@@ -31,6 +34,12 @@
 - Also owns a UK company with accounting set up (asset for overseas clients)
 - Accountant confirmed: can work with them to create invoices for both the UK
   and Japanese companies
+- Has a pre-existing relationship (predates this repo/system) with an
+  India-based recruiter who, at some point before 2026, submitted him to
+  Tripla (Tokyo) for a VP of Product role — rejected at the time, reason
+  later traced (2026-07-23) to the CV showing frequent job changes. Asked
+  this recruiter 2026-07-23 to re-approach Tripla with a contractor/
+  interim framing; they declined to re-engage with the employer
 - 7 Google Cloud certifications (2025–26, all except DevOps/Network
   Engineering) + 2 DeepLearning.AI specializations + Certified ScrumMaster;
   comfortable programming (Python, SQL, JS, Bash); big fan of AI/automation
@@ -143,6 +152,16 @@
 - Daily conversational standups + weekly sprints (Friday review/planning)
 - Wants reasoning behind every recommendation; confirm assumptions, never assume
 - Networking: minimum 2 events/month, target 1/week, day or evening
+- Refined 2026-07-24 — Backlog tasks should default to one unit of action
+  each (e.g. "register with agency X", "send outreach message to Y"), not
+  bundled batches ("register with 2-3 agencies", "send 5 messages").
+  Bundle additional similar items into a second task only after the first
+  instance is proven/done — same "build one, validate, then batch"
+  principle already applied to Anki content and now outreach drafting
+- Refined 2026-07-24 — Sprint pacing plans to ~2 tasks/day on average
+  (not maxing the 3/day ceiling every day), leaving room for daily
+  reactive items (e.g. LinkedIn Marketplace review) and unplanned work
+  that routinely displaces part of the backlog
 - Refined 2026-07-17 — Sprint backlog should be stocked with a full week's
   worth of candidate tasks (e.g. 12 = 3/day × 4 working days) so the week
   feels planned and something to be excited about, but actual commitment

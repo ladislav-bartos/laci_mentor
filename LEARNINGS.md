@@ -212,6 +212,35 @@
   regardless of hours available — avoids planning that assumes the higher
   pace holds every day. CLAUDE.md and FACTS.md updated accordingly.
 
+- 2026-07-24: Loose status language in logs causes real confusion — "3 of
+  5 approved as drafted" (07-23's log) was read back a day later as
+  meaning something was ready to send, when actually 0 of 5 had been
+  finalized and only 1 had even been reviewed. "Approved" was an
+  assistant assumption, never confirmed. Fix: logs use concrete states
+  only (drafted / reviewed-not-happy / ready-to-send / sent), never
+  "approved" as a stand-in.
+- 2026-07-24: The outreach-drafting stall (2 days, 0 of 5 messages
+  finalized) is a second instance of the "build one, validate, then
+  batch" principle first logged 2026-07-17 for Anki content — trying to
+  draft all 5 messages before validating that even one lands in the
+  user's actual voice wasted effort across all 5 instead of just one.
+  General principle, not Anki-specific or outreach-specific.
+- 2026-07-24: Sprint 2 planned-backlog completion dropped sharply (4/12
+  vs. Sprint 1's 10/11), but not because of lost time — reactive work
+  (CV positioning gaps found mid-registration, inbound LinkedIn
+  Marketplace leads) displaced the plan and was itself valuable (led
+  directly to the Sutirtha call). Sprints should plan for this kind of
+  reactive load as a standing feature of business-dev work, not an
+  anomaly: next sprint sized to 9 items at ~2/day (not maxing the 3/day
+  ceiling) plus a new daily recurring task for LinkedIn Marketplace
+  review, specifically to leave room for it.
+- 2026-07-24: Backlog items should default to one unit of action each
+  (one agency registration, one outreach send) rather than bundled
+  batches ("register with 2-3 agencies", "send 5 messages") — bundling
+  hides partial completion and makes it harder to apply the "prove one,
+  then batch" principle above. Bundle a second task only once the first
+  instance is done.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
@@ -246,3 +275,15 @@
   mirroring `/research-sources`'s pattern. EVENTS.md broadened beyond
   in-person-Tokyo-only to include Online/Virtual, Speaking opportunity,
   and Tangential/creative categories (currently unresearched gaps).
+- 2026-07-24: Sprint 2 closed — 4/12 planned backlog items done (bulk
+  classify-contact pass, 1 of a planned 2-3 recruiter registrations,
+  LinkedIn post-topics research, contracting-best-practices research); 2
+  stalled (outreach batch — 0 of 5 sent; chamber/event decision) and 6
+  not reached. Unplanned reactive work filled most of the week instead:
+  CV rebuilt twice (positioning gaps, then tenure-pattern reframing),
+  4 inbound LinkedIn Service Marketplace requests triaged (1 proposal
+  sent to Sutirtha, 1 reply, 1 call booked for 07-24), and a
+  Buyer-overclassification bug fixed across all 10 classify-contact
+  batches. Japanese: ~3h/day all week, well above the 1h floor. Sprint 3
+  (Mon 2026-07-27 to Fri 2026-07-31) planned: 9-item backlog at ~2/day
+  pacing, plus a new daily recurring task for LinkedIn Marketplace review.

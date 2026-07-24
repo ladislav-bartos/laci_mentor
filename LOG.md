@@ -1,5 +1,47 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-24 (Fri) — Sprint 2, Day 4 / Weekly Review
+- Inbox: corrected two logging errors from 07-23 — only one recruiter
+  registration exists (Robert Walters, not two — the Tripla listing was
+  found there directly), and none of the 5 outreach drafts were actually
+  approved/sent (only 1 of 5, Dharmesh, had been reviewed in depth, and
+  it wasn't landing); both fixed in LOG.md/SPRINT.md. Filed the
+  India-based-recruiter/Tripla relationship as a pre-existing fact in
+  FACTS.md. Added Sutirtha call-prep as today's task
+- Today's picks (deliberately light — afternoon plans): (1) prep
+  questions for the Sutirtha Prakash call, (2) have the call and debrief
+  afterward, (3) draft one outreach message to completion (stretch goal
+  only, if time allows: generalize the learnings into a reusable skill)
+- No blockers
+- Full Friday review run (requested mid-session once the standup wrapped):
+  Sprint 2 scored — 4/12 planned backlog items done, 2 stalled (outreach
+  batch, chamber/event decision), 6 not reached at all. Most of the week
+  was absorbed by unplanned reactive work instead: CV rebuilt twice, 4
+  inbound LinkedIn Service Marketplace requests triaged (1 proposal sent
+  to Sutirtha → 1 reply → call booked today), and a Buyer-
+  overclassification bug fixed across all 10 classify-contact batches.
+  Japanese: ~3h/day all week, well above the 1h floor. 0 events attended,
+  0 outreach sent, 1 reply received
+- Decided: next sprint sized to 9 items (not 12) at ~2/day pacing to
+  leave buffer for reactive work and a new daily LinkedIn Marketplace
+  review task; backlog tasks should default to one unit of action each
+  (e.g. one agency registration, one outreach send), bundling further
+  instances only after the first is proven — same "build one, validate,
+  then batch" principle already used for Anki content, now reinforced by
+  this week's outreach-drafting stall; logs should use concrete states
+  (drafted / reviewed-not-happy / ready-to-send / sent) instead of the
+  ambiguous "approved"
+- Sprint 3 (Mon 2026-07-27 → Fri 2026-07-31) planned: 9-item backlog
+  (send first outreach message; send remaining outreach batch once
+  pattern proven; chamber/event decision; first LinkedIn post; one-page
+  capability summary; gap-analysis follow-up; rate card one-pager;
+  outreach follow-up-tracking cadence; Tripla next-step decision) plus
+  daily LinkedIn Marketplace review as a new recurring item
+- Scheduling: week of 2026-07-27 evening availability logged (Tue 7/28
+  free — best slot for a networking event; Mon/Wed/Thu/Fri all booked);
+  Japan public holidays for the rest of 2026 filed to FACTS.md
+- No blockers
+
 ## 2026-07-23 (Thu) — Sprint 2, Day 3
 - Inbox: empty, nothing to process
 - Retroactive fix: yesterday's Japanese study completion wasn't logged in
@@ -25,20 +67,22 @@
   no proposal. Flagged "Open to Work" as a possible new red-flag signal
   for the future SERVICE_MARKETPLACE.md decision-rule research
 - (cont.) Robert Walters registration completed — simple (name, phone,
-  CV upload). Also registered with a second recruiter site today (name
-  TBD, needs confirming). Reviewing RW job listings surfaced a VP of
-  Product (VPoP) role at Tripla — same role/company he was rejected for
-  before applying directly through a recruiter, pre-repositioning; that
-  earlier rejection reason turned out to be the CV showing frequent job
-  changes, not (as first assumed) his "Open to Providing Services"
-  LinkedIn status. Since v4's CV and this listing's "contract" framing
-  both resolve that original objection, updated the CV with an explicit
-  sentence reframing the DAZN/Rakuten/Amazon/Indeed tenure pattern as
-  deliberate fractional/interim breadth rather than job-hopping. Texted
-  the original India-based recruiter to ask about re-approaching Tripla
-  as a contractor/interim VP of Product — they declined to re-engage;
-  next step under consideration is going through the new second
-  recruiter site instead, or applying directly via Robert Walters
+  CV upload). Only one recruiter site registered (Robert Walters) — a
+  "second recruiter site" mentioned here originally was a same-day
+  logging error, corrected 2026-07-24. Reviewing RW job listings
+  surfaced a VP of Product (VPoP) role at Tripla — same role/company he
+  was rejected for before applying directly through a recruiter,
+  pre-repositioning; that earlier rejection reason turned out to be the
+  CV showing frequent job changes, not (as first assumed) his "Open to
+  Providing Services" LinkedIn status. Since v4's CV and this listing's
+  "contract" framing both resolve that original objection, updated the
+  CV with an explicit sentence reframing the DAZN/Rakuten/Amazon/Indeed
+  tenure pattern as deliberate fractional/interim breadth rather than
+  job-hopping. Texted the original India-based recruiter (a pre-existing
+  contact who first submitted him to Tripla, predating this system) to
+  ask about re-approaching Tripla as a contractor/interim VP of Product
+  — they declined to re-engage; next step under consideration is
+  applying directly via Robert Walters
 - (cont.) Outreach batch drafting started — picked 5 senior,
   non-ex-colleague Connectors from Tiers 3/4 of the priority list
   (Dharmesh Raithatha/CPO MAGIC AI, Abishek Varadarajan/Director PM
@@ -53,8 +97,12 @@
   2018 ("connecting with fellow product leaders so my feed isn't just
   recruiters"), making this a reply-in-thread rather than a cold open —
   still hadn't landed right after 3 attempts, paused to finish with more
-  time tomorrow. Chamber/event decision (today's 3rd pick) not reached —
-  ran out of time on outreach drafting. Both carried to 2026-07-24
+  time tomorrow. Correction (2026-07-24): none of the 5 were actually
+  approved — "approved" in yesterday's log was an assistant assumption;
+  only 1 of 5 (Dharmesh) had actually been reviewed, and the user wasn't
+  happy with it. All 5 remain in progress. Chamber/event decision
+  (today's 3rd pick) not reached — ran out of time on outreach drafting.
+  Both carried to 2026-07-24
 
 ## 2026-07-22 (Wed) — Sprint 2, Day 2
 - Inbox: confirmed 07-21 completions (contracting research, LinkedIn
