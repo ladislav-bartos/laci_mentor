@@ -4,6 +4,8 @@
 - 46 years old (2026), Hungarian, born in Slovakia, British citizen
 - Lived in London 15 years; in Tokyo 10+ years; Permanent Residency in Japan
 - Wife: Japanese. Son: Tomi, 4 years old. Daughter: 10 months old
+- Also has a son, Benjamin (b. 2012, London), from a previous marriage —
+  lives with his mother in Plavecký Štvrtok, Slovakia
 - Native Hungarian; more fluent in English
 - Weekends: protected family time, almost always busy (incl. family holidays)
 - Wife has her own evening programs → evening events need advance coordination
