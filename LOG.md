@@ -45,6 +45,8 @@
     the template's default "cover APAC" line, which would've been
     factually wrong (he's focused on Europe). Duncan and Martin remain,
     same spot-check needed before drafting either
+  - Japanese: all tasks completed — book study (week 2, day 4), Anki,
+    conversation practice, and the drill
   - No blockers
 
 ## 2026-07-27 (Mon) — Sprint 3, Day 1
