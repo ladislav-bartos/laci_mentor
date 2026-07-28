@@ -19,15 +19,23 @@ that day.
       sent (2 of 5 in the Connector batch overall). Turned out to be a real
       ex-colleague (Visual DNA, 2012) misclassified as cold by the bulk
       pass — used the Warm Connector template instead of Template 4
-- [ ] Send remaining outreach batch once pattern proven — Amir, Duncan,
-      Martin still outstanding. Per 2026-07-27 note: spot-check whether
-      each is genuinely cold or also misclassified (like Abishek) before
-      drafting
+- [ ] Send remaining outreach batch once pattern proven — Duncan, Martin
+      still outstanding. Update 2026-07-28: Amir sent (3 of 5 in the
+      Connector batch overall) — spot-check found no personal history
+      (unlike Abishek), but a real DAZN-tenure overlap used as the opener
+      instead of the template default. Duncan/Martin still need the same
+      spot-check before drafting
 - [ ] Chamber/event decision — carried from Sprint 2, not yet reached
-- [ ] Publish first LinkedIn post — draft already locked 2026-07-27
-      (`CONTENT.md` #11: AI-driven reorg/layoff wave)
-- [ ] Create a one-page capability/case-study summary (DAZN/Rakuten/Indeed
-      quantified achievements)
+- [x] Publish first LinkedIn post — done 2026-07-28. Draft locked
+      2026-07-27 (`CONTENT.md` #11: AI-driven reorg/layoff wave), posted
+      as-is with no edits. Check engagement at next standup/review
+- [x] Create a one-page capability/case-study summary (DAZN/Rakuten/Indeed
+      quantified achievements) — done 2026-07-28: drafted and approved
+      as-is, no revisions needed. See
+      `uploads/private/capability-summary_v1_draft.md` — Growth/
+      Transformation-pillar structure, 3 case studies (DAZN, Rakuten,
+      Indeed), Japan/APAC-fit section, pricing deliberately excluded
+      (separate rate-card task)
 - [ ] Gap-analysis follow-up (after the one-pager): identify what's
       currently uncovered / no evidence for
 - [ ] Draft a rate card / pricing one-pager

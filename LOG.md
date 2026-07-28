@@ -21,6 +21,31 @@
   cold, (2) publish the first LinkedIn post (draft already locked, 07-27),
   (3) work on the one-page capability/case-study summary
 - No blockers
+- (cont.) All 3 of today's picks completed:
+  - LinkedIn Marketplace (reactive, not counted against the cap): reviewed
+    Abdulnaser Alturkait (IT Manager, Salhia) — ask was "60-day plan or
+    360-degree review," a strong strength-match (rapid assessment/60-90
+    day plans, same as Sutirtha's case) with no "Open to Work" red flag.
+    Sent via Template 6 (intro-call-first), adding a scoping question for
+    "myself, my team" ambiguity. See `OUTREACH.md` Response Log
+  - Published the first LinkedIn post — `CONTENT.md` #11 (AI-driven
+    reorg/layoff wave), posted as drafted with no edits. Status moved to
+    Posted; engagement numbers TBD, check at next standup/review
+  - Drafted the one-page capability/case-study summary — approved as-is,
+    no revisions. Growth/Transformation-pillar structure, 3 case studies
+    (DAZN 1M+ subs/12mo, Rakuten +20%/+30%, Indeed 25% ML improvement),
+    Japan/APAC-fit section, pricing deliberately excluded (separate
+    rate-card task). See `uploads/private/capability-summary_v1_draft.md`
+    (gitignored, not committed)
+  - Outreach: spot-checked and sent to **Amir Arshadnejad** (Director of
+    Product, ESL FACEIT) — 3 of 5 in the Connector batch now sent.
+    Per-contact check found no personal relationship (unlike Abishek),
+    but a real, honest tie: both at DAZN during an overlapping window
+    (him UK, user launching Japan) — used that as the opener instead of
+    the template's default "cover APAC" line, which would've been
+    factually wrong (he's focused on Europe). Duncan and Martin remain,
+    same spot-check needed before drafting either
+  - No blockers
 
 ## 2026-07-27 (Mon) — Sprint 3, Day 1
 *(Backfilled 2026-07-28 — this entry was reconstructed from git history,

@@ -41,9 +41,9 @@ yet. Update the Status/Date/Engagement columns as posts go out.*
 | 8 | "The truth about going fractional after 20 years in big tech" | Personal Journey | Idea | | | Frames garden leave as deliberate, not a fallback |
 | 9 | AI-audit / "highest-leverage 5%" teaser | Value-First Teaser | Idea | | | Soft-launches the OUTREACH.md free-offer idea; save for a few posts in |
 | 10 | Objectivity as the fractional value-add — reflective post | Reflective/Philosophy | Idea | | | Lowest prep effort — good for a lower-capacity week |
-| 11 | First post: the AI-driven reorg/layoff wave, reframed for both ICs/senior PMs and VP/CPO leaders — not the end of the world, just change; talking to other product people (not AI) is what actually helps | Personal Journey/Vulnerability | Drafted 2026-07-27 | | | First post ever — full text below. No pitch, no service mention by design (see reasoning below table). Researched differentiation vs. recent similar content before finalizing — see LEARNINGS.md/session minutes 2026-07-27 |
+| 11 | First post: the AI-driven reorg/layoff wave, reframed for both ICs/senior PMs and VP/CPO leaders — not the end of the world, just change; talking to other product people (not AI) is what actually helps | Personal Journey/Vulnerability | Posted | 2026-07-28 | TBD — check back next standup | First post ever — full text below. No pitch, no service mention by design (see reasoning below table). Researched differentiation vs. recent similar content before finalizing — see LEARNINGS.md/session minutes 2026-07-27 |
 
-**Full text of #11 (locked in 2026-07-27, not yet published):**
+**Full text of #11 (locked 2026-07-27, posted 2026-07-28):**
 
 > If you're in product right now — at any level — there's a good chance the last year has felt relentless.
 >
