@@ -2,6 +2,14 @@
 
 ## Insights
 - (Friday reviews add entries here: what worked, what didn't, what changed)
+- 2026-07-28: A session on 07-27 committed file edits (outreach send, a new
+  fact) but skipped the LOG.md entry and left SPRINT.md's header un-promoted
+  from a sprint that had already ended, even though the new sprint's backlog
+  had already been decided at the prior Friday review. Discovered next
+  standup when the sprint day number couldn't be derived. Lesson: "wrap"
+  needs to be treated as all-or-nothing (LOG entry + any pending sprint
+  promotion), not skippable just because a session felt short/informal —
+  now a standing memory rule.
 - 2026-07-13: Voice dictation via Claude Code — significant speech-recognition
   failures in both English and Japanese, even with language explicitly set to
   match what was spoken. Partial capture (e.g. 1 of 3 sentences caught) caused
@@ -234,6 +242,27 @@
   anomaly: next sprint sized to 9 items at ~2/day (not maxing the 3/day
   ceiling) plus a new daily recurring task for LinkedIn Marketplace
   review, specifically to leave room for it.
+- 2026-07-24: The Sutirtha call (booked from an off-ICP marketplace lead)
+  left the user more confident, not drained — walking a stranger through
+  his own experience made him realize how much he actually has worth
+  sharing. Consistent with the existing mentoring-background pattern
+  (~5 mentees, mostly women, strong track record) — these off-ICP
+  coaching conversations appear to be a genuine confidence/energy source,
+  not just a low-stakes practice rep, worth weighing as a plus when
+  deciding whether to take one on.
+- 2026-07-27: Tested Friday's per-contact background-check addition to
+  `/draft-outreach` on a real send (Abishek). Verdict: the process works,
+  no redesign needed. The required "met before / received a message
+  before / background" questions caught something real — the bulk
+  `/classify-contact` pass had mistagged Abishek as a cold LinkedIn-only
+  Connector, when he's actually a warm ex-colleague (Visual DNA, 2012)
+  with real personal history. Using the correct Warm Connector template
+  instead of the cold-open one was only possible because the process
+  forced that question upfront. The message still took several rounds of
+  live back-and-forth to land in his actual voice — same as Dharmesh —
+  but for a genuinely personal message that now reads as normal, not a
+  process gap. Follow-up: spot-check Amir, Duncan, and Martin (same
+  batch) for the same misclassification before drafting them.
 - 2026-07-24: Backlog items should default to one unit of action each
   (one agency registration, one outreach send) rather than bundled
   batches ("register with 2-3 agencies", "send 5 messages") — bundling

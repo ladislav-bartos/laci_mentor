@@ -1,5 +1,52 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-28 (Tue) — Sprint 3, Day 2
+- Inbox: 2 items (Fozia Tesfu Marketplace skip, Japanese-complete note), both
+  dated 07-27 — folded into the backfilled 07-27 entry below rather than
+  filed as today's items
+- Found SPRINT.md's header was still "Sprint 2" (dates already past) and
+  never promoted to Sprint 3 despite the 9-item backlog being decided at the
+  2026-07-24 Friday review; also no LOG.md entry existed for 07-27 even
+  though real work happened (Abishek sent, Benjamin fact filed) — root cause:
+  07-27's session committed file edits but never ran the full wrap pipeline.
+  Fixed: SPRINT.md promoted to Sprint 3 (Mon 07-27 → Fri 07-31) with the
+  actual 9-item backlog, "Upcoming" section retargeted to week of 08-03,
+  07-27 backfilled into LOG.md. Saved a standing feedback memory
+  (`feedback_always-complete-wrap-pipeline`) to always run the full wrap,
+  including the LOG.md entry and any pending sprint-header promotion, even
+  for short/adhoc sessions
+- Yesterday: nothing further to add beyond the backfilled 07-27 entry
+- Today's picks (3): (1) spot-check Amir Arshadnejad for misclassification
+  (like Abishek turned out to be) then draft/send outreach if genuinely
+  cold, (2) publish the first LinkedIn post (draft already locked, 07-27),
+  (3) work on the one-page capability/case-study summary
+- No blockers
+
+## 2026-07-27 (Mon) — Sprint 3, Day 1
+*(Backfilled 2026-07-28 — this entry was reconstructed from git history,
+SPRINT.md notes, and INBOX.md rather than logged live; the session that day
+committed work but never ran the full wrap pipeline, which is why SPRINT.md's
+header also never got promoted from Sprint 2 to Sprint 3. See LOG.md
+2026-07-28 for the fix and the standing process correction.)*
+- Outreach: Abishek Varadarajan sent (2 of 5 in the Connector batch overall).
+  Turned out to be a real ex-colleague (Visual DNA, 2012) misclassified as
+  cold/LinkedIn-only by the bulk `/classify-contact` pass — used the Warm
+  Connector template instead of Template 4
+- Tested the Friday-added per-contact-research step in `/draft-outreach` on
+  this real send — verdict: process works as-is, no redesign or dedicated
+  skill needed (closes the "improve outreach-drafting process" task)
+- Family fact surfaced and filed to FACTS.md: a second son, Benjamin (b.
+  2012, London), from a previous marriage, lives with his mother in
+  Plavecký Štvrtok, Slovakia
+- LinkedIn Marketplace: reviewed one inbound request — Fozia Tesfu
+  (3rd-degree, "Education Professional at NGO Recruit"). Skipped, no
+  proposal — off-ICP (non-decision-maker title, company too small at
+  10-50 employees, vague "Other"-scope ask, and "NGO Recruit" as a company
+  name flagged as a possible recruitment-platform hard-constraint concern)
+- Japanese: all tasks completed — book study (week 2, day 3), Anki,
+  conversation practice, and the drill
+- Blockers: not recorded (session wasn't logged live)
+
 ## 2026-07-24 (Fri) — Sprint 2, Day 4 / Weekly Review
 - Inbox: corrected two logging errors from 07-23 — only one recruiter
   registration exists (Robert Walters, not two — the Tripla listing was

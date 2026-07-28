@@ -41,6 +41,29 @@ yet. Update the Status/Date/Engagement columns as posts go out.*
 | 8 | "The truth about going fractional after 20 years in big tech" | Personal Journey | Idea | | | Frames garden leave as deliberate, not a fallback |
 | 9 | AI-audit / "highest-leverage 5%" teaser | Value-First Teaser | Idea | | | Soft-launches the OUTREACH.md free-offer idea; save for a few posts in |
 | 10 | Objectivity as the fractional value-add — reflective post | Reflective/Philosophy | Idea | | | Lowest prep effort — good for a lower-capacity week |
+| 11 | First post: the AI-driven reorg/layoff wave, reframed for both ICs/senior PMs and VP/CPO leaders — not the end of the world, just change; talking to other product people (not AI) is what actually helps | Personal Journey/Vulnerability | Drafted 2026-07-27 | | | First post ever — full text below. No pitch, no service mention by design (see reasoning below table). Researched differentiation vs. recent similar content before finalizing — see LEARNINGS.md/session minutes 2026-07-27 |
+
+**Full text of #11 (locked in 2026-07-27, not yet published):**
+
+> If you're in product right now — at any level — there's a good chance the last year has felt relentless.
+>
+> If you're a PM or senior PM: layoffs, reorgs, roadmaps rewritten overnight around a new AI initiative. A "final" round of layoffs that turns out not to be final.
+>
+> If you're a VP of Product or CPO, the storm looks different but hits harder in its own way. You're the one who has to lead the change while absorbing it. Rebuild how your PMs work. Roll out AI across the org — with no playbook, because nobody has one yet. Answer to a board that wants an AI story this quarter, while still delivering everything you committed to before AI changed the plan. And do all of it while your team watches how you react, because your steadiness is the only stability they have left.
+>
+> Different seats, same storm.
+>
+> Here's what I keep hearing, from ICs and CPOs alike: "I thought I was the only one struggling with this." Over the past year, I've been close to a lot of these transitions — product teams reorganizing, adopting AI in how they build and what they ship, and finding their footing on the other side. And what that experience tells me, with confidence: almost everyone, at every level, is going through some version of this. Nobody has it fully figured out. The ones who look like they do are just further along the same messy path.
+>
+> Once you stop seeing this as something happening to you and start seeing it as a transition the entire industry is making, it becomes something more manageable: a problem to solve. And if you're in product, solving problems is the job.
+>
+> It's also a genuine window. The PMs who rebuilt their workflow around AI this year are shipping work that used to take a small team. The product leaders who used the disruption to redesign their org — instead of just defending the old one — are building trust that will outlast the chaos: with their teams, with their own leadership, and with themselves.
+>
+> One more thing worth saying: AI can accelerate your work, but it can't tell you when you're fooling yourself. Only people who've actually been through this can do that. So don't figure it out alone — talk to other product people, compare notes. It helps more than you'd expect.
+>
+> If you've come through a reorg, an AI transition, or a wave of change you didn't choose — and found something that worked — share it below. One practical thing that helped. Someone reading this needs it more than you know.
+>
+> And if you're in the middle of it right now, feel free to reach out — sometimes it just helps to talk it through with someone who's seen it before.
 
 ---
 
