@@ -41,7 +41,12 @@ that day.
       plus 4 known/monitoring-only items. Full writeup + re-evaluation
       log in `GAPS.md`. Backlog tasks for the 3 actionable gaps added to
       "Upcoming," prioritized
-- [ ] Draft a rate card / pricing one-pager
+- [x] Draft a rate card / pricing one-pager — done 2026-07-29: 3 tiers
+      (ad-hoc day rate ¥100k-150k/day, fractional retainer pro-rated
+      1-3 days/week, full-time interim at ~15% premium), approved as
+      drafted with a 3-month minimum commitment on retainer/interim and
+      JPY-primary/GBP-USD-at-invoicing currency approach. See
+      `uploads/private/rate-card_v1_draft.md` (gitignored)
 - [ ] Set up a follow-up-tracking cadence for sent outreach (extend
       OUTREACH.md's Response Log with a "next follow-up date" habit)
 - [ ] Tripla next-step decision — apply directly via Robert Walters

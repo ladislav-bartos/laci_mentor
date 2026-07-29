@@ -9,7 +9,52 @@
   (2) gap-analysis follow-up on the one-pager, (3) draft a rate card /
   pricing one-pager
 - No blockers
-- Session continuing into outreach drafting after wrap — starting with Duncan
+- (cont.) All 3 of today's picks completed:
+  - Outreach: spot-checked and sent to **Duncan Dragonetti**. CRM was
+    stale (had him at Yoto) — actually now Head of Product/Product
+    Director at The Economist's AI Lab since 2025 (prior: Spotify —
+    shipped the AI DJ, Channel 4, BBC), appears to run Yoto and the
+    Economist concurrently. Real but thin tie: a 2016 email exchange
+    (meetup invite, he replied with contact info, user never followed
+    up) — used as a reply-in-thread apology opener, same pattern as
+    Dharmesh, rather than re-explaining the old exchange. Dropped the
+    template's default "cover APAC" line (factually wrong — he's UK/
+    global media-tech). Closed with a genuine curiosity question about
+    juggling two roles (Economist AI Lab + Yoto) instead of a call ask
+  - Outreach: spot-checked and sent to **Martin Roll** (Senior Advisor,
+    McKinsey, since Apr 2024; also CEO of his own family-business
+    advisory firm) — Connector batch (5/5) now complete: Abishek,
+    Dharmesh, Amir, Duncan, Martin. Genuinely cold, no prior interaction.
+    Much stronger geography fit than Amir/Duncan — 20 years
+    Singapore-based, globally-focused, so kept the template's "cover
+    APAC" framing (broadened to "globally" per his correction this time
+    since it's actually accurate). Tie used: both run portfolio/
+    advisory-style careers as long-term Asia-based expats. Dropped an
+    Imperial-MBA callout and softened the closing ask to "swap notes
+    sometime, no expectations either way"
+  - Gap analysis: cross-checked the one-pager against FACTS.md and the
+    2026-07-14 archived job-posting research (7 real postings + 2
+    composite archetypes). Found 3 actionable gaps — Growth pillar
+    resting on a single proof point (DAZN only, though Rakuten's
+    retention/conversion numbers may double as a second one), "AI-driven
+    internal efficiency" claimed but not evidenced (this repo/workflow
+    itself may be the real proof point), and no domain evidence outside
+    consumer subscription/marketplace/hiring-platform — plus 4
+    monitoring-only items (no fractional track record yet, business-level
+    Japanese not yet in place, accepted small-company scale mismatch,
+    unclear team-leadership language context). Built `GAPS.md` as a
+    living doc with dated Log entries per gap so a ~monthly re-run
+    (targeted ~2026-08-29) can be checked against this snapshot. Added 8
+    prioritized research→draft/decide→review backlog tasks to SPRINT.md's
+    Upcoming, ranked Growth pillar (high) > AI-efficiency evidence
+    (medium) > domain gap (low) by effort-to-close vs. impact
+  - Rate card: drafted `uploads/private/rate-card_v1_draft.md` (gitignored)
+    — 3 engagement tiers (ad-hoc day rate ¥100k-150k/day; fractional
+    retainer, pro-rated, typically 1-3 days/week; full-time interim at a
+    ~15% premium), plus a 3-month minimum on retainer/interim and a
+    JPY-primary/GBP-USD-at-invoicing currency approach. All three
+    drafting defaults approved as proposed; flags removed, marked final
+  - No blockers
 
 ## 2026-07-28 (Tue) — Sprint 3, Day 2
 - Inbox: 2 items (Fozia Tesfu Marketplace skip, Japanese-complete note), both

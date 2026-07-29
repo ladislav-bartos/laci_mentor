@@ -270,6 +270,35 @@
   then batch" principle above. Bundle a second task only once the first
   instance is done.
 
+- 2026-07-29: For Duncan's outreach, the right move was to treat the old
+  2016 email (he replied with contact info, user never followed up) as a
+  reply-in-thread — apologize for the late reply and move on, rather than
+  re-explaining what happened, since he'll see his own original message
+  in the same thread. Same pattern as Dharmesh (07-24). The genuinely
+  strongest personalization wasn't the decade-old tie at all, though —
+  it was a current one (both deep in AI-driven product work right now) —
+  worth defaulting to "what's true today" over "what's the oldest shared
+  history" when both are available.
+- 2026-07-29: Gap analysis reused the 7-job-posting/2-archetype research
+  from 2026-07-14 (in `archive/`) instead of re-researching demand
+  patterns from scratch — confirms archive files are a real asset worth
+  explicitly pulling in in for a specific task, not just historical
+  record, per CLAUDE.md's "grep the archive" allowance.
+- 2026-07-29: The gap analysis surfaced that an existing achievement can
+  double as evidence for two different pillars — Rakuten's retention/
+  conversion numbers are currently filed only under Transformation in the
+  one-pager, but are genuinely Growth metrics too, and Growth currently
+  has only one proof point (DAZN). Closing a "no evidence" gap doesn't
+  always need new experience — sometimes it's a re-framing of what's
+  already documented in FACTS.md.
+- 2026-07-29: Built `GAPS.md` — extends the living-doc pattern (dated Log
+  entries, re-evaluation date) from SOURCES/EVENTS/RECRUITERS to
+  self-assessment/capability-gap tracking. Backlog tasks for actionable
+  gaps split into research → draft → review sub-steps per gap, per the
+  user's stated preference for that cadence, and prioritized by
+  effort-to-close vs. impact on the two core pillars rather than in the
+  order the gaps were found.
+
 ## Completed
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
