@@ -1,5 +1,16 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-29 (Wed) — Sprint 3, Day 3
+- Inbox: empty, nothing to process
+- Yesterday (07-28) confirmed complete, no corrections needed
+- Today's picks (3, per the "Duncan+Martin batch = one unit" framing):
+  (1) send remaining outreach batch — spot-check then draft/send Duncan
+  Dragonetti and Martin Roll separately, same process used for Amir,
+  (2) gap-analysis follow-up on the one-pager, (3) draft a rate card /
+  pricing one-pager
+- No blockers
+- Session continuing into outreach drafting after wrap — starting with Duncan
+
 ## 2026-07-28 (Tue) — Sprint 3, Day 2
 - Inbox: 2 items (Fozia Tesfu Marketplace skip, Japanese-complete note), both
   dated 07-27 — folded into the backfilled 07-27 entry below rather than
