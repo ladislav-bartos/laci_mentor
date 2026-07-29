@@ -19,12 +19,10 @@ that day.
       sent (2 of 5 in the Connector batch overall). Turned out to be a real
       ex-colleague (Visual DNA, 2012) misclassified as cold by the bulk
       pass — used the Warm Connector template instead of Template 4
-- [ ] Send remaining outreach batch once pattern proven — Duncan, Martin
-      still outstanding. Update 2026-07-28: Amir sent (3 of 5 in the
-      Connector batch overall) — spot-check found no personal history
-      (unlike Abishek), but a real DAZN-tenure overlap used as the opener
-      instead of the template default. Duncan/Martin still need the same
-      spot-check before drafting
+- [x] Send remaining outreach batch once pattern proven — done 2026-07-29:
+      Duncan Dragonetti and Martin Roll both spot-checked and sent.
+      Connector batch (5/5) now complete: Abishek, Dharmesh, Amir, Duncan,
+      Martin
 - [ ] Chamber/event decision — carried from Sprint 2, not yet reached
 - [x] Publish first LinkedIn post — done 2026-07-28. Draft locked
       2026-07-27 (`CONTENT.md` #11: AI-driven reorg/layoff wave), posted
@@ -36,8 +34,13 @@ that day.
       Transformation-pillar structure, 3 case studies (DAZN, Rakuten,
       Indeed), Japan/APAC-fit section, pricing deliberately excluded
       (separate rate-card task)
-- [ ] Gap-analysis follow-up (after the one-pager): identify what's
-      currently uncovered / no evidence for
+- [x] Gap-analysis follow-up (after the one-pager) — done 2026-07-29:
+      identified 3 actionable gaps (Growth pillar single proof point,
+      unevidenced "AI-driven internal efficiency" claim, no domain
+      evidence outside consumer subscription/marketplace/hiring-platform)
+      plus 4 known/monitoring-only items. Full writeup + re-evaluation
+      log in `GAPS.md`. Backlog tasks for the 3 actionable gaps added to
+      "Upcoming," prioritized
 - [ ] Draft a rate card / pricing one-pager
 - [ ] Set up a follow-up-tracking cadence for sent outreach (extend
       OUTREACH.md's Response Log with a "next follow-up date" habit)
@@ -66,6 +69,36 @@ LOG.md's 2026-07-16 through 2026-07-24 entries, not duplicated here.)*
 - [ ] Friday: sprint review + 2-week calendar/family lookahead
 
 ## Upcoming (next sprint candidate — week of 2026-08-03)
+- [ ] **Gap 1 (Priority: High) — research:** review full career history
+      (Rakuten, Amazon, Indeed) for a second quantified Growth proof
+      point beyond DAZN — check whether Rakuten's retention/conversion
+      numbers can honestly double as Growth evidence, or whether a
+      different real example exists. See `GAPS.md` Gap 1
+- [ ] **Gap 1 — draft:** once research lands on a proof point, draft the
+      second Growth case-study addition to the one-pager (and LinkedIn
+      About, if warranted) — depends on the research task above
+- [ ] **Gap 1 — review:** present the draft, decide whether to fold it
+      into the one-pager/LinkedIn, finalize wording — depends on the
+      draft task above
+- [ ] **Gap 2 (Priority: Medium) — research:** identify the strongest
+      real example of AI-driven internal (not customer-facing)
+      efficiency — likely candidate: this repo/Claude Code workflow
+      itself (outreach drafting, research, standups) as a live, honest
+      case study. See `GAPS.md` Gap 2
+- [ ] **Gap 2 — draft:** draft the new proof-point wording for the
+      one-pager/LinkedIn once research confirms the example — depends on
+      the research task above
+- [ ] **Gap 2 — review:** present the draft, confirm, finalize — depends
+      on the draft task above
+- [ ] **Gap 3 (Priority: Low) — research:** review career history for any
+      transferable B2B/SaaS/enterprise-software angle (e.g. Indeed's
+      employer-side product, Rakuten's seller-facing tools) that could
+      partially close the domain-evidence gap, or confirm it's currently
+      unclosable. See `GAPS.md` Gap 3
+- [ ] **Gap 3 — decide:** based on research, either draft a small
+      transferable-experience addition, or make an explicit decision to
+      accept the gap and narrow ICP language accordingly — depends on
+      the research task above
 - [ ] Draft standard consulting contract template (業務委託契約) —
       pushed out from Sprint 2
 - [ ] Create an invoice template for both entities — pushed out from
@@ -88,6 +121,9 @@ LOG.md's 2026-07-16 through 2026-07-24 entries, not duplicated here.)*
 ## Upcoming (further out, unscheduled)
 - Register for JLPT N2 (window Aug 17–Sep 7, 2026) — set a reminder before
   the window; too early to act on next week
+- Re-run the full gap analysis (~2026-08-29, one month out, or sooner if
+  the one-pager/CV/LinkedIn positioning changes materially) — see
+  `GAPS.md`'s dated Log entries per gap
 - **Gated decision:** book a human Japanese speaking tutor — re-evaluate
   at the Fri 2026-07-31 review, conditional on (a) multiple AI
   conversation topics covered AND (b) feeling comfortable enough to talk
