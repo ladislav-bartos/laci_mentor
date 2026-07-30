@@ -23,7 +23,15 @@ that day.
       Duncan Dragonetti and Martin Roll both spot-checked and sent.
       Connector batch (5/5) now complete: Abishek, Dharmesh, Amir, Duncan,
       Martin
-- [ ] Chamber/event decision — carried from Sprint 2, not yet reached
+- [x] Chamber/event decision — done 2026-07-30: researched cost/guest-
+      access for all 9 chambers plus non-chamber orgs (YPO/EO/Vistage/
+      Keizai Doyukai ruled out; ICAAJ/JCPOA/JDLA identified). Decided:
+      join ICAAJ first (free), attend a few events, then join CCCJ
+      (chosen over cheaper DCCJ for better ICP fit + cross-chamber
+      bridge access; ACCJ ruled out for now due to closed guest policy).
+      Meanwhile, email JCPOA and JDLA to clarify access. See EVENTS.md's
+      "Chamber/Event Decision" section for full reasoning. Concrete
+      action items added to EVENTS.md's To Do and SPRINT.md's Upcoming
 - [x] Publish first LinkedIn post — done 2026-07-28. Draft locked
       2026-07-27 (`CONTENT.md` #11: AI-driven reorg/layoff wave), posted
       as-is with no edits. Check engagement at next standup/review
@@ -47,10 +55,18 @@ that day.
       drafted with a 3-month minimum commitment on retainer/interim and
       JPY-primary/GBP-USD-at-invoicing currency approach. See
       `uploads/private/rate-card_v1_draft.md` (gitignored)
-- [ ] Set up a follow-up-tracking cadence for sent outreach (extend
-      OUTREACH.md's Response Log with a "next follow-up date" habit)
-- [ ] Tripla next-step decision — apply directly via Robert Walters
-      (recruiter declined to re-approach; see 2026-07-23 LOG)
+- [x] Set up a follow-up-tracking cadence for sent outreach — done
+      2026-07-30: weekly review at Friday sprint review (not daily),
+      scanning OUTREACH.md's Response Log for 7-day-old Pending sends,
+      deciding follow-up count, and filing chosen ones into next
+      sprint's backlog. Added as a standing step to CLAUDE.md's review
+      checklist; Response Log got a new "Next follow-up" column
+- [x] Tripla next-step decision — done 2026-07-30: decided NOT to chase
+      further. The India-based recruiter's signal was contradictory
+      (said the role was contractor-purpose, then walked it back to "not
+      hiring contractor") — too weak/confused a lead to pursue. Will only
+      re-engage if Tripla or the recruiter reaches out directly. Applying
+      via Robert Walters is not being pursued
 - [x] Improve the outreach-drafting process — done 2026-07-27: tested the
       Friday per-contact-research addition to `/draft-outreach` on the
       Abishek send — verdict: process works as-is, no redesign/dedicated
@@ -104,6 +120,12 @@ LOG.md's 2026-07-16 through 2026-07-24 entries, not duplicated here.)*
       transferable-experience addition, or make an explicit decision to
       accept the gap and narrow ICP language accordingly — depends on
       the research task above
+- [ ] Register with JAC Recruitment (interim placement service line +
+      JAC Executive + broad Japan network) — added 2026-07-30, second
+      agency registration after Robert Walters
+- [ ] Register with Toptal — Fractional/Interim CPO practice (<3%
+      acceptance, heavier application than a simple form) — added
+      2026-07-30, separate task from JAC per the one-unit-per-task rule
 - [ ] Draft standard consulting contract template (業務委託契約) —
       pushed out from Sprint 2
 - [ ] Create an invoice template for both entities — pushed out from
@@ -112,8 +134,14 @@ LOG.md's 2026-07-16 through 2026-07-24 entries, not duplicated here.)*
       Connector warm-up confidence
 - [ ] Second LinkedIn post
 - [ ] Follow up on replies from batch 1 outreach / recruiter registrations
-- [ ] Attend or RSVP to the event decided on in Sprint 3
-- [ ] Chamber membership signup, if decided worth it in Sprint 3
+- [ ] Register with ICAAJ (Imperial College Alumni Association Japan) —
+      free, decided 2026-07-30
+- [ ] Send inquiry email to Japan CPO Association (info@japancpo.org) on
+      individual membership/access — decided 2026-07-30
+- [ ] Send inquiry email to JDLA on individual membership terms/cost —
+      decided 2026-07-30
+- [ ] Join CCCJ — sequenced after some ICAAJ attendance, not immediate;
+      see EVENTS.md's Chamber/Event Decision for reasoning
 - [ ] Import the "LinkedIn Bulk Import" tab into the CRM Google Sheet and
       spot-check a sample of each Priority Tier (esp. Tier 1's 4 Buyers)
       before treating the list as ready for outreach

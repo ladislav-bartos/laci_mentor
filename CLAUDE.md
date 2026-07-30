@@ -46,11 +46,16 @@ Everything in standup, plus:
 3. Review repetitive tasks done this week — flag any worth turning into a
    reusable Claude Code skill (e.g. the Anki-file-creation skill built
    2026-07-16), and confirm with me before treating it as a task
-4. Plan next sprint's backlog in SPRINT.md
-5. Remind me: check the next 2 weeks for holidays, family commitments, and my
+4. Review outreach follow-ups (added 2026-07-30): check OUTREACH.md's
+   Response Log for sends from the last 7 days with no reply — decide
+   with me how many follow-ups to send and schedule them into next
+   sprint's backlog. Weekly cadence chosen deliberately over a daily
+   check, to avoid adding a new daily task on top of the existing 3/day cap
+5. Plan next sprint's backlog in SPRINT.md
+6. Remind me: check the next 2 weeks for holidays, family commitments, and my
    wife's evening schedule BEFORE committing to networking events
-6. Update LEARNINGS.md with the week's insights
-7. Prune LOG.md entries older than 14 days (they already live in archive/)
+7. Update LEARNINGS.md with the week's insights
+8. Prune LOG.md entries older than 14 days (they already live in archive/)
 
 ### "adhoc" (anytime)
 Questions, task help, recommendations. Same wrap pipeline at the end.

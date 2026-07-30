@@ -68,6 +68,86 @@ channels) — this file is about events to physically/virtually attend.
 *No rows yet for Online/Virtual, Speaking opportunity, or
 Tangential/creative — these categories are unresearched gaps, see To Do.*
 
+## Chamber membership cost & guest access (researched 2026-07-30)
+*Fills the gap left by the 2026-07-17 pass (cadence/ICP-fit only, no cost data).
+Researched to support the Sprint 3 chamber/event decision — see Decision below.*
+
+| Chamber | Individual dues/yr | Entrance fee | Member event price (typical) | Non-member guest price | Guest access policy | Confidence |
+|---|---|---|---|---|---|---|
+| DCCJ (Nordic/Danish) | ¥25,000 | none | ¥1,500–9,000 (own events, confirmed) | ¥3,000–13,000 | Open guest tickets | High |
+| CCCJ (Canadian) | ¥40,000 | none | ¥4,000–10,500 (own events, confirmed) | ¥5,500–14,000 | Guest tickets at joint events (~18% premium) | High |
+| BCCJ (British) | ¥50,000 (Kanto) | none | Not confirmed standalone (~¥5,500–16,500 at joint events); free seats for Entrepreneur/Corporate+ tiers only, not Individual | ¥8,000–19,500 | Mixed — some open, some members-only | Medium |
+| ACCJ (American) | ¥75,000 | ¥15,000 | Not confirmed standalone (~¥5,500–16,500 at joint events) | ¥8,000–19,500 | Member-sponsor required, largely closed | Medium-low |
+| ANZCCJ | Not published | Unknown | Not found | ~¥19,500 at joint events | Guest tickets at joint events | Low — needs direct contact |
+| NCCJ, SCCJ, CCIFJ, DIHKJ | Not published | Unknown | Not found | Not found | Unknown | Low — needs direct contact |
+| FCCJ | ~¥240,000/yr (only tier open given his PR status; ¥400,000 initiation) | ¥400,000 | Not found | N/A | Members/guests-of-members only | High |
+| EBC | No individual tier — corporate/policy body only | n/a | n/a | n/a | Unclear | N/A for solo consultant |
+
+**Flags specific to Laci:** FCCJ's cheap Five-Year Associate route is explicitly closed to Permanent Residency holders, leaving only the ~¥680k-first-year Associate tier (Board-approval-gated) — ruled out. EBC has no individual membership tier at all (corporate/trade-policy body) — ruled out. BCCJ/ACCJ carry no citizenship requirement despite the national names, but this wasn't independently confirmed from primary sources for BCCJ.
+
+## Non-chamber organizations (researched 2026-07-30)
+*Beyond chambers — executive networks, alumni bodies, product/AI-industry
+associations. Researched to broaden the Sprint 3 chamber/event decision
+beyond chambers-only.*
+
+**Ruled out (researched, don't re-investigate):**
+- **YPO / EO** — both require being CEO/founder/owner of a company above a
+  revenue threshold he doesn't currently meet (no non-principal associate
+  tier found)
+- **Vistage** — doesn't exist in Japan (no APAC presence includes Japan)
+- **CEOx1Day** — a student/CEO shadowing program, not a peer network
+- **Keizai Doyukai** — invitation-only, old-guard domestic large-cap,
+  no confirmed foreign-national path
+- **Product-Led Alliance / Mind the Product** — no real Tokyo/Japan
+  chapter found beyond ProductTank Tokyo (already logged)
+- **Institute of Interim Management (UK), IMIANZ (AU/NZ)** — confirmed no
+  Japan/APAC reach; **Interim Management Worldwide (IMW)** is an agency
+  alliance, not a peer network — cross-reference RECRUITERS.md instead
+- **JVCA / JPEA (VC/PE associations)** — membership is firm-level, doesn't
+  put him in a room with portfolio-company CEOs directly
+
+**Worth pursuing:**
+- **ICAAJ (Imperial College Alumni Association Japan)** — free, ~1,000
+  alumni, AGM + occasional lectures/socials. Broad-based (not laser ICP),
+  but real, immediately joinable, and doubles as a 1:1 outreach opener
+  independent of events. **Decision: join first, before any chamber.**
+- **Japan CPO Association (JCPOA)** — built around actual CPOs at
+  SmartHR/LINE Yahoo/Rakuten; best product-specific ICP density found, but
+  membership/access model unconfirmed. **Action: inquiry email to
+  info@japancpo.org**, don't assume open enrollment.
+- **JDLA (Japan Deep Learning Association)** — AI-industry body, individual
+  certification + study groups drawing executives/managers, not just
+  engineers. Aligns with the "AI-driven transformation" positioning pillar
+  and existing GCP/DeepLearning.AI credentials. **Action: inquiry email on
+  individual membership terms/cost.**
+- **Tokyo Product Leaders** (quarterly meetup, more senior than
+  ProductTank) — champion/peer-level (Head/VP Product), not direct-buyer
+  reach. Low-cost enough to try once.
+- **FirstMark Product Guild** — free to apply, C-/VP-level vetted, but
+  US-VC-centric with no confirmed Japan density — low expected yield, try
+  only if near-zero effort.
+- **JANE (Japan Association of New Economy)** — strong ICP concentration
+  (Mikitani/Rakuten-founded, founder/CEO-heavy) if accessible; individual
+  eligibility unconfirmed — check jane.or.jp/en directly if pursued later.
+
+## Chamber/Event Decision (2026-07-30)
+Decided at the Sprint 3 review, after the cost/guest-access and
+non-chamber-org research above:
+1. **Join ICAAJ first** (free, no reason to wait) and attend a few events
+   to build a first read on real value before spending on a chamber.
+2. **Join CCCJ next** (not simultaneously) — chosen over cheaper DCCJ
+   because CCCJ's ICP fit was already rated "Good" in the 2026-07-17 pass
+   (vs. DCCJ/Nordic's "Moderate") and CCCJ explicitly bridges into joint
+   events with BCCJ/ACCJ/ANZCCJ at member rates — better audience density
+   for similar cost (¥40k dues + ¥4-10.5k/event). ACCJ has the best-rated
+   ICP fit of all nine but was ruled out for now due to its closed
+   member-sponsor-only guest policy (no low-stakes trial possible) —
+   revisit once CCCJ membership validates the chamber format, same
+   "prove cheaply before scaling" pattern used elsewhere (Sales Navigator,
+   Anki batching).
+3. **Meanwhile:** send inquiry emails to JCPOA and JDLA — cheap to ask,
+   unblocks a real decision on both later.
+
 ## Near-term opportunities (as of 2026-07-17 research pass)
 
 - **No event found for Fri 2026-07-24 evening** (his one open slot next
@@ -91,11 +171,16 @@ Tangential/creative — these categories are unresearched gaps, see To Do.*
 run, and during standups/reviews once events are actually attended (what
 was good, what wasn't, who to follow up with).*
 
+- [ ] Register with ICAAJ (Imperial College Alumni Association Japan) —
+  free, decided 2026-07-30
+- [ ] Attend an ICAAJ event once one's on the calendar
+- [ ] Join CCCJ — sequenced after some ICAAJ attendance, not immediate
+- [ ] Send inquiry email to Japan CPO Association (info@japancpo.org) on
+  individual membership/access
+- [ ] Send inquiry email to JDLA on individual membership terms/cost
 - [ ] Check whether the Joint Chamber Summer Cocktail 2026 registration
   (deadline was 2026-07-17) is actually closed — via any chamber
   membership held
-- [ ] Decide chamber membership question (Sprint 2 task) — feeds back
-  into which events become realistically attendable vs. guest-only
 - [ ] Research gap: **Online/Virtual** events — webinars, virtual panels
   (e.g. Product Coalition, SVPG, other product-leadership communities
   that run online sessions open beyond the US)

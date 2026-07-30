@@ -10,7 +10,47 @@
   up a follow-up-tracking cadence for sent outreach, (3) Tripla
   next-step decision (apply directly via Robert Walters)
 - No blockers
-- Starting with the Tripla decision first
+- (cont.) All 3 of today's picks completed:
+  - **Tripla decision:** decided NOT to chase further — the India-based
+    recruiter's own signal was contradictory (said contractor-purpose,
+    then walked it back to "not hiring contractor"), too weak/confused a
+    lead. Will only re-engage if Tripla or the recruiter reaches out
+    directly; applying via Robert Walters not being pursued. New idea
+    surfaced from this discussion: register with 2 more recruiter
+    agencies (only Robert Walters done so far) — added as two separate
+    tasks per the one-unit-per-task rule: JAC Recruitment and Toptal
+    Fractional/Interim CPO, both to SPRINT.md's Upcoming
+  - **Follow-up-tracking cadence:** designed and built. User's own
+    proposal — review weekly at the Friday sprint review (not daily), to
+    avoid stacking a new daily task on the 3/day cap. Added as a standing
+    step in CLAUDE.md's review checklist; OUTREACH.md's Response Log got
+    a new "Next follow-up" column, first real pass happens at tomorrow's
+    review
+  - **Chamber/event decision:** researched membership cost + guest-access
+    for all 9 candidate chambers (gap left by the 2026-07-17 pass, which
+    only covered cadence/ICP-fit), plus a fresh look at non-chamber orgs
+    (executive networks, alumni bodies, product/AI associations) — both
+    via background research agents, run after confirming scope/timing
+    with the user per CLAUDE.md's mid-conversation research rule. Found:
+    DCCJ has the best raw cost/frequency (¥25k/yr, cheap per-event, real
+    standalone calendar) but only "Moderate" ICP fit; EBC has no
+    individual tier at all (corporate/policy body only); FCCJ's cheap
+    tier is closed to Permanent Residency holders, leaving only a
+    ~¥680k-first-year option — both EBC and FCCJ ruled out. Non-chamber
+    research ruled out YPO/EO (revenue/ownership thresholds not met),
+    Vistage (no Japan presence), CEOx1Day (student program, not a
+    network), and Keizai Doyukai (invitation-only, no foreign-national
+    path); surfaced ICAAJ (Imperial alumni, free), Japan CPO Association,
+    and JDLA (AI association) as worth pursuing. Decided: join ICAAJ
+    first (free, immediate), attend a few events, then join CCCJ
+    (chosen over cheaper DCCJ for better ICP fit + cross-chamber bridge
+    access to BCCJ/ACCJ/ANZCCJ joint events; ACCJ ruled out for now
+    despite best-rated ICP fit, due to closed member-sponsor-only guest
+    policy — same "prove cheaply before scaling" pattern used elsewhere).
+    Meanwhile, send inquiry emails to JCPOA and JDLA to clarify access.
+    Full reasoning and cost tables in EVENTS.md's new sections; action
+    items filed to SPRINT.md's Upcoming
+  - No blockers
 
 ## 2026-07-29 (Wed) — Sprint 3, Day 3
 - Inbox: empty, nothing to process
