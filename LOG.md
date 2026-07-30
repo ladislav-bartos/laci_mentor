@@ -1,5 +1,17 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-30 (Thu) — Sprint 3, Day 4
+- Inbox: empty, nothing to process
+- Yesterday (07-29): confirmed complete as logged, plus Japanese tasks
+  (book week 2/day 5, Anki, conversation practice, drill) were done but
+  not recorded live — backfilled into the 07-29 entry above
+- Today's picks (3, all closing out Sprint 3's remaining open backlog
+  before tomorrow's Friday review): (1) chamber/event decision, (2) set
+  up a follow-up-tracking cadence for sent outreach, (3) Tripla
+  next-step decision (apply directly via Robert Walters)
+- No blockers
+- Starting with the Tripla decision first
+
 ## 2026-07-29 (Wed) — Sprint 3, Day 3
 - Inbox: empty, nothing to process
 - Yesterday (07-28) confirmed complete, no corrections needed
@@ -54,6 +66,9 @@
     ~15% premium), plus a 3-month minimum on retainer/interim and a
     JPY-primary/GBP-USD-at-invoicing currency approach. All three
     drafting defaults approved as proposed; flags removed, marked final
+  - Japanese: all tasks completed — book study (week 2, day 5), Anki,
+    conversation practice, and the drill (confirmed 2026-07-30, filling a
+    gap in this entry)
   - No blockers
 
 ## 2026-07-28 (Tue) — Sprint 3, Day 2
