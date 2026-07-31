@@ -72,6 +72,11 @@
   weekly Anki prep needed for now
 - AI voice conversation practice: trialing Claude, Google, and Grok — Grok has
   had the best speech recognition so far (as of 2026-07-16)
+- Conversation practice material switched 2026-07-31: AI-generated topics
+  became a blocker rather than a help (vocab in later topics got too hard,
+  stalling practice instead of building confidence). Switched to 日本語
+  Express (Practical Conversation Japanese, Book 1) — one lesson/day; lesson
+  1 done 2026-07-30. Revisit after ~1 week to see if it lands better
 
 ## Goals
 - Income target: ≥¥40M/year (restoration of Indeed level, not aspiration)

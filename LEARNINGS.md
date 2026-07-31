@@ -299,7 +299,54 @@
   effort-to-close vs. impact on the two core pillars rather than in the
   order the gaps were found.
 
+- 2026-07-31: Sprint 3 closed at **9/9 planned backlog items**, vs.
+  Sprint 2's 4/12 — a clear validation of the changes made at the 07-24
+  review (~2/day pacing rather than maxing 3/day, one-unit-per-task
+  backlog items, "prove one then batch" for outreach/Anki-style
+  content). Worth treating that pacing model as proven, not just a
+  one-off recovery.
+- 2026-07-31: Outreach confidence pattern confirmed end-to-end — the
+  user reported the first sends in the Connector batch felt genuinely
+  hard/blocking, but by the end (5/5 sent) the process felt normal, with
+  "no negative experience" from any send. Same for the first LinkedIn
+  post (944 impressions, 626 members reached) — fear beforehand, no
+  actual backlash after. Validates the existing "treat first attempts as
+  low-stakes practice" pattern (FACTS.md) with a full before/after now on
+  record, not just the stated intention.
+- 2026-07-31: Japanese conversation practice — AI-generated topics became
+  a blocker rather than a help once later topics' vocabulary outpaced
+  what the user could recall, stalling practice instead of building
+  confidence. Switched to a structured textbook (日本語 Express,
+  Practical Conversation Japanese Book 1), one lesson/day. Because the
+  original tutor-booking gate condition (multiple AI topics completed)
+  wasn't met, the gate was pushed from Fri 07-31 to Fri 2026-08-28 rather
+  than resolved today.
+- 2026-07-31: When scaling any per-unit-effort activity (here: outreach
+  volume), a straight 5x jump in one step (from ~1/day to a proposed
+  5/day) was reconsidered in favor of a weekly-doubling ramp (2 → 4 → 8),
+  because the per-contact personalization process (background check,
+  finding a genuine tie, iterating to the user's actual voice) took real,
+  variable time even at this week's low volume. Same "prove at a small
+  scale before batching up" principle already applied to Anki content and
+  outreach drafting — worth applying by default whenever volume is about
+  to increase sharply, not just when starting something new.
+- 2026-07-31: First `/research-content-watch` run found 0 new qualifying
+  posts across all 12 watchlist people and 4 Substack sources. Two
+  apparent leads turned out to be false positives once fetched for real
+  dates — web search has weak recency signal for LinkedIn, surfacing
+  posts that read as recent in snippets but were actually months old.
+  Process note for future runs: narrow to the 3-4 most-active names
+  rather than exhaustively re-checking all 12 each time.
+- 2026-07-31: `GAPS.md`'s ~monthly re-run pattern was flagged as a
+  `/gap-analysis` skill candidate (mirroring `/research-content-watch`
+  etc.), but deferred rather than built — same "prove it manually before
+  automating" pattern applied elsewhere; will revisit alongside the
+  ~2026-08-29 re-run.
+
 ## Completed
+- 2026-07-31: Sprint 3 closed 9/9. Sprint 4 planned (15-item backlog,
+  Mon 2026-08-03 → Fri 2026-08-07) — heavier than Sprint 3's 9, flagged
+  as maxing the 3/day cap with no slack, kept per the user's call.
 - 2026-07-12: 2026 roadmap v1 agreed; operating system (this repo) created
 - 2026-07-14: Positioning statement, LinkedIn headline, About section, and
   "Open to Providing Services" plan finalized (see archive/

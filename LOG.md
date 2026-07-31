@@ -1,5 +1,66 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-07-31 (Fri) — Sprint 3, Day 5 / Weekly Review
+- Inbox: empty, nothing to process
+- Yesterday (07-30): confirmed complete, no corrections
+- Today's Japanese: Anki, drill, and book study (week 2, day 6) done;
+  conversation practice pending for later today — lesson 2 of 日本語
+  Express (switched from AI-generated topics, see below)
+- Today's picks (3): (1) register with ICAAJ, (2) review upcoming
+  ICAAJ/Tokyo events, (3) reply to 2 LinkedIn outreach replies (Amir,
+  Martin)
+- No blockers
+- Conversation-practice change: AI-generated topics became a blocker
+  rather than a help — vocab in later topics got too hard, stalling
+  practice instead of building confidence. Switched to 日本語 Express
+  (Practical Conversation Japanese, Book 1), one lesson/day; lesson 1
+  done 07-30, lesson 2 planned for later today. Revisit in ~1 week
+- Tutor-booking gate (was due for re-evaluation today): pushed to Fri
+  2026-08-28 — original condition (multiple AI conversation topics
+  completed) wasn't met since the AI-topic approach stalled rather than
+  finished; still wants a tutor, needs another month building
+  vocab/confidence via the new book first
+- Weekly review — Sprint 3 scored: **9/9 planned backlog items
+  completed** (vs. Sprint 2's 4/12), validating the 07-24 review's
+  changes (~2/day pacing, one-unit-per-task backlog items, "prove one
+  then batch"). Outreach this week: 4 sent (Abishek 07-27, Amir 07-28,
+  Duncan 07-29, Martin 07-29), rounding the Connector batch to 5/5 total
+  with Dharmesh (07-24). 2 replies received (Amir, Martin) — Response
+  Log updated, reply-back is part of today's task list. 0 events
+  attended (chamber decision made; ICAAJ registration is today's task).
+  Japanese: ~2h/day all week
+- First LinkedIn post results: 944 impressions, 626 members reached —
+  first real engagement data point. User reported building confidence
+  through outreach and posting: initial attempts felt hard/blocking,
+  later ones felt normal, no negative experience from either
+- Outreach follow-up scan (Response Log): Dharmesh (07-24, 7 days
+  pending) and Sara Al-Attas (07-22, 9 days pending) old enough to
+  warrant a follow-up — added as Sprint 4 tasks. Abishek/Duncan/
+  Abdulnaser still under 7 days, left for next Friday's scan
+- Skill-candidate review: `GAPS.md`'s ~monthly re-run pattern flagged as
+  a `/gap-analysis` candidate (mirroring `/research-content-watch` etc.)
+  — deferred to the ~08-29 re-run rather than building now
+- Ran `/research-content-watch` (first-ever run): 0 new qualifying posts
+  found across 12 watchlist people + 4 Substack sources; §5 last-checked
+  updated to 07-31, committed separately
+- Sprint 4 (Mon 08-03 → Fri 08-07) planned: 15-item backlog at ~3/day
+  (maxes the cap every day — flagged as a risk given reactive work has
+  displaced part of the plan every sprint so far, kept per user's call):
+  Warm Buyer outreach x4 + 1 Connector (one/day), JCPOA/JDLA emails, JAC
+  registration, 2nd LinkedIn post (research + publish), Gap 1/2/3
+  research, Dharmesh/Sara follow-ups
+- Outreach volume ramp plan set: week of 08-10 → 2/day, 08-17 → 4/day,
+  08-24 → 8/day, doubling/holding/pulling back decided fresh each Friday
+  based on how capacity holds — chosen over an immediate jump to 5/day
+  given this week's real per-contact personalization time
+- Also captured for week of 08-10: "attend first ICAAJ event" and a
+  "positioning-drift audit" (CV/LinkedIn/one-pager) once Gap 1/2/3
+  changes land
+- 2-week calendar: week of 08-03 confirmed (Mon StageLync, Thu date
+  night, no bank holiday); Tue/Wed/Fri evening availability pending
+  wife's schedule, user to confirm and report back
+- No blockers
+
 ## 2026-07-30 (Thu) — Sprint 3, Day 4
 - Inbox: empty, nothing to process
 - Yesterday (07-29): confirmed complete as logged, plus Japanese tasks
@@ -397,102 +458,6 @@ header also never got promoted from Sprint 2 to Sprint 3. See LOG.md
   opportunity, and tangential-event categories
 - No blockers
 
-## 2026-07-16 (Thu) — Sprint 1, Day 4
-- Inbox: empty, nothing to process
-- Day 3 completions confirmed: Anki font/UX fixed; Anki content pre-built
-  through week 8 (no more weekly Anki prep needed); first real study session
-  done (~90 min)
-- Insight: N2 drills partially good/bad — realized correct grammar/reading
-  answers often come from test-taking skill, not real understanding; true
-  weakness is vocabulary recall/recognition — refocusing study emphasis
-- Trialed Claude/Google/Grok for AI Japanese voice conversation practice
-  (separate from notes-dictation tool) — Grok has best speech recognition so
-  far, leaning toward it
-- Conversation practice currently unstructured; plan to build a topic list
-  (self-intro, job, family, etc.), aiming for 5 min unprompted speech per
-  topic before considering booking a human tutor — tutor still feels
-  premature until basic-topic confidence is built
-- Notes-dictation tool (separate from conversation-practice AI) confirmed
-  working well "as expected" — contrasts with earlier garbling issues; flag
-  for Friday's keep/drop decision
-- Next week's calendar flagged for Friday's family/holiday check: Mon 7/20
-  9pm StageLync meeting, Thu 7/23 evening date night, Fri 7/24 3pm haircut;
-  wife's schedule to follow tomorrow
-- Today's picks: CRM setup + first 10 warm contacts, build conversation
-  topic list, daily N2 study
-- Afternoon: built the business-dev system — CRM structure (Google Sheet,
-  columns incl. Target Fit vs. Ideal Contact Profile applied to all ~8,000
-  LinkedIn contacts, and Role Type Buyer/Connector), full ICP defined,
-  LinkedIn data export requested; decided to defer Sales Navigator spend
-  until warm outreach is proven
-- Created `SOURCES.md` (contact-sourcing channel research + log) and the
-  `/research-sources` command (rotates research angle each run); committed
-  and pushed
-- Created `OUTREACH.md` — message templates by Role Type (Warm Buyer, Warm
-  Connector, New/Networking Buyer) + response log, principle: never open
-  with the pitch, always end with a low-commitment ask
-- CRM completed: sheet + structure + export requested. Still open: add
-  first 10 warm-contact names, and the bulk AI pass once the export lands
-- Conversation topic list and today's N2 study not yet done — carried to
-  tomorrow (confirmed with user, not assumed)
-- No blockers
-- No blockers
-
-## 2026-07-15 (Wed) — Sprint 1, Day 3
-- Inbox: empty, nothing to process
-- Yesterday's completions confirmed: LinkedIn profile now live (one-liner +
-  About pasted in, "Open to > Providing services" enabled with service
-  categories selected — categories not tracked in detail per user request);
-  Anki v1 built for N2 weekly material
-- Yesterday's issue found: Anki card front-of-card font too small/hard to
-  read — fix planned for today
-- Yesterday's misses: N2 study session and tutor AI drill not completed
-- Decision: merged "warm-contact list" and "networking CRM setup" (was
-  unscheduled) into one task — single sheet, tagged by contact source —
-  pulled forward into this week's SPRINT.md list; contact list creation
-  pushed to tomorrow (Day 4) so today stays single-domain
-- Today's picks: catch up on N2 study session, drill, and AI tutor
-  conversation; fix Anki card font/design — all Japanese-only, deliberately
-  narrowed after Day 2 spread across three domains and let the habit slip
-- No blockers
-
-## 2026-07-14 (Tue) — Sprint 1, Day 2
-- Inbox cleared: JLPT reg window (Aug 17–Sep 7) filed to FACTS + reminder task
-  added; accountant confirmed invoicing works for both UK/JP entities
-- Voice dictation issues logged (partial capture, EN/JP recognition failures)
-  — trialing daily this week, decide keep/drop at Fri review
-- N2 tutor AI drill quality issue logged (repeats source questions verbatim)
-  — not yet a fix task, revisit if it persists
-- Workflow change: N2 weekly material now pre-loaded to tutor AI in advance,
-  cutting daily prep time
-- Today's picks: set up N2 study system (Anki + AI tool), draft positioning
-  statement (needs help), refresh LinkedIn (needs help, using CV/profile)
-- Tutor booking deferred to next sprint; re-evaluate AI conversation tool
-  progress at Fri review first
-- Extended session: researched fractional/interim VP of Product market
-  (46% YoY growth) and reviewed 7 real job postings + 2 composite archetypes
-  to pressure-test positioning against real hiring demand
-- Finalized positioning statement, LinkedIn headline, and About section —
-  Growth & Transformation framing, Japan/APAC, growth-stage-to-enterprise
-  audience, quantified DAZN/Rakuten/Indeed achievements
-- Decided: LinkedIn "Open to > Providing services" over job-seeking; title
-  "VP of Product" over ambiguous "CPO"
-- Captured fuller career history (DAZN, Rakuten, Amazon, Indeed, Okomp,
-  Gumtree, MBA) into FACTS.md for future outreach use
-- No blockers
-
-## 2026-07-13 (Mon) — Sprint 1, Day 1
-- First proper Claude Code standup (voice mode tested)
-- Repo set up, first commit done (carried over from strategy session)
-- Accountant email sent (JP + UK): entity/client routing question
-- JLPT December registration window: not yet checked, carry to tomorrow
-- Japanese block: planned (tutor setup, Sou Matome, speaking practice)
-- N2 study session: completed
-- Speaking practice: completed
-- Japanese tutor AI (Claude-based, for drills/conversation) set up — took time,
-  some issues, but working now
-- N2 drill completed (via tutor AI)
-- No blockers
-
-## 2026-07-12 (Sun) — Setup
-- Roadmap agreed, repo created, Sprint 1 defined. First standup: Mon 2026-07-13.
+*(Entries before 2026-07-17 pruned 2026-07-31, per the 14-day rolling
+window — full detail for 2026-07-12 through 2026-07-16 lives in
+`archive/`.)*
