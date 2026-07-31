@@ -343,6 +343,30 @@
   automating" pattern applied elsewhere; will revisit alongside the
   ~2026-08-29 re-run.
 
+- 2026-07-31: Amir Arshadnejad's reply revealed a real shared memory
+  (visited the DAZN Tokyo office together, met Docomo and other telcos, a
+  night out afterward) that the per-contact spot-check process couldn't
+  have caught — it checks for message history, not undocumented
+  in-person encounters. A genuine limitation of that check, not a
+  process failure: some real warm ties simply aren't discoverable until
+  the other person recalls them. Worth remembering when a "confirmed
+  cold" classification gets a warmer-than-expected reply — it may mean
+  the contact remembers something the records never captured, not that
+  the classification was sloppy.
+- 2026-07-31: Built a "Voice Persona" for OUTREACH.md by directly
+  comparing an AI-drafted reply (to Martin Roll) against the user's own
+  dictated rewrite of the same message — a much faster way to extract
+  concrete tone rules than asking abstractly "what's your voice."
+  Concrete traits that emerged: plain short reactions over polished
+  transitions, simple curiosity over interview-style questions, comfort
+  admitting unfamiliarity, soft asks ("maybe we could..."), no inserted
+  jargon the other person didn't bring up, short sequential sentences,
+  short standalone greeting line before a blank line, and — confirmed
+  via the Amir draft — no em dashes joining clauses and no email-style
+  "Best, [Name]" sign-off on LinkedIn DMs (the platform already shows
+  the sender's name). Worth reusing this "diff an AI draft against a
+  real rewrite" method any time voice/tone guidance needs refining.
+
 ## Completed
 - 2026-07-31: Sprint 3 closed 9/9. Sprint 4 planned (15-item backlog,
   Mon 2026-08-03 → Fri 2026-08-07) — heavier than Sprint 3's 9, flagged

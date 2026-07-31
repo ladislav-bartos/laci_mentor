@@ -21,6 +21,25 @@
   (Global Celebrations, summer 2026) already closed registration
   2026-06-18. Nothing to act on; will resurface via the followed
   Facebook page rather than a dedicated recurring check
+- Pick 3 done: replied to both Martin Roll and Amir Arshadnejad.
+  **Amir's reply revealed a real shared memory** — he visited the DAZN
+  Tokyo office, met Docomo and other telcos, went out afterward (Coyote
+  Ugly) — meaning last week's "confirmed cold" classification was wrong;
+  the per-contact spot-check couldn't have caught an undocumented
+  in-person encounter. Also shared market color: EU/NA/SA are ESL
+  FACEIT's main markets, CS2 isn't big in Asia yet, he'll flag if
+  Japan/APAC expansion comes up. Martin's reply: happy to connect,
+  invited following his family business/family office content, 18+
+  years Singapore-based with Japan a regular client-travel stop.
+  Built a **Voice Persona** for OUTREACH.md by comparing an AI-drafted
+  reply against the user's own dictated rewrite — concrete traits
+  captured: plain short reactions, simple curiosity over interview-style
+  questions, comfort admitting unfamiliarity, soft asks, no inserted
+  jargon, short sequential sentences, standalone greeting line before a
+  blank line, no em dashes joining clauses, and no email-style "Best,
+  [Name]" sign-off on LinkedIn DMs. Both replies sent using the new
+  persona; Amir's is the first message sent without a sign-off. Response
+  Log updated for both contacts
 - Conversation-practice change: AI-generated topics became a blocker
   rather than a help — vocab in later topics got too hard, stalling
   practice instead of building confidence. Switched to 日本語 Express

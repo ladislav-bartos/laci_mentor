@@ -26,10 +26,42 @@ to save the small pool of actual Warm Buyers for once he's comfortable.
 Plan: Connectors in Sprint 2 (week of 2026-07-21), Warm Buyers the
 following week once confidence is built.
 
-## Voice Reference (added 2026-07-24)
-The first message to actually land in the user's own voice, after several
-rewrites — use as the tone benchmark for future drafts. Plainer than
-typical AI phrasing: "really sorry," "wanted to reach out," "I'd really
+## Voice Persona (expanded 2026-07-31)
+Built by comparing an AI-drafted reply against the user's own dictated
+rewrite of the same message (Martin Roll reply-back, 07-31) — use these
+traits by default for any future draft/reply, not just as an after-the-fact
+check.
+
+**Do:**
+- Plain, short reactions instead of polished transitions — "Good to hear" /
+  "That's great," not "It's wonderful to learn that..."
+- Simple curiosity, not interview-style — "I'd love to learn more about X,"
+  not "I'd be curious to hear what you're seeing shift for..."
+- Comfortable admitting unfamiliarity — "X is new to me, but interesting,"
+  rather than sounding expert on everything
+- Soft asks — "maybe we could..." rather than declarative "would be great
+  to..."
+- Short, sequential sentences over nested/compound ones
+- Opens with a short standalone greeting line (e.g. "Thanks, Martin!"),
+  then a blank line, before the message body — not one continuous opening
+  sentence
+
+**Don't:**
+- Don't join clauses with an em dash ("X — Y") to sound punchy/composed.
+  The user never writes that way; split into separate sentences instead
+- Don't insert jargon or "market color" the other person didn't actually
+  bring up themselves (e.g. an early draft added "succession and
+  market-entry activity" that Martin never mentioned). Reads as
+  AI-generated and slightly fishing for an angle
+- Don't close LinkedIn DMs with an email-style sign-off ("Best,
+  Ladislav") — the platform already shows the sender's name, so it reads
+  as an email transplanted onto LinkedIn. Added 2026-07-31 after the
+  Amir reply
+
+## Message Samples
+The messages below that actually landed in the user's own voice, after
+rewrites — use as tone benchmarks for future drafts. Plainer than typical
+AI phrasing: "really sorry," "wanted to reach out," "I'd really
 appreciate," "Thanks in advance" — not "incredibly delayed," "I am
 currently seeking," "incredibly grateful."
 
@@ -54,6 +86,40 @@ currently seeking," "incredibly grateful."
 Note: uses "CPO" alongside "VP of Product," deliberately — Dharmesh is at
 a startup (MAGIC AI), where CPO is typically hands-on/execution rather
 than pure vision-setting. See FACTS.md positioning refinement 2026-07-24.
+
+**Reply to Martin Roll's response (07-31, sent) — the sample the Voice
+Persona above was built from; note the short standalone greeting line and
+no em dashes. Sent before the "no sign-off" rule below was established, so
+it still has one:**
+
+> Thanks, Martin!
+>
+> I'll definitely follow your posts. Family business and family offices is
+> a pretty new topic for me, but genuinely interesting. Good to hear you
+> love Japan! I'd love to learn more about your experience with clients
+> here. Maybe it's something to chat about next time you're heading this
+> way. Would be great to grab a coffee then.
+>
+> Best,
+> Ladislav
+
+**Reply to Amir Arshadnejad's response (07-31, sent) — first message
+without an email-style sign-off, per the rule above:**
+
+> Hi Amir!
+>
+> Yes, Coyote Ugly! Those were the times.
+>
+> I'm glad you remembered. My goal is always to make sure everyone who
+> visits Japan has so much fun they never forget it. Glad it worked out
+> with you too.
+>
+> On CS2, Asia is a tough market with a lot of local competition. I hope
+> you guys can crack it soon.
+>
+> Really appreciate your reply. Would be good to catch up sometime. Hope
+> you can make it back to Japan again soon, or maybe I'll see you next
+> time I'm in London.
 
 ## Templates
 
@@ -273,7 +339,7 @@ based on real signal rather than guesswork.
 | 2026-07-24 | Dharmesh Raithatha / MAGIC AI | Connector | 4. LinkedIn Connector (never met) — reply-in-thread variant | Pending | Week of 2026-08-03 (Sprint 4 task) | First of the Connector batch actually sent. Took multiple rewrites to land tone/voice — now the Voice Reference sample above |
 | 2026-07-27 | Abishek Varadarajan / Meta | Connector | 2. Warm Connector | Pending | TBD at next review | Reclassification finding: the bulk `/classify-contact` pass tagged this batch of 5 "non-ex-colleague/LinkedIn-only," but Abishek is actually a genuine ex-colleague (Visual DNA, 2012, London) with personal history — used Warm Connector instead. Worth spot-checking Amir/Duncan/Martin (same batch) before drafting them. Deep per-contact research (Friday's process improvement) worked well here — message needed real back-and-forth to land in voice but no major rework of the process itself |
 | 2026-07-28 | Abdulnaser Alturkait / Salhia | N/A (marketplace lead, off-ICP by title — IT Manager, not a decision-maker — but strong subject-matter overlap) | 6. Service Marketplace Deliverable-Scoped Coaching, Intro-Call-First | Pending | TBD at next review | Ask: "60-day plan or 360-degree review," for "myself, my team" — same scoping ambiguity as Sutirtha (one-off vs. ongoing, who builds it) plus a new one (individual vs. team), so reused Template 6 near-verbatim with an added scoping question. No "Open to Work" badge (checked before engaging, per the Asad Aftab precedent) |
-| 2026-07-28 | Amir Arshadnejad / ESL FACEIT | Connector (confirmed — not reclassified, unlike Abishek) | 4. LinkedIn Connector (never met) | **Y** | — | 3 of 5 in the Connector batch now sent. Per-contact check found a real but non-personal tie: both at DAZN during an overlapping window (him UK product team, user launching DAZN Japan) — no messages ever exchanged, so still genuinely cold, but used the DAZN-overlap fact as the opener instead of the template's default "cover APAC" line, which would've been factually wrong (he's focused on the European market, not APAC). Replied (confirmed 2026-07-31) — reply-back is a same-day task, not yet drafted as of this log entry |
+| 2026-07-28 | Amir Arshadnejad / ESL FACEIT | Connector — **correction 2026-07-31: not actually cold.** His reply revealed a real shared memory (visited the DAZN Tokyo office, met Docomo and other telcos, went out afterward — Coyote Ugly) that the per-contact spot-check couldn't have surfaced, since it checked message history, not undocumented in-person encounters. A real limitation of that check, not a process failure | 4. LinkedIn Connector (never met) | **Y** | — | 3 of 5 in the Connector batch now sent. Per-contact check found a real but non-personal tie: both at DAZN during an overlapping window (him UK product team, user launching DAZN Japan) — no messages ever exchanged, so assumed genuinely cold, but used the DAZN-overlap fact as the opener instead of the template's default "cover APAC" line, which would've been factually wrong (he's focused on the European market, not APAC). Replied 2026-07-31 revealing they'd actually met in person (see correction). Market color: main markets EU/NA/SA, CS2 (their main esport) not big in Asia yet, he'll flag if Japan/APAC expansion comes up. **Reply-back sent 2026-07-31** — see Message Samples, first message with no email-style sign-off |
 | 2026-07-29 | Duncan Dragonetti / The Economist (AI Lab) | Connector | 4. LinkedIn Connector (never met) — reply-in-thread variant | Pending | TBD at next review | 4 of 5 in the Connector batch now sent. CRM was stale (had him at Yoto) — actually now Head of Product/Product Director at The Economist's AI Lab (since 2025), prior stints at Spotify (shipped AI DJ), Channel 4, BBC; appears to be running Yoto and the Economist AI Lab concurrently. Real but thin tie: a 2016 email exchange (user invited him to a London product meetup, he replied with contact info, user never followed up) — used as a reply-in-thread apology opener rather than a fresh cold intro, same pattern as Dharmesh. Dropped the template's default "cover APAC" line (factually wrong, he's UK/global media-tech, not Japan/APAC) and closed with a genuine curiosity question about juggling two roles instead |
-| 2026-07-29 | Martin Roll / McKinsey (Senior Advisor) + Martin Roll Company | Connector | 4. LinkedIn Connector (never met) | **Y** | — | 5 of 5 in the Connector batch now sent — batch complete. Genuinely cold, no prior interaction. Strong geography fit (unlike Amir/Duncan): 20 years Singapore-based, globally-focused family-business/succession advisor, McKinsey Senior Advisor since Apr 2024, INSEAD faculty — so kept the template's default "cover APAC" framing (true this time), broadened to "globally" per his correction. Tie used: both run portfolio/advisory-style careers now as long-term Asia-based expats. Dropped an Imperial-MBA-Asia-focus callout (user unsure it added value) and softened the closing ask from "quick call" to "swap notes sometime, no expectations either way". Replied (confirmed 2026-07-31) — reply-back is a same-day task, not yet drafted as of this log entry |
+| 2026-07-29 | Martin Roll / McKinsey (Senior Advisor) + Martin Roll Company | Connector | 4. LinkedIn Connector (never met) | **Y** | — | 5 of 5 in the Connector batch now sent — batch complete. Genuinely cold, no prior interaction. Strong geography fit (unlike Amir/Duncan): 20 years Singapore-based, globally-focused family-business/succession advisor, McKinsey Senior Advisor since Apr 2024, INSEAD faculty — so kept the template's default "cover APAC" framing (true this time), broadened to "globally" per his correction. Tie used: both run portfolio/advisory-style careers now as long-term Asia-based expats. Dropped an Imperial-MBA-Asia-focus callout (user unsure it added value) and softened the closing ask from "quick call" to "swap notes sometime, no expectations either way". Replied 2026-07-31 — happy to connect, invited following his family business/family office content, mentioned 18+ years in Singapore with Japan a regular client-travel stop. **Reply-back sent 2026-07-31** — see Message Samples |
 | | | | | | | |
