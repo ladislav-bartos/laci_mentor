@@ -10,6 +10,17 @@
   ICAAJ/Tokyo events, (3) reply to 2 LinkedIn outreach replies (Amir,
   Martin)
 - No blockers
+- (cont., post-wrap) Pick 1 done: registered with ICAAJ at
+  https://skk-icaaj.org/en/registration/ (found via search — EVENTS.md's
+  original research hadn't captured the actual link), also followed
+  their Facebook page. Confirmed this is separate from the global
+  Imperial Business School alumni database he was already in from his
+  MBA (a newsletter from that central list was mistaken for ICAAJ
+  membership at first). Pick 2: checked skk-icaaj.org and Facebook for
+  upcoming events — none currently listed; the only event on record
+  (Global Celebrations, summer 2026) already closed registration
+  2026-06-18. Nothing to act on; will resurface via the followed
+  Facebook page rather than a dedicated recurring check
 - Conversation-practice change: AI-generated topics became a blocker
   rather than a help — vocab in later topics got too hard, stalling
   practice instead of building confidence. Switched to 日本語 Express

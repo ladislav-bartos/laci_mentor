@@ -171,9 +171,17 @@ non-chamber-org research above:
 run, and during standups/reviews once events are actually attended (what
 was good, what wasn't, who to follow up with).*
 
-- [ ] Register with ICAAJ (Imperial College Alumni Association Japan) —
-  free, decided 2026-07-30
-- [ ] Attend an ICAAJ event once one's on the calendar
+- [x] Register with ICAAJ (Imperial College Alumni Association Japan) —
+  done 2026-07-31 at https://skk-icaaj.org/en/registration/ (org is also
+  known as SKK/South Kensington Kai; contact sec@mail.skk-icaaj.org).
+  Also followed their Facebook page (サウスケンジントン会 - Imperial
+  College Alumni Association Japan)
+- [ ] Attend an ICAAJ event once one's on the calendar — checked
+  2026-07-31: no current upcoming events on skk-icaaj.org or Facebook;
+  the only listed event (Global Celebrations, summer 2026) already
+  closed registration 2026-06-18. Nothing to act on yet — re-check
+  periodically via the followed Facebook page rather than a dedicated
+  recurring task
 - [ ] Join CCCJ — sequenced after some ICAAJ attendance, not immediate
 - [ ] Send inquiry email to Japan CPO Association (info@japancpo.org) on
   individual membership/access
