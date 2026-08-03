@@ -12,6 +12,60 @@
 - No blockers, all working smoothly
 - Japanese: Anki done, drill (week 3, day 1), book study (week 3, day 1),
   and 日本語 Express Book 1 lesson 3 (conversation) — all completed
+- (cont.) **JCPOA:** obtained the official 会員規約 (membership
+  regulations) — individual membership (個人会員) requires CPO-equivalent
+  role experience (Article 3's "等" qualifier covers equivalent, not just
+  literally-titled, roles) recognized by the association, plus approval
+  by 2 directors/the representative director; corporate dues known
+  (¥300k–3M/yr by tier), individual dues unconfirmed. Drafted and **sent**
+  an inquiry email to info@japancpo.org, framed around CPO-equivalent
+  scope (DAZN VP of Product, Indeed Senior Technical PM) plus Best Product
+  Person of 2014 (The Product Group), Video Exchange Asia 2019 speaking,
+  and Product Group London meetup leadership — all newly filed to
+  FACTS.md. Logged in full to EVENTS.md
+- (cont.) **JDLA:** obtained membership info — Regular Member (Expert) is
+  the individual tier, no membership/annual fee, but new regular members
+  need recommendations from 2 existing regular members (a real gate; user
+  has no current JDLA connections). Drafted and **sent** an inquiry email
+  via jdla.org's form, framed around ML experience (Indeed's 25%
+  ranking-algorithm improvement) rather than certifications, asking
+  directly how to proceed without existing member recommendations. Logged
+  to EVENTS.md
+- (cont.) **Gap 1/2/3 research** — all three done today (Gap 1 was
+  planned; Gap 2 and Gap 3 were deliberate same-day extensions once the
+  first three tasks finished with time to spare — see the CLAUDE.md
+  clarification below). All three effectively closed:
+  - **Gap 1** (Growth pillar, single proof point): Rakuten's tech-stack
+    modernization was the enabler, but the real growth driver was product
+    innovation — mobile-native manga reading UX, serialized/daily-chapter
+    reading (drives retention + conversion), and per-chapter purchasing
+    (lowers the price barrier). A genuine second Growth story distinct
+    from DAZN's market-entry story. Filed to FACTS.md and GAPS.md
+  - **Gap 2** (AI-driven efficiency unevidenced): confirmed no past
+    in-role example exists at any employer, but a real one surfaced
+    elsewhere — **StageLync** (the founders he mentors weekly, unpaid).
+    He personally introduced internal AI tools (Google NotebookLM,
+    Gemini) now used team-wide by every senior manager, including
+    non-digital backgrounds — summarizing reports, explaining technical
+    issues to non-technical staff, documentation, and multi-source data
+    gathering for reporting. This repo/workflow itself stands as a
+    secondary, ongoing example. Filed to FACTS.md and GAPS.md
+  - **Gap 3** (no domain evidence outside consumer): premise corrected —
+    Amazon's JCI-VSP role was purely vendor-facing (B2B): onboarding new
+    third-party vendors, pricing/inventory/shipment-scheduling
+    optimization. Indeed's 25% ML proof point was on the
+    employer/recruiter-facing side (helping recruiters match candidates),
+    not the job-seeker/consumer side. So 2 of 4 major roles are genuinely
+    B2B-facing — correcting the "all consumer" premise, though the
+    narrower vertical-fit gap (ad-tech/cybersecurity/health-tech
+    specifically) remains open. Filed to FACTS.md and GAPS.md
+- (cont.) **Process correction:** the 3-tasks/day hard constraint was
+  being mis-enforced as a ceiling on total tasks completed. User clarified
+  it caps what's *scheduled* at planning time, not extra work picked up
+  same-day if earlier tasks finish with time to spare. CLAUDE.md updated;
+  full reasoning in LEARNINGS.md
+- 6 of 15 Sprint 4 backlog items now done on Day 1 (JCPOA, JDLA, Gap 1,
+  Gap 2, Gap 3, plus daily Japanese)
 
 ## 2026-07-31 (Fri) — Sprint 3, Day 5 / Weekly Review
 - Inbox: empty, nothing to process

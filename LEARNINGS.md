@@ -367,6 +367,26 @@
   the sender's name). Worth reusing this "diff an AI draft against a
   real rewrite" method any time voice/tone guidance needs refining.
 
+- 2026-08-03: The 3-tasks/day hard constraint was being mis-enforced —
+  user clarified it caps what gets *scheduled/committed* at planning time,
+  not a hard ceiling on total tasks completed if the day runs ahead of
+  plan. Picking up extra backlog items same-day once planned tasks finish
+  early is fine; the rule exists to prevent overcommitment at the
+  planning stage, not to stop momentum once it's already happening.
+  CLAUDE.md's Hard Constraints section updated with this distinction.
+- 2026-08-03: All three GAPS.md gaps (Growth pillar, AI-efficiency
+  evidence, B2B/domain transferability) were resolved in one sitting
+  purely through targeted conversational questions about actual past
+  work — no web research needed. Each "promising lead" already logged in
+  GAPS.md turned out to be exactly right once asked about directly (Gap
+  1's Rakuten re-framing, Gap 2's repo-as-evidence), and one gap (Gap 3)
+  had its core premise corrected entirely (Amazon and Indeed turned out
+  to be B2B-facing, not consumer-facing, once actually asked). Also
+  surfaced an entirely new case study neither party had connected to the
+  gap analysis before: StageLync mentoring → real team-wide AI adoption.
+  Worth defaulting to this "ask directly about the promising lead" method
+  for future gap re-runs before reaching for web research.
+
 ## Completed
 - 2026-07-31: Sprint 3 closed 9/9. Sprint 4 planned (15-item backlog,
   Mon 2026-08-03 → Fri 2026-08-07) — heavier than Sprint 3's 9, flagged

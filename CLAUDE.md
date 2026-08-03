@@ -84,7 +84,14 @@ If a strategy decision conflicts with this repo's files, flag it to me — the n
 - No full-time employment before April 2027 (garden leave terms)
 - Weekday capacity floor: 2 focused hours/day (1h Japanese + 1h
   career-related). More hours are often available and welcome, but never
-  assign more than 3 tasks/day regardless of hours available — refined
-  2026-07-23, replaces the earlier flat "2–3 hours/day" framing
+  *schedule/commit* more than 3 tasks/day at planning time, regardless of
+  hours available — refined 2026-07-23, replaces the earlier flat
+  "2–3 hours/day" framing. Clarified 2026-08-03: the cap governs what gets
+  planned/assigned upfront, not a hard ceiling on total tasks actually
+  completed — if planned tasks finish with time/energy to spare, picking
+  up additional backlog items same-day is fine and not a violation. Still
+  flag it in the moment when it happens (so the pattern is visible and the
+  cap doesn't quietly become 4-5/day by default), but don't block it once
+  flagged and confirmed
 - Which legal entity (JP vs UK company) invoices which client = accountant question,
   never decide this for me

@@ -10,7 +10,15 @@
 - Weekends: protected family time, almost always busy (incl. family holidays)
 - Wife has her own evening programs → evening events need advance coordination
 - Weekly recurring commitment: Monday 9pm — meeting with the owners of
-  StageLync (stagelync.com)
+  StageLync (stagelync.com); this is an unpaid mentoring relationship with
+  the founders (not on his CV for that reason). Detail added 2026-08-03:
+  as part of this mentoring, he personally introduced internal AI tools
+  now used team-wide by every senior manager (non-digital backgrounds
+  included) — summarizing reports, explaining technical issues to
+  non-technical people, creating technical/internal-support documentation,
+  and gathering data from multiple sources for reporting. Primarily Google
+  NotebookLM and Gemini (Google Workspace shop). Real evidence for the
+  "AI-driven internal efficiency" positioning claim — see GAPS.md Gap 2
 - Japan public holidays remaining in 2026 (logged 2026-07-24): Aug 11,
   Sep 21, Sep 22, Sep 23, Oct 12, Nov 3, Nov 23, Dec 31 — check against
   these before scheduling work on those dates
@@ -22,11 +30,27 @@
   Product, Acquisition & Retention, 2015–17) → DAZN Tokyo (VP of Product,
   Japan & APAC, 2017–20) → Rakuten (Vice Senior Manager, Kobo Japan &
   Rakuten Magazine, 2020–21) → Amazon (Senior Technical PM, JCI-VSP, 2021–22)
-  → Indeed (Senior Technical Product Manager, 2022–present)
+  → Indeed (Senior Technical Product Manager, 2022–present). B2B/enterprise
+  detail added 2026-08-03: Amazon's JCI-VSP role was purely vendor-facing
+  (B2B) — a platform for onboarding new third-party vendors and helping
+  them optimize pricing, inventory quality, shipment scheduling, and
+  fulfillment costs into Amazon's warehouses. Indeed's role is on the
+  employer/recruiter-facing side (using candidate data to help recruiters
+  find the best match), not the job-seeker/consumer side (a separate
+  team) — so 2 of 4 major roles (Amazon, Indeed) are genuinely
+  B2B/enterprise-facing, not consumer-facing as earlier gap analysis had
+  assumed. See GAPS.md Gap 3
 - MBA, Imperial College London (2014–15) — International Business Strategy,
   focused on Asia-Pacific/China market expansion; directly informed later
   DAZN Japan launch
 - Award: Best Product Person of 2014 (The Product Group & The Product Guy)
+  — https://tpgblog.com/tbpp/
+- Speaker at Video Exchange Asia 2019 (video/streaming industry conference),
+  as VP of Product, APAC at DAZN — https://tmt.knect365.com/video-exchange-
+  asia/speakers/ladislav-bartos/
+- Led The Product Group's London meetup while based in London (pre-Tokyo);
+  mentoring work (see Working Preferences below) has also been done under
+  The Product Group
 - Most recently: Senior Technical Product Manager at Indeed Technologies Japan, ¥40M/year
 - On garden leave until March 2027 (full salary). Terms: contracting allowed,
   full-time employment NOT allowed — this restricts being an *employee*, not
@@ -51,8 +75,25 @@
     months, core team of 4; owned growth/acquisition/retention OKRs for
     Japan & APAC
   - Rakuten: led cross-functional team of 70+ (DevOps/FE/BE/mobile eng/PM/QA);
-    mobile app migration increased retention 20%, conversion 30%
-  - Indeed: improved job-matching/ranking algorithm performance by 25% via ML
+    mobile app migration increased retention 20%, conversion 30%. Detail
+    added 2026-08-03: the tech-stack modernization enabled the growth, but
+    growth itself was driven by product innovation — (1) mobile-native
+    manga reading UX (screen-by-screen swipe vs. full-page view), (2)
+    serialized/daily-chapter reading (free daily section drives daily
+    return visits; readers hooked on the story convert to full purchase —
+    drives both retention and conversion), (3) per-chapter purchasing
+    (lowers the price barrier for price-sensitive readers, e.g. students).
+    This is a post-launch monetization/engagement growth story, distinct
+    from DAZN's 0-to-1 market-entry story — see GAPS.md Gap 1
+  - Indeed: improved job-matching/ranking algorithm performance by 25% via
+    ML. Clarified 2026-08-03: this was on the employer/recruiter-facing
+    product (using candidate data to help recruiters find the best
+    match) — a B2B/enterprise proof point, not the job-seeker/consumer
+    side (a separate team's product) — see GAPS.md Gap 3
+  - Amazon (JCI-VSP): owned a purely vendor-facing (B2B) platform for
+    onboarding new third-party vendors, helping them optimize pricing,
+    inventory quality, shipment scheduling, and fulfillment costs into
+    Amazon's warehouses — added 2026-08-03, see GAPS.md Gap 3
 
 ## Japanese Language
 - JLPT N3 passed (paper level); speaking rusty — struggles with basic conversation
@@ -191,9 +232,12 @@
   something is new to him (e.g. researching how fractional/interim
   contracting actually works before starting to contract; researching
   event communication norms before attending networking events)
-- Mentoring background (surfaced 2026-07-22): has mentored ~5 mentees,
-  ~4/5 of them women, with a good track record helping them build
-  leadership strength/confidence and execute career strategy. Also has
+- Mentoring background (surfaced 2026-07-22, London-meetup/Product-Group
+  tie added 2026-08-03): has mentored ~5 mentees, ~4/5 of them women, with
+  a good track record helping them build leadership strength/confidence
+  and execute career strategy — done in part through The Product Group,
+  the same organization that named him Best Product Person of 2014 and
+  whose London meetup he led. Also has
   repeated first-hand experience with rapid strengths/gaps assessment and
   60-90 day plans from moving into new companies/roles (DAZN, Rakuten,
   Indeed, Amazon)

@@ -112,14 +112,48 @@ beyond chambers-only.*
   but real, immediately joinable, and doubles as a 1:1 outreach opener
   independent of events. **Decision: join first, before any chamber.**
 - **Japan CPO Association (JCPOA)** — built around actual CPOs at
-  SmartHR/LINE Yahoo/Rakuten; best product-specific ICP density found, but
-  membership/access model unconfirmed. **Action: inquiry email to
-  info@japancpo.org**, don't assume open enrollment.
+  SmartHR/LINE Yahoo/Rakuten; best product-specific ICP density found.
+  Membership regulations obtained 2026-08-03 (official 会員規約, in force
+  since 2022-09-22, last revised 2024-09-01): three tiers — 個人会員
+  (individual), 法人会員 (corporate), 賛助会員 (supporting). Individual
+  membership (Article 3) is NOT open enrollment — requires (1) personal
+  agreement with the association's philosophy/activities, (2) "CPO等の
+  職務" experience — i.e. CPO-**equivalent** duties, not literally the CPO
+  title, with achievements/knowledge the association recognizes, and (3)
+  approval by 2 directors or the representative director. Corporate-tier
+  dues are known (Platinum ¥3M/yr, Gold ¥2.1M/yr, Silver ¥1.6M/yr, Bronze
+  ¥700k/yr, Sponsor ¥300k/yr); individual-member dues were not present in
+  the regulation excerpt obtained — still unconfirmed. Member benefits
+  (Article 5): individual/supporting/honorary members get event access,
+  member-report access, and can propose/participate in research themes;
+  corporate members additionally get event allocation slots and internal
+  report-sharing rights. **Action: inquiry email sent to
+  info@japancpo.org, 2026-08-03**, framed around CPO-equivalent experience
+  (DAZN Japan VP of Product / Indeed Senior Technical PM) per Article 3's
+  "等" qualifier, since the literal title doesn't match his deliberate "VP
+  of Product" positioning (see FACTS.md). Awaiting reply.
 - **JDLA (Japan Deep Learning Association)** — AI-industry body, individual
   certification + study groups drawing executives/managers, not just
   engineers. Aligns with the "AI-driven transformation" positioning pillar
-  and existing GCP/DeepLearning.AI credentials. **Action: inquiry email on
-  individual membership terms/cost.**
+  and existing GCP/DeepLearning.AI credentials. Membership info obtained
+  2026-08-03 from jdla.org: 4 tiers — Regular (Companies), **Regular
+  (Experts)** — the individual tier, no membership fee/annual fee, has
+  voting rights, for "experts focusing on research and talent development
+  related to deep learning" — Supporting (Corporate), and Government.
+  Benefits: association certification/logo use, member-only events +
+  internal pages + Slack, committee participation (industry-academia
+  collaboration, government policy recommendations), ad space in
+  publications (varies by tier). **Process gate found: new regular members
+  require recommendations from at least 2 existing regular members** —
+  Laci doesn't currently have 2 known JDLA regular-member contacts, so
+  this needs addressing directly in the inquiry (ask how to proceed
+  without pre-existing member recommendations) rather than assumed as a
+  blocker. Applications reviewed/approved by the Board of Directors via a
+  Membership Application Form; anti-社会的勢力 (anti-organized-crime)
+  affiliation check applies. **Action: inquiry email sent via
+  jdla.org's inquiry form, 2026-08-03**, asking about eligibility for the
+  Regular (Expert) tier and how to proceed without existing member
+  recommendations. Awaiting reply.
 - **Tokyo Product Leaders** (quarterly meetup, more senior than
   ProductTank) — champion/peer-level (Head/VP Product), not direct-buyer
   reach. Low-cost enough to try once.

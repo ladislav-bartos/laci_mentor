@@ -22,18 +22,24 @@ at 15 per the user's explicit call, not a default recommendation.
 - [ ] Warm Buyer outreach #4 — completes the known Buyer pool
 - [ ] Connector outreach #1 — a fresh contact, not part of the completed
       5/5 Connector batch; pick from the priority list
-- [ ] Email Japan CPO Association (JCPOA) — individual membership/access
-      inquiry
-- [ ] Email JDLA — individual membership/access inquiry
+- [x] Email Japan CPO Association (JCPOA) — individual membership/access
+      inquiry — sent 2026-08-03
+- [x] Email JDLA — individual membership/access inquiry — sent 2026-08-03
 - [ ] Register with JAC Recruitment
 - [ ] Research second LinkedIn post topic
 - [ ] Post second LinkedIn post
-- [ ] Gap 1 research — second Growth proof point beyond DAZN (see
-      `GAPS.md`)
-- [ ] Gap 2 research — AI-driven internal efficiency evidence (see
-      `GAPS.md`)
-- [ ] Gap 3 research — transferable B2B/SaaS/enterprise angle (see
-      `GAPS.md`)
+- [x] Gap 1 research — second Growth proof point beyond DAZN (see
+      `GAPS.md`) — done 2026-08-03, Rakuten monetization/engagement
+      features confirmed as a genuine second Growth case study
+- [x] Gap 2 research — AI-driven internal efficiency evidence (see
+      `GAPS.md`) — done 2026-08-03 (deliberate exception, same day as Gap
+      1); StageLync (unpaid founder-mentoring relationship) surfaced as a
+      real, team-wide AI-adoption case study, plus this repo as a
+      secondary/ongoing example
+- [x] Gap 3 research — transferable B2B/SaaS/enterprise angle (see
+      `GAPS.md`) — done 2026-08-03; Amazon (vendor-facing platform) and
+      Indeed (employer/recruiter-facing side) confirmed as genuine B2B
+      proof points, correcting the original all-consumer premise
 - [ ] Follow up with Dharmesh Raithatha (Connector, sent 07-24, 7 days
       pending with no reply as of the 07-31 review)
 - [ ] Follow up with Sara Al-Attas (marketplace lead, sent 07-22, 9 days
