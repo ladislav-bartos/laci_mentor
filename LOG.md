@@ -1,5 +1,18 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-08-03 (Mon) — Sprint 4, Day 1
+- Inbox: empty, nothing to process
+- Yesterday: weekend, nothing to report (protected family time)
+- Today's picks (3): (1) email JCPOA — individual membership/access
+  inquiry, (2) email JDLA — individual membership/access inquiry, (3) Gap
+  1 research — second Growth proof point beyond DAZN. User initially
+  proposed 5 items (also Warm Buyer outreach #1 and JAC registration);
+  trimmed to 3 per the 3/day cap — Warm Buyer outreach #1 and JAC
+  registration rolled to later this week
+- No blockers, all working smoothly
+- Japanese: Anki done, drill (week 3, day 1), book study (week 3, day 1),
+  and 日本語 Express Book 1 lesson 3 (conversation) — all completed
+
 ## 2026-07-31 (Fri) — Sprint 3, Day 5 / Weekly Review
 - Inbox: empty, nothing to process
 - Yesterday (07-30): confirmed complete, no corrections
