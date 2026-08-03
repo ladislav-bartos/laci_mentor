@@ -66,6 +66,16 @@
   full reasoning in LEARNINGS.md
 - 6 of 15 Sprint 4 backlog items now done on Day 1 (JCPOA, JDLA, Gap 1,
   Gap 2, Gap 3, plus daily Japanese)
+- (cont., post-wrap) Reactive LinkedIn Marketplace item, not counted
+  against the cap: inbound message from Mario Kushtgjini, Managing
+  Partner at Olympic Consulting Partners (Athens-HQ executive search),
+  currently running Renesas Electronics executive AI leadership searches
+  in Tokyo. Discussed and decided not to raise the garden-leave
+  full-time-employment conflict yet — no concrete role on the table, just
+  relationship-building — but flagged in OUTREACH.md to raise explicitly
+  if a specific opportunity comes up. Replied warm and curious, asking
+  about his other Japan/APAC clients and shifts in executive-leadership
+  hiring expectations in the region. Logged to OUTREACH.md's Response Log
 
 ## 2026-07-31 (Fri) — Sprint 3, Day 5 / Weekly Review
 - Inbox: empty, nothing to process
