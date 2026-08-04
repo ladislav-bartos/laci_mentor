@@ -2,6 +2,36 @@
 
 ## Insights
 - (Friday reviews add entries here: what worked, what didn't, what changed)
+- 2026-08-04: `FACTS.md`'s career timeline had listed "Gumtree.com/eBay
+  Group, Technical PM, 2013–14" as a standalone role for weeks, discovered
+  wrong only when the user pasted the full English CV verbatim for a
+  translation task — Gumtree was actually an achievement bullet, and the
+  real 2007–2015 earlier-career roles (Slando/OLX/eBay Kijiji, Cognizant/
+  O2, VisualDNA, UVIC) were missing entirely. Same pattern as the Amir
+  Arshadnejad (07-31) and Abishek Varadarajan (07-27) misclassifications —
+  a "known" fact drifts wrong and only gets caught when the actual source
+  document is reviewed directly, not before. Worth periodically
+  cross-checking FACTS.md's career/achievement claims against the actual
+  CV source rather than assuming past summaries were captured correctly.
+- 2026-08-04: Built LinkedIn post #12 by researching 6 distinct hypotheses
+  (30 sources) on how AI is changing PM/CPO/VP-of-Product roles, then
+  synthesizing the tension between them (shrinking execution layer vs.
+  growing judgment/specialist layer) into a single dual-audience post
+  mirroring #11's "different seats, same storm" structure. Worked well —
+  turned a request for "thorough research" into one contestable claim
+  instead of a stat-dump, consistent with CONTENT.md's own finding that
+  trend-only posts underperform. Also caught a research-hygiene issue
+  worth remembering: 2 of H4's 5 "sources" turned out to be the same
+  underlying survey reported by different outlets — always check whether
+  multiple citations are actually independent before treating volume as
+  corroboration.
+- 2026-08-04: The H6 finding from that research (senior AI leadership
+  candidates filtering for authority/mandate over compensation) turned
+  out to almost exactly match unprompted market commentary from an
+  actual inbound contact (Mario Kushtgjini, Athens-based executive
+  search) the same day — a real external signal that the research/
+  positioning work is tracking real market dynamics, not just
+  theorizing in a vacuum.
 - 2026-07-28: A session on 07-27 committed file edits (outreach send, a new
   fact) but skipped the LOG.md entry and left SPRINT.md's header un-promoted
   from a sprint that had already ended, even though the new sprint's backlog

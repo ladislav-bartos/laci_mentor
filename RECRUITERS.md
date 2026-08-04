@@ -22,6 +22,8 @@ agency" channel rather than direct warm/networking outreach.
 |---|---|---|
 | Robert Walters Japan | robertwalters.co.jp/en/candidates/submit-your-cv.html | Strongest traditional-agency fit found — explicitly runs permanent/contract/**interim** recruitment incl. exec level, 25+ yrs in Japan |
 | JAC Recruitment (JAC Interim Professional Solutions + JAC Executive + JAC Digital) | corp.jac-recruitment.jp/en/business/for_candidate | Named interim-placement service line, plus JAC Executive (CxO search) and JAC Digital (CDO/PM roles); broad Japan network |
+| Interim Professional Solutions (JAC-affiliated) | interim-professional-solutions.jp | JAC's own dedicated interim-placement brand; surfaced as a recommendation from JAC immediately after registering there 2026-08-04 |
+| CareerCross (JAC-affiliated) | careercross.com | JAC-affiliated bilingual/international-talent job platform; surfaced as a recommendation from JAC immediately after registering there 2026-08-04 |
 | Michael Page Japan / Page Executive | michaelpage.co.jp/en/submit-your-cv | Page Executive is PageGroup's dedicated exec-search/interim brand in Tokyo; does interim + permanent C-suite work |
 | Robert Half Japan (Project & Interim Professionals, w/ Protiviti) | roberthalf.com/jp/en/hire-talent/project-interim-professionals | Named interim/project-leadership practice; historically finance-heavy, leans on Protiviti for change/transformation leadership — worth testing fit |
 | en world Japan | jobs.enworld.com/s/login/SelfRegister | Mainly permanent placement; interim/fractional senior-product coverage unconfirmed, expect lower yield |
@@ -95,7 +97,9 @@ tables above into an actively-improving list.*
 
 | Date contacted | Agency | Outcome | Good fit? (Y/N/Unclear) | Notes / similar agencies to look for |
 |---|---|---|---|---|
-| | | | | |
+| 2026-08-04 | JAC Recruitment | Registered | Unclear (just registered) | Registration led directly to recommendations for Interim Professional Solutions and CareerCross — worth checking whether other agencies also cross-refer |
+| 2026-08-04 | Interim Professional Solutions (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
+| 2026-08-04 | CareerCross (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
 
 ## Research Log
 *Rotate the research method each run instead of repeating the same

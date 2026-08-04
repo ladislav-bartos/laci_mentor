@@ -15,8 +15,8 @@ leaving no slack for the reactive work (LinkedIn Marketplace leads, CV
 fixes, etc.) that has displaced part of the plan every sprint so far. Kept
 at 15 per the user's explicit call, not a default recommendation.
 
-- [ ] Warm Buyer outreach #1 (of 4 real Buyers from the classify-contact
-      pass)
+- [x] Warm Buyer outreach #1 (of 4 real Buyers from the classify-contact
+      pass) — sent to Amir Bendjazia (DAZN) 2026-08-04
 - [ ] Warm Buyer outreach #2
 - [ ] Warm Buyer outreach #3
 - [ ] Warm Buyer outreach #4 — completes the known Buyer pool
@@ -25,9 +25,13 @@ at 15 per the user's explicit call, not a default recommendation.
 - [x] Email Japan CPO Association (JCPOA) — individual membership/access
       inquiry — sent 2026-08-03
 - [x] Email JDLA — individual membership/access inquiry — sent 2026-08-03
-- [ ] Register with JAC Recruitment
-- [ ] Research second LinkedIn post topic
-- [ ] Post second LinkedIn post
+- [x] Register with JAC Recruitment — done 2026-08-04, plus 2 bonus
+      registrations JAC recommended post-signup (Interim Professional
+      Solutions, CareerCross) — see RECRUITERS.md
+- [x] Research second LinkedIn post topic — done 2026-08-04, 6
+      hypotheses/30 sources — see CONTENT.md's "Research backing for #12"
+- [x] Post second LinkedIn post — posted 2026-08-04 ("the PM role is
+      splitting, not disappearing" — see CONTENT.md #12)
 - [x] Gap 1 research — second Growth proof point beyond DAZN (see
       `GAPS.md`) — done 2026-08-03, Rakuten monetization/engagement
       features confirmed as a genuine second Growth case study

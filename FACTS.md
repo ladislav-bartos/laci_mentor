@@ -6,7 +6,9 @@
 - Wife: Japanese. Son: Tomi, 4 years old. Daughter: 10 months old
 - Also has a son, Benjamin (b. 2012, London), from a previous marriage —
   lives with his mother in Plavecký Štvrtok, Slovakia
-- Native Hungarian; more fluent in English
+- Native Hungarian; more fluent in English. Also native Slovak (born in
+  Slovakia) and working proficiency Czech — added 2026-08-04 from the
+  full English CV's language section
 - Weekends: protected family time, almost always busy (incl. family holidays)
 - Wife has her own evening programs → evening events need advance coordination
 - Weekly recurring commitment: Monday 9pm — meeting with the owners of
@@ -25,12 +27,23 @@
 
 ## Career & Business
 - 20 years online product management experience (15+ years senior leadership)
-- Career timeline: Gumtree.com/eBay Group (Technical PM, 2013–14) → Okomp,
-  UK-China digital agency (Founder/CEO, 2013–17) → DAZN London (Head of
-  Product, Acquisition & Retention, 2015–17) → DAZN Tokyo (VP of Product,
-  Japan & APAC, 2017–20) → Rakuten (Vice Senior Manager, Kobo Japan &
-  Rakuten Magazine, 2020–21) → Amazon (Senior Technical PM, JCI-VSP, 2021–22)
-  → Indeed (Senior Technical Product Manager, 2022–present). B2B/enterprise
+- Career timeline: Slando/OLX/eBay Kijiji, online classifieds marketplaces,
+  London (Product & Project Manager, 2007–11) → Cognizant, O2 account
+  (Sr. Manager/Scrum Master, 2011–12) → VisualDNA, London (Technical PM,
+  2012–13; source of the Abishek Varadarajan ex-colleague tie) → UVIC,
+  London (CPO Interim, 2014–15) → Okomp, UK-China digital agency
+  (Founder/CEO, 2013–17) → DAZN London (Head of Product, Acquisition &
+  Retention, 2015–17) → DAZN Tokyo (VP of Product, Japan & APAC, 2017–20)
+  → Rakuten (Vice Senior Manager, Kobo Japan & Rakuten Magazine, 2020–21)
+  → Amazon (Senior Technical PM, JCI-VSP, 2021–22) → Indeed (Senior
+  Technical Product Manager, 2022–present). Corrected 2026-08-04 from the
+  full English CV: earlier entries had incorrectly listed "Gumtree.com/
+  eBay Group, Technical PM, 2013–14" as a standalone role — Gumtree is
+  actually an achievement bullet under the Slando-era earlier career
+  (redesigned the e-commerce experience, protected £5M+ in annual
+  revenue, lifted NPS 25%+), not a separate dated position. Slando
+  achievement: led international expansion to 10 countries/6 languages,
+  contributing to a £4M-to-£25M exit. B2B/enterprise
   detail added 2026-08-03: Amazon's JCI-VSP role was purely vendor-facing
   (B2B) — a platform for onboarding new third-party vendors and helping
   them optimize pricing, inventory quality, shipment scheduling, and
@@ -43,6 +56,10 @@
 - MBA, Imperial College London (2014–15) — International Business Strategy,
   focused on Asia-Pacific/China market expansion; directly informed later
   DAZN Japan launch
+- Additional education (added 2026-08-04 from the full English CV):
+  Quantum Computing, MIT xPRO, online (2026); BSc Computer Science, First
+  Class Honours, Kingston University, London (2008–10); HND Software
+  Engineering, Kingston College, London (2006–08)
 - Award: Best Product Person of 2014 (The Product Group & The Product Guy)
   — https://tpgblog.com/tbpp/
 - Speaker at Video Exchange Asia 2019 (video/streaming industry conference),
@@ -237,7 +254,10 @@
   a good track record helping them build leadership strength/confidence
   and execute career strategy — done in part through The Product Group,
   the same organization that named him Best Product Person of 2014 and
-  whose London meetup he led. Also has
+  whose London meetup he led. Additional community roles (added
+  2026-08-04 from the full English CV): Product Mentor at The Product
+  Mentor (2014), and Advocate at Tech London Advocates (2014–present).
+  Also has
   repeated first-hand experience with rapid strengths/gaps assessment and
   60-90 day plans from moving into new companies/roles (DAZN, Rakuten,
   Indeed, Amazon)

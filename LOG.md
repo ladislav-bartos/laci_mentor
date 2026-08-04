@@ -6,6 +6,63 @@
 - Today's picks (3): (1) register with JAC Recruitment, (2) Warm Buyer
   outreach #1 (of 4 known Buyers), (3) research second LinkedIn post topic
 - No blockers, all working smoothly
+- (cont.) **All 3 picks completed, plus bonus registrations:**
+  - **JAC Recruitment:** registered. JAC recommended two of its own
+    affiliated brands immediately after — **Interim Professional
+    Solutions** and **CareerCross** — registered with both same-day
+    (same-day bonus work, flagged per the 3-task-cap clarification, not a
+    violation). All three logged to RECRUITERS.md (new entries + Outcomes
+    Log rows)
+  - **Warm Buyer outreach #1:** sent to **Amir Bendjazia** (VP of Product
+    – Partner Distribution & International Growth, DAZN) via
+    `/draft-outreach` — Warm Buyer template, ex-colleague with no direct
+    reporting line, no prior message history (fresh open). Opener used a
+    genuine memory/compliment (hardworking, reliable, tracked his growth
+    senior PM → head of product → VP of product); ask iterated to a
+    Japan-visit-specific "meet up for old times' sake" line instead of
+    the template's generic call ask. CRM status updated to Messaged;
+    logged to OUTREACH.md's Response Log
+  - **LinkedIn post #12 researched and posted** — "the PM role is
+    splitting, not disappearing." Research done first: 6 hypotheses (30
+    sources total) on how AI is changing PM/CPO/VP-of-Product roles —
+    junior-PM shrinkage, the "AI judgment paradox," AI-PM as a paid
+    specialization, CPO-as-portfolio-manager, PM/eng convergence into
+    "Product Builder," and (added mid-session, prompted by the user's own
+    finding plus Mario Kushtgjini's inbound message, see below) senior
+    leadership candidates filtering for authority/mandate over
+    compensation. Synthesized into one dual-audience post (PM angle +
+    leadership angle) mirroring post #11's "different seats, same storm"
+    structure — deliberately not a stat-dump, per CONTENT.md's own
+    finding that trend-only posts underperform. Full research + full post
+    text filed to CONTENT.md (#12 entry + "Research backing for #12" +
+    Research Log row)
+- (cont.) **Reactive, not counted against the cap:**
+  - **Full 職務経歴書 (Japanese resume) built** — user pasted the
+    complete English CV (previously only had partial sections) for
+    translation; assembled into `uploads/private/shokumu-keirekisho_v1_
+    draft.md` (gitignored). Surfaced a real `FACTS.md` accuracy gap in
+    the process — see LEARNINGS.md
+  - **Mario Kushtgjini (Olympic Consulting Partners) — reply-back sent.**
+    He replied in depth to the 08-03 message: flagship Renesas Electronics
+    CIO-org searches, strong Japan AI-executive network, and two market
+    observations that turned out to closely match the LinkedIn post #12
+    research done the same day (see LEARNINGS.md). Proposed a 30-min
+    call; user accepted, added a personal angle (long-standing interest
+    in Asia/Europe cultural differences), proposed availability (every
+    day this week/next week, 3-4pm JST). Call not yet scheduled — awaiting
+    his proposed time. Logged to OUTREACH.md
+  - New preference set: message drafts should be presented as copy-paste
+    code blocks, not blockquotes — saved to persistent memory
+- Japanese: all tasks completed — Anki, book study + drill (week 3, day
+  2), and 日本語 Express Book 1 lesson 4
+- `FACTS.md` corrected: career timeline (the "Gumtree.com/eBay Group,
+  Technical PM, 2013–14" entry was wrong — replaced with the real
+  2007–2015 earlier-career roles), plus newly-surfaced facts added
+  (Slovak/Czech language proficiency, MIT xPRO/Kingston University/
+  Kingston College education, Product Mentor/Tech London Advocates
+  community roles) — all sourced from today's full CV paste
+- 9 of 15 Sprint 4 backlog items now done (6 from Day 1 + JAC, Warm Buyer
+  #1, LinkedIn post #12 today)
 
 ## 2026-08-03 (Mon) — Sprint 4, Day 1
 - Inbox: empty, nothing to process
