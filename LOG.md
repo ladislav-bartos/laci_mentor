@@ -1,5 +1,12 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-08-04 (Tue) — Sprint 4, Day 2
+- Inbox: empty, nothing to process
+- Yesterday (08-03): confirmed complete as logged, nothing to add
+- Today's picks (3): (1) register with JAC Recruitment, (2) Warm Buyer
+  outreach #1 (of 4 known Buyers), (3) research second LinkedIn post topic
+- No blockers, all working smoothly
+
 ## 2026-08-03 (Mon) — Sprint 4, Day 1
 - Inbox: empty, nothing to process
 - Yesterday: weekend, nothing to report (protected family time)
