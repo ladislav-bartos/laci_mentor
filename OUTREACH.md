@@ -59,6 +59,9 @@ check.
   bring up themselves (e.g. an early draft added "succession and
   market-entry activity" that Martin never mentioned). Reads as
   AI-generated and slightly fishing for an angle
+- Don't mention "I recently left Indeed" (added 2026-08-05, after it kept
+  creeping back into drafts) — just state the current fractional/interim
+  work directly ("Currently, I'm working as...")
 - Don't close LinkedIn DMs with an email-style sign-off ("Best,
   Ladislav") — the platform already shows the sender's name, so it reads
   as an email transplanted onto LinkedIn. Added 2026-07-31 after the
@@ -141,6 +144,34 @@ ICP-fit company (growth-stage to enterprise, Japan/APAC).
 > what we used to do together, just across a few clients now. Would love
 > to hear what you're up to — got 20 min for a catch-up call in the next
 > couple weeks?
+
+**Refined structure (validated 2026-08-05 across Ayako Ishida and Masa
+Hirata — user explicitly confirmed this works well, use as the default
+going forward over the original template text above):**
+1. Short reconnect opener referencing the real shared history (old
+   team/company days, or a specific past message — see the reply-in-thread
+   variant below) — no company/product name-dropping if the original tie
+   was about something unrelated (e.g. don't mention "Stats Perform" by
+   name, just "I reached out to you back in 2018")
+2. One line acknowledging their current role/move, only if genuinely
+   known — skip if it'd be guessing
+3. "Currently, I'm working as a fractional/interim VP of Product, helping
+   growth-stage to enterprise companies in Japan and APAC with business
+   growth and AI-driven team/process transformation." **Never** frame this
+   as "I recently left Indeed" (see Voice Persona Don'ts)
+4. "Wanted to reconnect and share what I'm up to now, in case it's ever
+   useful for you or your network." — soft, not a pitch
+5. An AI-research ask, scoped to the contact's actual world (e.g. "product
+   leaders and managers" for a product person, "leaders in Japan" for a
+   non-product exec) — genuine, since he's actually gathering this for his
+   own understanding/LinkedIn content, but don't name-drop "LinkedIn
+   posts" explicitly. Low-commitment: "no pressure, just a quick note is
+   fine"
+6. Closing: "Really appreciate you taking the time to read this." — not
+   "Hope you're doing well" (reads as an opening, not closing) and no
+   family mentions unless there's a real personal relationship
+
+Drop step 5 (the AI-research ask) if it doesn't fit the contact.
 
 ### 2. Warm Connector
 *Use when:* an ex-colleague (or other warm contact) isn't a buyer
@@ -351,4 +382,5 @@ based on real signal rather than guesswork.
 | 2026-08-03 | Mario Kushtgjini / Olympic Consulting Partners (Athens-HQ executive search & leadership advisory) | Connector (recruiter/facilitator — not in CRM, unsolicited inbound) | N/A — inbound message, custom reply | Y (he messaged first) | TBD | Inbound LinkedIn message, not from a batch or the classify-contact list. He's building a Japan AI-executive network via ongoing Renesas Electronics executive AI leadership searches. **Flag for later:** his firm places permanent (full-time) executive roles, which conflicts with the garden-leave hard constraint (no full-time employment before April 2027) — deliberately not raised in this reply since it's still just relationship-building with no concrete role on the table; raise it explicitly if/when a specific opportunity comes up. Reply kept warm and curious — acknowledged the presentation, asked about his other Japan/APAC clients and any shift in executive-leadership expectations in the region — to keep the door open as a Connector rather than closing it prematurely. **Reply-back sent 2026-08-04:** he replied in depth — flagship Renesas Electronics CIO-org searches (Chief of Staff to CIO, AI Enablement Lead, AI Engineering leadership), strong senior-AI-executive network across Japan, and two market observations (orgs want leaders who bridge tech/business over pure technical depth; candidates increasingly filter for authority/sponsorship over compensation) that turned out to directly match/validate the user's own CONTENT.md post #12 research done the same day. He proposed a 30-min Teams call. User's reply accepted the call, added a personal angle (long-standing interest in Asia/Europe cultural differences, Japanese vs. Western-style company culture layered on AI change), and proposed availability: every day this week and next week, 3-4pm JST, given the Athens/Tokyo time gap. **Call not yet scheduled — awaiting his proposed time** |
 | 2026-08-04 | Amir Bendjazia / DAZN | Buyer | 1. Warm Buyer | Pending | TBD at next review | First Warm Buyer send (of the 4 Tier-1 Buyers). Ex-colleague, no direct reporting line, no prior message history — fresh open, not reply-in-thread. Opener used a genuine compliment/memory (hardworking, reliable, tracked his growth senior PM → head of product → VP of product) before mentioning own fractional/interim work. Closing ask iterated 3 times with the user: dropped the template's generic "20 min catch-up call" for a Japan-visit-specific "old times' sake" meetup line |
 | 2026-08-05 | Ayako Ishida / Amazon | Buyer | 1. Warm Buyer — reply-in-thread variant | Pending | TBD at next review | Second Warm Buyer send. CRM's "ex-colleague" tag was wrong — spot-check found no direct work overlap (different Amazon org, never met in person); real tie is a 2018 message exchange where the user shared a job lead (Stats Perform) and she replied declining but noting interest in "a management position in a global environment." Reply-in-thread opener deliberately dropped the specific company name (Stats Perform) per the user's edit. AI made prominent in the transformation line per the user's edit. Closing iterated through several rounds: dropped a generic "catch up" personal ask (too presumptuous given no in-person relationship) and a "swap notes" line (not his voice) in favor of a genuine ask tied to his LinkedIn AI-research angle (scoped to how product leaders/managers experience AI, not name-dropping "LinkedIn posts" specifically) plus a "really appreciate you taking the time to read this" closing — user's stated preferred closing style, noted for future drafts over generic "hope you're doing well" phrasing (reads as an opening, not a closing) and over any family-mention closings when there's no real personal relationship |
+| 2026-08-05 | Masa Hirata / DAZN | Buyer | 1. Warm Buyer (refined structure) | Pending | TBD at next review | Third Warm Buyer send, second same-day. Real ex-colleague (different DAZN departments — his marketing, user's product — professional-only relationship, no prior LinkedIn messages), now moved into a more senior role at DAZN. Kept deliberately simple/light per the user (not close friends). Dropped product-specific framing since he's not a product person; AI-research ask scoped to "leaders in Japan" instead of "product leaders." User explicitly confirmed the Ishida structure "works very, very well" and to reuse it — now formalized as the Warm Buyer template's default structure (see Template 1 above). Also flagged: never mention "I recently left Indeed" — now a standing Voice Persona rule |
 | | | | | | | |
