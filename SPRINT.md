@@ -51,7 +51,11 @@ at 15 per the user's explicit call, not a default recommendation.
 - [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
       handle their interview in Japanese, and whether to pursue the
       Regular (Expert) tier (needs 2 recommendations) or the
-      Associate/supporting (賛助会員) corporate tier — see EVENTS.md
+      Associate/supporting (賛助会員) corporate tier — see EVENTS.md.
+      Reference material uploaded 2026-08-05 to `uploads/shared/`: JDLA
+      Articles of Association (定款), membership guide (入会案内), the
+      Regular/Expert Member application form (入会申込書), and membership
+      regulations (会員規程) — review these as part of this task
 
 *(Sprint 3's completed 9-item backlog — full Connector outreach batch,
 chamber/event decision, first LinkedIn post, capability one-pager, gap

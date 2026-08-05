@@ -97,7 +97,7 @@ tables above into an actively-improving list.*
 
 | Date contacted | Agency | Outcome | Good fit? (Y/N/Unclear) | Notes / similar agencies to look for |
 |---|---|---|---|---|
-| 2026-08-04 | JAC Recruitment | Registered | Unclear (just registered) | Registration led directly to recommendations for Interim Professional Solutions and CareerCross — worth checking whether other agencies also cross-refer |
+| 2026-08-04 | JAC Recruitment | Registered; confirmation email received 2026-08-05 (registration complete, standard T&Cs notice, no reply needed) | Unclear (just registered) | Registration led directly to recommendations for Interim Professional Solutions and CareerCross — worth checking whether other agencies also cross-refer |
 | 2026-08-04 | Interim Professional Solutions (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
 | 2026-08-04 | CareerCross (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
 
