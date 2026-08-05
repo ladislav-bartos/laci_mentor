@@ -17,9 +17,11 @@ at 15 per the user's explicit call, not a default recommendation.
 
 - [x] Warm Buyer outreach #1 (of 4 real Buyers from the classify-contact
       pass) — sent to Amir Bendjazia (DAZN) 2026-08-04
-- [ ] Warm Buyer outreach #2
-- [ ] Warm Buyer outreach #3
-- [ ] Warm Buyer outreach #4 — completes the known Buyer pool
+- [x] Warm Buyer outreach #2 — sent to Ayako Ishida (Amazon) 2026-08-05
+- [x] Warm Buyer outreach #3 — sent to Masa Hirata (DAZN) 2026-08-05
+- [x] Warm Buyer outreach #4 — completes the known Buyer pool — sent to
+      Shingo Matsushima (D-Wave) 2026-08-05. Full known Buyer pool (4/4)
+      now messaged
 - [ ] Connector outreach #1 — a fresh contact, not part of the completed
       5/5 Connector batch; pick from the priority list
 - [x] Email Japan CPO Association (JCPOA) — individual membership/access
