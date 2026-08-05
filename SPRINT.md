@@ -48,6 +48,10 @@ at 15 per the user's explicit call, not a default recommendation.
       pending with no reply as of the 07-31 review)
 - [ ] Follow up with Sara Al-Attas (marketplace lead, sent 07-22, 9 days
       pending with no reply as of the 07-31 review)
+- [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
+      handle their interview in Japanese, and whether to pursue the
+      Regular (Expert) tier (needs 2 recommendations) or the
+      Associate/supporting (賛助会員) corporate tier — see EVENTS.md
 
 *(Sprint 3's completed 9-item backlog — full Connector outreach batch,
 chamber/event decision, first LinkedIn post, capability one-pager, gap

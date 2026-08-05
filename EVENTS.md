@@ -153,7 +153,13 @@ beyond chambers-only.*
   affiliation check applies. **Action: inquiry email sent via
   jdla.org's inquiry form, 2026-08-03**, asking about eligibility for the
   Regular (Expert) tier and how to proceed without existing member
-  recommendations. Awaiting reply.
+  recommendations. **Reply received 2026-08-04**: Regular Member requires
+  2+ recommendations from current regular/expert members or board members,
+  and review hinges on whether the business is core to deep learning tech;
+  there's also an Associate/supporting (賛助会員) membership for corporate
+  entities. JDLA wants to discuss details in an interview and is asking
+  whether someone at BARTOSS K.K. (his Japanese company) can handle it in
+  Japanese. **Decision needed: how to respond** — see SPRINT.md.
 - **Tokyo Product Leaders** (quarterly meetup, more senior than
   ProductTank) — champion/peer-level (Head/VP Product), not direct-buyer
   reach. Low-cost enough to try once.
@@ -219,7 +225,12 @@ was good, what wasn't, who to follow up with).*
 - [ ] Join CCCJ — sequenced after some ICAAJ attendance, not immediate
 - [ ] Send inquiry email to Japan CPO Association (info@japancpo.org) on
   individual membership/access
-- [ ] Send inquiry email to JDLA on individual membership terms/cost
+- [x] Send inquiry email to JDLA on individual membership terms/cost —
+  sent 2026-08-03, reply received 2026-08-04 (see entry above)
+- [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
+  handle their interview in Japanese, and whether to pursue the
+  Regular (Expert) tier (needs 2 recommendations) or the
+  Associate/supporting (賛助会員) corporate tier instead
 - [ ] Check whether the Joint Chamber Summer Cocktail 2026 registration
   (deadline was 2026-07-17) is actually closed — via any chamber
   membership held

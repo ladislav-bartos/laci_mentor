@@ -1,5 +1,28 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-08-05 (Wed) — Sprint 4, Day 3
+- Inbox: 1 item — JDLA replied to the 08-03 membership inquiry: Regular
+  Member requires 2+ recommendations from current regular/expert members
+  or board members, review hinges on whether the business is core to deep
+  learning tech, and there's an Associate/supporting (賛助会員) membership
+  for corporate entities. JDLA wants an interview and is asking whether
+  someone at BARTOSS K.K. can handle it in Japanese. Filed to EVENTS.md's
+  existing JDLA entry (reply details + To Do items updated) rather than
+  FACTS.md, matching where the original JDLA info already lives. Added a
+  new SPRINT.md task: decide + respond to JDLA on the Japanese-interview
+  question and which membership tier (Regular Expert vs. Associate
+  corporate) to pursue
+- Yesterday (08-04): confirmed complete as already logged — Anki, book
+  study + drill (week 3, day 2), 日本語 Express lesson 4, Warm Buyer
+  outreach #1, JAC + bonus registrations, LinkedIn post #12 — nothing to
+  add
+- Today's picks (3): Warm Buyer outreach #2, #3, #4 — completes the known
+  Buyer pool (all 4) by Sprint 4 Day 3. Flagged: hits the 3-task cap (same
+  as Day 1/Day 2 this sprint, consistent with this sprint's deliberate
+  ~3/day pacing); process itself already proven since 07-27, so #2/#3
+  don't need "warm-up" treatment the way Connectors did
+- No blockers, all working smoothly
+
 ## 2026-08-04 (Tue) — Sprint 4, Day 2
 - Inbox: empty, nothing to process
 - Yesterday (08-03): confirmed complete as logged, nothing to add
