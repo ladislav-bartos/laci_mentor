@@ -22,6 +22,39 @@
   ~3/day pacing); process itself already proven since 07-27, so #2/#3
   don't need "warm-up" treatment the way Connectors did
 - No blockers, all working smoothly
+- (cont.) **Reactive, not counted against the cap:** JAC Recruitment's
+  registration-confirmation email reviewed (routine, no action needed —
+  logged to RECRUITERS.md's Outcomes Log). 4 new JDLA reference documents
+  (定款, 入会案内, 入会申込書, 会員規程) uploaded to `uploads/shared/` —
+  noted against the JDLA decision task in SPRINT.md for a future session,
+  not reviewed today
+- (cont.) **All 3 picks completed — full known Warm Buyer pool (4/4) now
+  messaged:**
+  - **Ayako Ishida (Amazon):** reviewed the CRM's "ex-colleague" tag —
+    wrong, same pattern as earlier misclassifications (Amir/Abishek/
+    Duncan). Real tie: a 2018 message exchange (shared a job lead, she
+    replied declining but interested in a future global management role).
+    CRM note corrected. Drafted live across several rounds with the user,
+    converging on a reusable structure (see below)
+  - **Masa Hirata (DAZN):** real ex-colleague, different departments
+    (his marketing, user's product), professional-only relationship, now
+    in a more senior role at DAZN. Kept deliberately simple/light per the
+    user. User confirmed the Ishida structure "works very, very well" —
+    now formalized as Template 1's default structure in OUTREACH.md
+  - **Shingo Matsushima (D-Wave):** genuinely cold (never met or
+    messaged), but real specific context — attended Q2B Tokyo 2026
+    (quantum computing conference), spoke briefly with D-Wave's Jeremy
+    Woo, impressed by Murray Thom's presentation on D-Wave's
+    commercialization progress. AI-research ask scoped to quantum+AI
+    intersection at D-Wave. New rule surfaced here: greet Japanese
+    contacts as "[Surname]-san," not first name — user noted he'd already
+    manually applied this to the Ishida/Hirata sends before sending them,
+    without mentioning it until asked directly
+  - New standing OUTREACH.md rules from today: never mention "I recently
+    left Indeed"; "Really appreciate you taking the time to read this" as
+    the preferred closing over "Hope you're doing well"-style lines;
+    surname+san for Japanese contacts. Full reasoning in LEARNINGS.md
+  - SPRINT.md's Warm Buyer outreach #2/#3/#4 checked off
 
 ## 2026-08-04 (Tue) — Sprint 4, Day 2
 - Inbox: empty, nothing to process

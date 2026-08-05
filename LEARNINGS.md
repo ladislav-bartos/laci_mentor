@@ -417,6 +417,34 @@
   Worth defaulting to this "ask directly about the promising lead" method
   for future gap re-runs before reaching for web research.
 
+- 2026-08-05: The bulk `/classify-contact` "ex-colleague" tag was wrong
+  again on spot-check (Ayako Ishida) — same pattern as Amir/Abishek/Duncan
+  earlier. Her real tie was a 2018 message exchange (a job lead shared,
+  she replied declining but interested in future roles), not direct work
+  overlap — different Amazon org, never met in person. Reinforces that
+  every CRM "ex-colleague"/relationship tag needs a live spot-check before
+  drafting, not just before Connector sends.
+- 2026-08-05: Iterating the Warm Buyer message live across two real sends
+  (Ayako Ishida, then Masa Hirata) converged on a structure the user
+  explicitly confirmed "works very, very well" and asked to keep reusing:
+  reconnect opener (no unrelated specifics like an old company name) →
+  brief acknowledgment of their current role → "Currently, I'm working
+  as..." (never "I recently left Indeed") → soft reconnect/network line →
+  a genuine AI-research question scoped to the contact's actual world →
+  "Really appreciate you taking the time to read this" closing (not
+  "Hope you're doing well," which reads as an opening, not a closing).
+  Now formalized as Template 1's default structure in OUTREACH.md. Same
+  "iterate live on one real send until it lands, then reuse" pattern as
+  the 07-24/07-31 Voice Persona work, applied one level more specifically
+  (a template structure, not just tone rules).
+- 2026-08-05: New rule surfaced only when drafting the 4th Buyer message
+  (Shingo Matsushima, Japanese): greet Japanese contacts as "[Surname]-san"
+  rather than first name. The user had actually already been manually
+  correcting this on the two prior same-day sends (Ishida, Hirata) before
+  sending, without mentioning it until asked directly — worth periodically
+  asking "did you change anything before sending?" rather than assuming
+  the drafted text matches what actually went out.
+
 ## Completed
 - 2026-07-31: Sprint 3 closed 9/9. Sprint 4 planned (15-item backlog,
   Mon 2026-08-03 → Fri 2026-08-07) — heavier than Sprint 3's 9, flagged
