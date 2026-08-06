@@ -1,5 +1,21 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
+## 2026-08-06 (Thu) — Sprint 4, Day 4
+- Inbox: empty, nothing to process
+- Yesterday (08-05): confirmed complete as logged, plus a gap filled — the
+  08-05 entry hadn't captured Japanese tasks live; user confirmed today all
+  were done: Anki, drill, book study (week 3, day 3), and 日本語 Express
+  Book 1 lesson 5 (conversation practice)
+- Today's picks (3): Connector outreach #1 (fresh contact), follow up with
+  Dharmesh Raithatha (sent 07-24, 7+ days pending), follow up with Sara
+  Al-Attas (sent 07-22, 9+ days pending). JDLA decision (reviewing the 4
+  uploaded reference docs, then deciding + responding) deferred to Friday —
+  user chose Connector outreach over it today
+- No blockers, all working smoothly
+- New standing preference set: recap what's already in LOG.md before asking
+  "what happened yesterday" (or the weekly review recap) rather than asking
+  blind — saved to persistent memory
+
 ## 2026-08-05 (Wed) — Sprint 4, Day 3
 - Inbox: 1 item — JDLA replied to the 08-03 membership inquiry: Regular
   Member requires 2+ recommendations from current regular/expert members
