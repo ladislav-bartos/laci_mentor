@@ -111,6 +111,18 @@
     onboarding new third-party vendors, helping them optimize pricing,
     inventory quality, shipment scheduling, and fulfillment costs into
     Amazon's warehouses — added 2026-08-03, see GAPS.md Gap 3
+  - Indeed AI-adoption leadership (added 2026-08-06): for the last ~6
+    months, has been leading adoption of Claude (Anthropic) across the
+    product development lifecycle at Indeed — requirements
+    documentation, system architecture review, test planning/execution,
+    operational monitoring, and privacy/security/legal review. Used by
+    his own delivery team, leadership (visibility into what's running),
+    and partner functions (marketing, sales, customer support) affected
+    by what ships. A second real, current AI-enablement proof point
+    alongside StageLync (see Personal section above and GAPS.md Gap 2) —
+    this one from his actual current employer; used in CV v5 and in
+    outreach to Olympic Consulting Partners re: the Renesas AI
+    Enablement Lead role (see 2026-08-06 archive)
 
 ## Japanese Language
 - JLPT N3 passed (paper level); speaking rusty — struggles with basic conversation

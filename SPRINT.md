@@ -157,4 +157,10 @@ duplicated here. Sprint 3 finished 9/9, vs. Sprint 2's 4/12.)*
 - Week of 2026-08-10: not yet checked — check at next Friday review.
 
 ## Blocked / Waiting
-- (none)
+- Awaiting reply from Mario Kushtgjini &amp; Georgios Pfitzner (Olympic
+  Consulting Partners) on the interim Head of AI & Transformation pitch
+  for Renesas Electronics — sent 2026-08-06, following a well-received
+  call the same day and their AI Enablement Lead confidential job spec.
+  See OUTREACH.md's Response Log and the 2026-08-06 archive for full
+  detail. No forced follow-up date set; will surface naturally at a
+  future Friday review's 7-day outreach scan if no reply lands first

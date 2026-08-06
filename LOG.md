@@ -15,6 +15,55 @@
 - New standing preference set: recap what's already in LOG.md before asking
   "what happened yesterday" (or the weekly review recap) rather than asking
   blind — saved to persistent memory
+- (cont.) **Connector outreach #1 — sent to Keisuke Oishi** (Japan Country
+  Manager, Prime Video, Amazon). Same-company connection only (both at
+  Amazon, never met) — deliberately not labeled "ex-colleague," which led
+  to refining `classify-contact`'s wording convention (see LEARNINGS.md).
+  Kept short per the user's direction, no Amazon-tie callout, personalized
+  instead via the user's own AI-and-leadership research (post #12)
+- (cont.) **Sara Al-Attas follow-up sent** — 15-day no-reply bump,
+  acknowledged she may have already moved on rather than re-pitching
+- (cont.) **Dharmesh Raithatha follow-up deliberately deferred** to
+  ~2026-09-05 (30 days) instead of a short bump — not a project-related
+  contact; when reconnecting, ask will be for info/perspective on the
+  user's AI-leadership research, not a repeat network-intro ask
+- (cont.) **JAC Recruitment's follow-up reply reviewed and logged** — a
+  mass "no current match right now" auto-template, not personalized; no
+  action needed, door left open per their own note
+- (cont.) **Mario Kushtgjini / Georgios Pfitzner call (Olympic Consulting
+  Partners) — held today, went very well.** Prep included a full slide
+  deck ("Leadership in Japan," 22 slides incl. an AI-adoption-by-archetype
+  and Renesas-research appendix) and a private markdown prep doc — both in
+  `uploads/private/`. Call covered Japan hiring generally and Indeed's own
+  hiring; they also, on learning the user's background, floated the
+  **Renesas AI Enablement Lead** role and sent the confidential job spec.
+  Reviewed against FACTS.md: strong substance match (AI enablement,
+  transformation, security/governance) but two real gaps — Japanese
+  fluency not yet "fluent," and the role's stated band (senior consultant
+  to senior manager) sits well below VP level. The bigger issue: it's a
+  full-time Renesas role, conflicting with the garden-leave hard
+  constraint. **Resolution:** sent an honest strengths/weaknesses reply
+  and pitched an **interim Head of AI & Transformation** engagement
+  instead — resolves both the employment-type and seniority mismatches at
+  once (see LEARNINGS.md for the general pattern). Neither partner knew
+  about the interim angle before this message. **CV rebuilt to v5** in
+  support: added a new, real proof point (leading Claude adoption across
+  Indeed's product lifecycle — requirements, architecture review, testing,
+  monitoring, privacy/security/legal review — the last one directly
+  backing the otherwise-unused Google Cloud security certs), and reframed
+  the existing Okomp bullet into consulting/marketing language rather than
+  adding new claims. Built as `.docx` (re-imported cleanly into Google
+  Docs) and a separately styled HTML/PDF version for direct review — went
+  through several rounds of user design feedback (single-column strengths
+  section, more readable sans-serif font) and two real PDF pagination bugs
+  found and fixed: a viewport/page-size mismatch causing content bleed
+  and a collapsed 3-column grid (first PDF, the slide deck), and missing
+  page margins plus entries splitting across pages (second PDF, the CV) —
+  fixed by rendering via Puppeteer with genuine header/footer templates
+  and real page-numbering instead of Chrome CLI's flat print-to-pdf.
+  **Awaiting Mario/Georgios's reply** — logged to SPRINT.md's Blocked/
+  Waiting and OUTREACH.md's Response Log; full session detail in
+  `archive/2026-08-06-adhoc-renesas-interim-pitch.md`
 
 ## 2026-08-05 (Wed) — Sprint 4, Day 3
 - Inbox: 1 item — JDLA replied to the 08-03 membership inquiry: Regular

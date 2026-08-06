@@ -2,6 +2,38 @@
 
 ## Insights
 - (Friday reviews add entries here: what worked, what didn't, what changed)
+- 2026-08-06: When a full-time role surfaces that's a strong substance
+  match but blocked by two things at once — the garden-leave no-full-time
+  constraint, and being over-leveled for the posted role's stated band —
+  the fix can be the same move for both: pitch one level up, as an
+  interim engagement, instead of applying for the role as posted. Applied
+  live: Renesas/Olympic Consulting Partners posted "AI Enablement Lead"
+  (senior consultant to senior manager, permanent); the user was VP-level
+  and not open to full-time. Pitching **interim Head of AI &
+  Transformation** instead resolved both mismatches simultaneously —
+  matches his actual seniority, and interim/contract work is exactly what
+  garden-leave terms allow. Worth remembering as a general pattern, not
+  just a one-off for this role: when overqualified + can't take
+  full-time, look at the level above the posted role for an interim
+  framing before assuming it's not a fit.
+- 2026-08-06: Refined the `classify-contact` "ex-colleague" tag — shared
+  past employment alone was being labeled "ex-colleague," which overclaims
+  a relationship that isn't there and had already caused repeated
+  spot-check corrections (Ishida, Duncan, and others). Now split into two
+  labels: "ex-colleague" only when there's real evidence of interaction,
+  vs. "same-company connection (no confirmed interaction)" for shared
+  employer alone. The Role Type classification (Connector) doesn't
+  change, only the label — the real relationship still gets verified
+  per-contact during `/draft-outreach`, never assumed from the CRM tag.
+- 2026-08-06: When tailoring the CV for a specific opportunity (Renesas
+  AI Enablement Lead), the useful move wasn't adding new claims — it was
+  reframing existing, true experience into the target role's vocabulary.
+  Okomp (an existing CV bullet) already was a "consulting/marketing
+  agency" background, just described in growth-agency language instead;
+  relabeling it that way directly closed a "background mismatch" concern
+  without inventing anything. Worth defaulting to this move before adding
+  new bullets: check whether the gap is actually a *description* problem
+  before assuming it's an *experience* problem.
 - 2026-08-04: `FACTS.md`'s career timeline had listed "Gumtree.com/eBay
   Group, Technical PM, 2013–14" as a standalone role for weeks, discovered
   wrong only when the user pasted the full English CV verbatim for a
