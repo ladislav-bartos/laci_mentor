@@ -49,8 +49,8 @@ at 15 per the user's explicit call, not a default recommendation.
       proof points, correcting the original all-consumer premise
 - [ ] Follow up with Dharmesh Raithatha (Connector, sent 07-24, 7 days
       pending with no reply as of the 07-31 review)
-- [ ] Follow up with Sara Al-Attas (marketplace lead, sent 07-22, 9 days
-      pending with no reply as of the 07-31 review)
+- [x] Follow up with Sara Al-Attas (marketplace lead, sent 07-22) — sent
+      2026-08-06
 - [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
       handle their interview in Japanese, and whether to pursue the
       Regular (Expert) tier (needs 2 recommendations) or the
