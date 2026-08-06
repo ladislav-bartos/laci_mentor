@@ -29,12 +29,26 @@ Steps:
      own scale — but still classify the *contact* as Role Type Connector
      (recruiters/platform staff are facilitators, per the Connector
      definition below).
-   - (2026-07-22) Ex-colleagues from the user's own known past employers
-     (Indeed, Rakuten, Amazon, DAZN) are a real relationship, not a bare
-     LinkedIn connection — classify them as Connector (ex-colleague) by
-     default rather than defaulting on ambiguity; Target Fit for their
-     *current* employer still follows the normal rule above (e.g. still N
-     for Indeed).
+   - (2026-07-22) Shared past employment with the user's own known past
+     employers (Indeed, Rakuten, Amazon, DAZN) is a real signal, not a bare
+     LinkedIn connection — classify these contacts as Connector by default
+     rather than defaulting on ambiguity; Target Fit for their *current*
+     employer still follows the normal rule above (e.g. still N for
+     Indeed).
+   - (2026-08-06) Refined the wording for the case above: don't label the
+     reasoning/Notes "ex-colleague" unless there's actual evidence of
+     interaction (worked together, reported to/from each other, direct
+     messages exchanged, met in person). Shared employment alone — same
+     company, different team/geography/era, no message history — only
+     supports **"same-company connection (no confirmed interaction)"**
+     (or, with the employer named: "same-company connection at Amazon, no
+     confirmed interaction"). "Ex-colleague" overclaims a relationship
+     that isn't there and has repeatedly turned out wrong on spot-check
+     (Ishida, Duncan, and others were tagged "ex-colleague" from shared
+     employment alone with no real relationship behind it). The Role Type
+     (Connector) doesn't change — only the label. The real relationship,
+     if any, still gets verified per-contact during `/draft-outreach`,
+     never assumed from this tag.
    - (2026-07-22) Rows with no name at all (fully blank export rows) have
      nothing to classify — skip them, don't output a row.
 2. For each contact in `$ARGUMENTS` (a single contact, a pasted list, or a

@@ -22,8 +22,9 @@ at 15 per the user's explicit call, not a default recommendation.
 - [x] Warm Buyer outreach #4 — completes the known Buyer pool — sent to
       Shingo Matsushima (D-Wave) 2026-08-05. Full known Buyer pool (4/4)
       now messaged
-- [ ] Connector outreach #1 — a fresh contact, not part of the completed
-      5/5 Connector batch; pick from the priority list
+- [x] Connector outreach #1 — a fresh contact, not part of the completed
+      5/5 Connector batch — sent to Keisuke Oishi (Amazon, Japan Country
+      Manager, Prime Video) 2026-08-06
 - [x] Email Japan CPO Association (JCPOA) — individual membership/access
       inquiry — sent 2026-08-03
 - [x] Email JDLA — individual membership/access inquiry — sent 2026-08-03
