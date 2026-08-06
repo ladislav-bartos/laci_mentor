@@ -47,8 +47,11 @@ at 15 per the user's explicit call, not a default recommendation.
       `GAPS.md`) — done 2026-08-03; Amazon (vendor-facing platform) and
       Indeed (employer/recruiter-facing side) confirmed as genuine B2B
       proof points, correcting the original all-consumer premise
-- [ ] Follow up with Dharmesh Raithatha (Connector, sent 07-24, 7 days
-      pending with no reply as of the 07-31 review)
+- [x] Follow up with Dharmesh Raithatha — decided 2026-08-06: not a
+      project-related contact, so skip the short-bump follow-up (unlike
+      Sara). Instead hold off ~30 days and reconnect with a different ask
+      (info/perspective for the AI-leadership research). See the
+      "Upcoming (further out, unscheduled)" reminder below
 - [x] Follow up with Sara Al-Attas (marketplace lead, sent 07-22) — sent
       2026-08-06
 - [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
@@ -109,6 +112,11 @@ duplicated here. Sprint 3 finished 9/9, vs. Sprint 2's 4/12.)*
       LEARNINGS.md's 2026-07-22 drift-risk finding
 
 ## Upcoming (further out, unscheduled)
+- Reconnect with Dharmesh Raithatha (MAGIC AI) — ~2026-09-05 (30 days
+  from the 2026-08-06 decision). Not the short-bump follow-up used for
+  other Pending sends — not a project-related contact. Ask: invite him
+  to share info/perspective for the AI-and-leadership research, not a
+  repeat of the original "know anyone in your network" intro ask
 - Register for JLPT N2 (window Aug 17–Sep 7, 2026) — set a reminder
   around 08-17
 - Re-run the full gap analysis (~2026-08-29, or sooner if the
