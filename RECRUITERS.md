@@ -98,6 +98,7 @@ tables above into an actively-improving list.*
 | Date contacted | Agency | Outcome | Good fit? (Y/N/Unclear) | Notes / similar agencies to look for |
 |---|---|---|---|---|
 | 2026-08-04 | JAC Recruitment | Registered; confirmation email received 2026-08-05 (registration complete, standard T&Cs notice, no reply needed) | Unclear (just registered) | Registration led directly to recommendations for Interim Professional Solutions and CareerCross — worth checking whether other agencies also cross-refer |
+| 2026-08-06 | JAC Recruitment | Received a mass-template "no current match" reply (Japanese) — checked both any directly-entered job listing and general registration, no listing to introduce right now. Explicitly a bulk auto-reply, not a personalized rejection ("individual guidance isn't feasible given volume"). Says their consultant will reach out directly if a matching role appears later. No action needed | N (for now) | Door stays open per their own note — don't re-register or chase; just wait for a direct consultant contact if their listings change |
 | 2026-08-04 | Interim Professional Solutions (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
 | 2026-08-04 | CareerCross (JAC-affiliated) | Registered | Unclear (just registered) | Recommended by JAC post-registration |
 
