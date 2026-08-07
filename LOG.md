@@ -1,11 +1,29 @@
 # LOG.md — Rolling Progress (last ~14 days; older entries live in archive/)
 
-## 2026-08-06 (Thu) — Sprint 4, Day 4
+## 2026-08-07 (Fri) — Sprint 4, Day 5 / Weekly Review
+- Inbox: empty, nothing to process
+- Yesterday (08-06): confirmed complete as logged, plus a gap filled —
+  Japanese tasks (Anki, drill, book study week 3 day 4, 日本語 Express
+  lesson 6) hadn't been captured live; backfilled into the 08-06 entry
+- Today's picks (3): (1) review JAC Recruitment's Interim Professional
+  Solutions (registered 08-04, never investigated), (2) JDLA decision
+  (deferred from Thursday — Japanese-interview question + membership
+  tier), (3) reply to Masa Hirata (DAZN), who replied to the 08-05 Warm
+  Buyer outreach and is interested in the message
+- No blockers
+- New SPRINT.md tasks added: JAC Interim Professional Solutions review,
+  Masa Hirata reply — both decided live in standup, not pre-planned in
+  the sprint backlog
+- Standup wrapped, moving straight into the Friday weekly review per
+  user's request
 - Inbox: empty, nothing to process
 - Yesterday (08-05): confirmed complete as logged, plus a gap filled — the
   08-05 entry hadn't captured Japanese tasks live; user confirmed today all
   were done: Anki, drill, book study (week 3, day 3), and 日本語 Express
   Book 1 lesson 5 (conversation practice)
+- Japanese: all tasks completed — Anki, drill, book study (week 3, day 4),
+  and 日本語 Express Book 1 lesson 6 (confirmed 2026-08-07, backfilled here
+  since this entry hadn't captured them live)
 - Today's picks (3): Connector outreach #1 (fresh contact), follow up with
   Dharmesh Raithatha (sent 07-24, 7+ days pending), follow up with Sara
   Al-Attas (sent 07-22, 9+ days pending). JDLA decision (reviewing the 4

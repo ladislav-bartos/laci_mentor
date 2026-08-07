@@ -62,6 +62,12 @@ at 15 per the user's explicit call, not a default recommendation.
       Articles of Association (定款), membership guide (入会案内), the
       Regular/Expert Member application form (入会申込書), and membership
       regulations (会員規程) — review these as part of this task
+- [ ] Review JAC Recruitment's Interim Professional Solutions — registered
+      2026-08-04 (a JAC-recommended bonus registration) but never actually
+      investigated what the service offers — added 2026-08-07
+- [ ] Reply to Masa Hirata (DAZN) — he replied to the 2026-08-05 Warm Buyer
+      outreach, interested in the message; content of his reply not yet
+      reviewed in detail — added 2026-08-07
 
 *(Sprint 3's completed 9-item backlog — full Connector outreach batch,
 chamber/event decision, first LinkedIn post, capability one-pager, gap
