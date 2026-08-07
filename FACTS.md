@@ -1,6 +1,10 @@
 # FACTS.md — Stable Context (rarely changes)
 
 ## Personal
+- Katakana name spelling for Japanese correspondence: バルトス　ラディスラヴ
+  (surname バルトス, given name ラディスラヴ, full-width space between —
+  confirmed by the user 2026-08-07, corrected from an earlier
+  AI-guessed spelling)
 - 46 years old (2026), Hungarian, born in Slovakia, British citizen
 - Lived in London 15 years; in Tokyo 10+ years; Permanent Residency in Japan
 - Wife: Japanese. Son: Tomi, 4 years old. Daughter: 10 months old

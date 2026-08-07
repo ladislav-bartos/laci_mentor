@@ -2,6 +2,69 @@
 
 ## Insights
 - (Friday reviews add entries here: what worked, what didn't, what changed)
+- 2026-08-07: Confidence gains from real-world reps are compounding across
+  domains, not staying siloed. The user reported feeling genuinely
+  confident in outreach wording (validated across Ishida/Hirata/
+  Matsushima) *and* newly confident writing LinkedIn posts (previously
+  shy about what to write, now has more ideas than time) — both trace
+  back to the same underlying pattern already logged for outreach/
+  interviews (treat early reps as low-stakes practice). Worth expecting
+  this compounding effect elsewhere too, not re-deriving confidence
+  separately per activity.
+- 2026-08-07: 日本語 Express pacing math worked out concretely — 16
+  lessons at 1/day, 5 days/week, finishes Book 1 in ~3 weeks before moving
+  to the more advanced Book 2. Further validates the 07-31 switch away
+  from AI-generated conversation topics (which had stalled), now with a
+  real timeline instead of just a directional improvement.
+- 2026-08-07: A real new interim/fractional demand signal surfaced from
+  the Olympic Consulting Partners call: boutique/smaller executive-search
+  firms can take up to ~1 year to place a permanent executive, which
+  creates genuine demand for an interim bridge candidate while the search
+  continues. This is a different channel from RECRUITERS.md's existing
+  candidate-facing recruitment platforms (Toptal, JAC, etc.) — these firms
+  work for client companies doing the hiring, not for candidates directly
+  — so it's being tracked as a separate research task (Sprint 5) rather
+  than folded into RECRUITERS.md's existing list.
+- 2026-08-07: Existing recruiter registrations (JAC, Interim Professional
+  Solutions, CareerCross, Robert Walters) turned out to be general
+  recruiters, not specifically interim/fractional-focused, despite the
+  user's actual need being narrowly interim/fractional placement. Worth
+  checking a channel's actual specialization before registering, not just
+  whether it accepts the profile type.
+- 2026-08-07: Running the Friday review before the day's own picked tasks
+  were actually done created a scoring artifact — 14/15 planned items
+  looked like a shortfall when the 15th (JDLA) simply hadn't had its turn
+  yet. In every prior Friday review, the day's tasks were completed before
+  scoring happened; this session skipped straight from standup into
+  review instead. Resolution this time: do the qualitative "what worked/
+  didn't" review before planning (since it feeds next-sprint decisions),
+  but defer the numeric completion tally to the following Monday once the
+  day's tasks are actually closed out, rather than scoring an unfinished
+  day. Worth defaulting back to review-after-the-day's-work when possible,
+  and using this deferred-scoring pattern only when the user explicitly
+  wants review-then-planning same-day.
+- 2026-08-07: Future content idea (not yet actionable) — once 1-2 actual
+  fractional/interim PM or VP of Product engagements are landed in Japan,
+  write LinkedIn content about the real benefits of fractional/interim
+  work from lived experience, not just the theoretical pitch. Revisit once
+  the first contract closes.
+- 2026-08-07: When an organization's own summary (e.g. JDLA's reply email
+  mentioning a 賛助会員 tier) seems to conflict with what's in their actual
+  governing documents (定款/会員規程), read the primary documents directly
+  rather than relying on the summary — the discrepancy here wasn't an
+  error, but the summary omitted a critical detail (賛助会員 is a
+  ¥1M-5M/year non-voting sponsor tier, not a lighter alternative to the
+  free individual tier). The full picture changed the actual
+  recommendation (pursue 有識者会員, not 賛助会員).
+- 2026-08-07: Similarly, a platform/recruiter's internal registrant-only
+  materials (JAC Interim Professional Solutions' usage guide, obtained via
+  a password-protected download after registering) gave a meaningfully
+  fuller and more favorable picture than their public marketing website —
+  the public site's visible case studies undersold the fit (skewed
+  PM/PMO), while the internal guide showed a genuine 0-to-1
+  new-business-development focus area matching the DAZN case study.
+  Worth requesting/reading internal materials before concluding a
+  fit assessment from public site content alone.
 - 2026-08-06: When a full-time role surfaces that's a strong substance
   match but blocked by two things at once — the garden-leave no-full-time
   constraint, and being over-leveled for the posted role's stated band —

@@ -159,7 +159,27 @@ beyond chambers-only.*
   there's also an Associate/supporting (賛助会員) membership for corporate
   entities. JDLA wants to discuss details in an interview and is asking
   whether someone at BARTOSS K.K. (his Japanese company) can handle it in
-  Japanese. **Decision needed: how to respond** — see SPRINT.md.
+  Japanese.
+  **Decision made 2026-08-07**, after reviewing all 4 uploaded reference
+  docs (定款, 会員規程, 入会案内, 入会申込書). Correction to the picture
+  above: the 定款/会員規程 (the actual governing documents, both revised
+  2024) only define two "member" (社員, voting) categories — 正会員
+  (companies whose *core business* is deep learning itself, e.g. ABEJA/
+  Preferred Networks; ¥300k entry + ¥600k/yr) and 有識者会員 (individual DL
+  researchers; free; 2+ combined recommendations from existing 正会員/
+  有識者会員/理事 — a director's recommendation counts, not just existing
+  members). 賛助会員 does exist (per the 入会案内 guide) but isn't a voting
+  "member" in the legal sense — it's a corporate-sponsor observer tier,
+  ¥1,000,000-5,000,000/year (Silver/Gold/Platinum), no voting rights,
+  current sponsors are large corporates (Deloitte, KPMG, SMBC, JAL,
+  SoftBank, NTT Docomo, etc.). **正会員 ruled out** (BARTOSS K.K.'s core
+  business is fractional VP of Product/AI-transformation consulting, not
+  deep learning itself). **賛助会員 ruled out** (¥1M+/yr for no voting
+  rights is a poor value trade at this stage). **Pursuing 有識者会員** via
+  the offered interview — replied 2026-08-07 asking whether the interview
+  could be conducted in English (no one at BARTOSS K.K. can currently do
+  it in Japanese), with a fallback of revisiting once Japanese support is
+  in place if English isn't possible. Awaiting reply.
 - **Tokyo Product Leaders** (quarterly meetup, more senior than
   ProductTank) — champion/peer-level (Head/VP Product), not direct-buyer
   reach. Low-cost enough to try once.
@@ -227,10 +247,12 @@ was good, what wasn't, who to follow up with).*
   individual membership/access
 - [x] Send inquiry email to JDLA on individual membership terms/cost —
   sent 2026-08-03, reply received 2026-08-04 (see entry above)
-- [ ] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
+- [x] Decide + respond to JDLA re: whether someone at BARTOSS K.K. can
   handle their interview in Japanese, and whether to pursue the
   Regular (Expert) tier (needs 2 recommendations) or the
-  Associate/supporting (賛助会員) corporate tier instead
+  Associate/supporting (賛助会員) corporate tier instead — decided
+  2026-08-07: pursuing 有識者会員 (Expert), asked if the interview could
+  be in English instead. Awaiting reply
 - [ ] Check whether the Joint Chamber Summer Cocktail 2026 registration
   (deadline was 2026-07-17) is actually closed — via any chamber
   membership held

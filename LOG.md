@@ -16,6 +16,57 @@
   the sprint backlog
 - Standup wrapped, moving straight into the Friday weekly review per
   user's request
+- Japanese: all tasks completed — Anki, drill, book study (week 3, day
+  5), and 日本語 Express Book 1 lesson 7
+- (cont.) **JDLA — reviewed all 4 uploaded reference docs (定款,
+  会員規程, 入会案内, 入会申込書) and replied.** Found the 定款/会員規程
+  (the actual governing documents) only define two "member" (社員, voting)
+  categories — 正会員 (companies whose core business IS deep learning,
+  ¥300k entry + ¥600k/yr) and 有識者会員 (individual DL researchers, free,
+  2+ combined recommendations from 正会員/有識者会員/理事). The 賛助会員
+  (Associate/supporting) tier JDLA's reply mentioned does exist (per the
+  入会案内 guide) but isn't a voting "member" — it's a corporate-sponsor
+  observer tier at ¥1M-5M/year (Silver/Gold/Platinum), no voting rights.
+  Decision: 正会員 ruled out (BARTOSS K.K.'s core business isn't deep
+  learning), 賛助会員 ruled out (cost/value mismatch for a solo
+  consultancy), pursue 有識者会員 via the offered interview. **Replied to
+  JDLA** (Japanese) asking whether the interview could be conducted in
+  English, since no one at BARTOSS K.K. can currently do it in Japanese —
+  kept the door open to revisit once Japanese support is in place if not.
+  Awaiting reply
+- (cont.) **Reply sent to Masa Hirata.** His reply was genuinely
+  interested but vague ("interested in those, want to share our
+  ideas... what's your thoughts for next step?") — rather than guess,
+  the reply asked him to clarify which part interests him (the
+  fractional/interim work or the AI research side), and offered a video
+  call as the faster default with in-person as a fallback, on his
+  schedule. Response Log updated
+- (cont.) **JAC Interim Professional Solutions — full review completed,
+  plus reply sent to their consultant.** The internal usage guide (PDF,
+  sent by JAC's Shimoda-san via a password-protected download link)
+  gave a materially better picture than the public website: 4 focus
+  areas (新規事業開発 incl. 0-to-1 service launch/PoC — a direct match to
+  the DAZN case study; HR; IT・DX incl. system-conceptualization
+  advisory, not just PM/PMO execution; ESG), spanning Search → Strategy
+  → Execution → Restructure phases, not execution-only as the external
+  site suggested. Structural facts: JAC subcontracts client work to the
+  professional (contract is with JAC, not the end client directly, paid
+  as a commission fee from JAC); interview process is in principle one
+  three-party meeting; professional must declare sole-proprietor vs.
+  corporate contracting status. Shimoda-san (JAC IPS consultant) had
+  separately emailed 2026-08-06 requesting a first meeting to discuss
+  fit and start project matching. **Replied** (Japanese) asking if the
+  meeting could be in English, stating a preference to contract through
+  BARTOSS K.K. rather than as a sole proprietor, and proposing Thu
+  8/13 or Fri 8/14, 10:00-13:00 JST. Awaiting their confirmation
+- (cont.) **Katakana name spelling corrected**: バルトス　ラディスラヴ
+  (not バートシュ・ラディスラフ as first drafted) — filed to FACTS.md for
+  future Japanese correspondence
+- All three of today's original picks (JDLA, JAC IPS review, Masa
+  Hirata reply) now complete, plus the JAC Shimoda-san meeting proposal
+  as bonus same-day work
+
+## 2026-08-06 (Thu) — Sprint 4, Day 4
 - Inbox: empty, nothing to process
 - Yesterday (08-05): confirmed complete as logged, plus a gap filled — the
   08-05 entry hadn't captured Japanese tasks live; user confirmed today all
@@ -598,176 +649,8 @@ header also never got promoted from Sprint 2 to Sprint 3. See LOG.md
   Japan public holidays for the rest of 2026 filed to FACTS.md
 - No blockers
 
-## 2026-07-23 (Thu) — Sprint 2, Day 3
-- Inbox: empty, nothing to process
-- Retroactive fix: yesterday's Japanese study completion wasn't logged in
-  the 07-22 entry — confirmed done, noted here. Also confirmed 07-21's
-  LinkedIn-post-topics research and interim/fractional-contracting
-  research were completed but never checked off in SPRINT.md — checked
-  off now
-- Capacity clarified — actual pace has been running 2–3h/day Japanese +
-  2–3h/day career (AI-assisted research speeding things up), above the
-  documented "2–3 hours/day total" constraint. Decided not to raise the
-  documented floor to match: new floor is 2h/day (1h Japanese + 1h
-  career), extra hours are bonus capacity, and daily task count capped at
-  3 regardless of hours available. Updated CLAUDE.md and FACTS.md
-- Today's picks: (1) complete Robert Walters registration (resuming with
-  the new CV), (2) send first outreach batch (5 messages) to Connectors
-  via `/draft-outreach`, (3) decide chamber membership + which event(s)
-  to target, plus a quick (4) review/reply to inbound LinkedIn service
-  request(s), not counted against the 3-task cap
-- No blockers
-- (cont.) Reviewed 2 new inbound LinkedIn service-request listings
-  (George Sanare — VA, vague ask, off-fit; Asad Aftab — 60-day-plan/
-  leadership ask, otherwise on-fit but "Open to Work") — skipped both,
-  no proposal. Flagged "Open to Work" as a possible new red-flag signal
-  for the future SERVICE_MARKETPLACE.md decision-rule research
-- (cont.) Robert Walters registration completed — simple (name, phone,
-  CV upload). Only one recruiter site registered (Robert Walters) — a
-  "second recruiter site" mentioned here originally was a same-day
-  logging error, corrected 2026-07-24. Reviewing RW job listings
-  surfaced a VP of Product (VPoP) role at Tripla — same role/company he
-  was rejected for before applying directly through a recruiter,
-  pre-repositioning; that earlier rejection reason turned out to be the
-  CV showing frequent job changes, not (as first assumed) his "Open to
-  Providing Services" LinkedIn status. Since v4's CV and this listing's
-  "contract" framing both resolve that original objection, updated the
-  CV with an explicit sentence reframing the DAZN/Rakuten/Amazon/Indeed
-  tenure pattern as deliberate fractional/interim breadth rather than
-  job-hopping. Texted the original India-based recruiter (a pre-existing
-  contact who first submitted him to Tripla, predating this system) to
-  ask about re-approaching Tripla as a contractor/interim VP of Product
-  — they declined to re-engage; next step under consideration is
-  applying directly via Robert Walters
-- (cont.) Outreach batch drafting started — picked 5 senior,
-  non-ex-colleague Connectors from Tiers 3/4 of the priority list
-  (Dharmesh Raithatha/CPO MAGIC AI, Abishek Varadarajan/Director PM
-  Meta, Amir Arshadnejad/Director of Product ESL FACEIT, Duncan
-  Dragonetti/Head of Product Yoto, Martin Roll/Senior Advisor McKinsey),
-  all cold LinkedIn-only connections → Template 4. 3 of 5 approved as
-  drafted (Amir, Duncan, Martin), not yet sent. Meta draft needed a
-  rework (weak "at that scale" comment swapped for tying Meta's AI
-  reputation to his own AI/ML background) — revised version pending
-  confirmation. Dharmesh draft needed several rewrites: turned out
-  Dharmesh sent a real, memorable message when they first connected in
-  2018 ("connecting with fellow product leaders so my feed isn't just
-  recruiters"), making this a reply-in-thread rather than a cold open —
-  still hadn't landed right after 3 attempts, paused to finish with more
-  time tomorrow. Correction (2026-07-24): none of the 5 were actually
-  approved — "approved" in yesterday's log was an assistant assumption;
-  only 1 of 5 (Dharmesh) had actually been reviewed, and the user wasn't
-  happy with it. All 5 remain in progress. Chamber/event decision
-  (today's 3rd pick) not reached — ran out of time on outreach drafting.
-  Both carried to 2026-07-24
-
-## 2026-07-22 (Wed) — Sprint 2, Day 2
-- Inbox: confirmed 07-21 completions (contracting research, LinkedIn
-  post-topics research, all Japanese tasks) folded into yesterday's log;
-  LinkedIn export resubmission resolved — email landed today, download
-  still pending (no longer blocked)
-- New: signed up for LinkedIn Premium/Services 07-21, which surfaced 2
-  inbound service-request leads today (Rushikesh M. — dashboard work,
-  junior non-buyer; Sara Al-Attas — off-geography/off-service-line
-  coaching request). Both look like ICP mismatches from broad service
-  categories; decision + reusable rule deferred to today's task list
-  rather than resolved live in standup
-- Today's picks: (1) download LinkedIn export + bulk `/classify-contact`
-  pass on ~7,990 contacts, (2) review the 2 inbound service requests,
-  decide reply/no-reply, and build a reusable decision rule, (3)
-  register with exactly 1 agency/platform from RECRUITERS.md
-- No blockers
-- (cont.) Built `MODELS.md` — cost-conscious model-selection guide;
-  pinned `classify-contact` and `add-note` to Haiku 4.5 in their command
-  frontmatter (mechanical/high-volume, spot-checked anyway), left
-  standup/adhoc/review/draft-outreach/research-* on Sonnet 5 default
-- (cont.) Set up `uploads/private/` (gitignored) and `uploads/shared/`
-  folders for file uploads containing PII vs. safe-to-commit content
-- (cont.) Bulk `/classify-contact` pass completed on the full ~8,600-row
-  LinkedIn export: 8,025 contacts classified across 1 inline batch (300
-  rows) + 9 parallel Haiku background batches (up to 1,000 rows each).
-  Found and corrected a real bug — several batches ignored the "LinkedIn-
-  only defaults to Connector, not Buyer" rule and title-matched instead,
-  producing Buyer rates from 1% to 39% depending on batch. Ran a
-  correction pass on every batch (2026-07-22 refinements made permanent
-  in `classify-contact.md`); final result: 4 real Buyers (all with
-  ex-colleague or explicit country-manager evidence), 6,757 Connectors,
-  1,261 Neither. Also caught and fixed a Target-Fit-Y=0 anomaly in one
-  batch (too conservative) during the same pass
-- (cont.) Merged all batches into a tiered priority list —
-  `uploads/private/crm-priority-list-2026-07-22.csv` — Tier 1 Buyers (4),
-  Tier 2 ex-colleague Connectors (281), Tier 3 facilitator-function
-  Connectors (818), Tier 4 cold-but-Target-Fit-Y Connectors (1,051),
-  Tier 5 everything else (4,607); Neither excluded. Formatted to match
-  the CRM Google Sheet's existing columns plus a new Priority Tier
-  column, ready to import as a new "LinkedIn Bulk Import" tab
-- (cont.) Corrected an earlier misunderstanding of the 2 inbound LinkedIn
-  Service Marketplace requests — they're posted listings, not direct
-  messages, so there's nothing to decline. Rushikesh: skipped, no
-  proposal (off-service-line, non-buyer). Sara: reconsidered after
-  pushback — her ask aligns with a real mentoring strength (surfaced and
-  filed to FACTS.md), so a trial-then-$100/hr coaching proposal was
-  drafted and sent (`OUTREACH.md` template 5)
-- (cont.) Started Robert Walters Japan registration, but found the CV
-  never adopted the finalized LinkedIn positioning (no "Fractional/
-  Interim" framing, Growth-only, missing the Transformation pillar) —
-  paused registration, reviewed 4 existing CV files (archived 2 outdated
-  versions to `uploads/private/cv-archive/`), rebuilt a v4 CV closing
-  both gaps. Registration itself pushed to tomorrow; specialization
-  dropdown choice still open (leaning "Product data & design")
-- (cont.) Second inbound marketplace request (Sutirtha Prakash) reviewed
-  — stronger fit than Sara's since the ask (positioning himself for AI/
-  product-strategy/digital-transformation leadership roles) is literally
-  the user's own domain. Scope is ambiguous (deliverable vs. ongoing;
-  who builds it), so drafted an intro-call-first message instead of
-  quoting terms (`OUTREACH.md` template 6)
-
-## 2026-07-21 (Tue) — Sprint 2, Day 1
-- Inbox: cleared a stray leftover note from 2026-07-17 (Japanese activities
-  completed) — no longer actionable, discarded per user
-- Mon 2026-07-20 (bank holiday) — day off, nothing to report, as planned
-- LinkedIn export landed in email today; download still pending
-- Today's picks (in order): bulk `/classify-contact` pass on ~7,990
-  contacts, research LinkedIn post topics/content ideas, research
-  interim/fractional contracting best practices
-- No blockers
-
-## 2026-07-17 (Fri) — Sprint 1, Day 5 / Weekly Review
-- Inbox cleared: next-2-weeks scheduling constraints filed to SPRINT.md;
-  CRM (first 10 warm contacts) and conversation-topic-list completions
-  confirmed and checked off
-- Sprint 1 scored: 10/11 planned tasks done (1 blocked on LinkedIn export,
-  not a miss, carried to Sprint 2); all Japanese tasks completed daily;
-  0 outreach/events sent, as expected since nothing was scheduled this week
-- What worked (keep): capping tasks at 3/day; Japanese study format
-  (drills/conversation/Anki) solved the long-standing motivation problem
-- What changed: logged the "build one, validate UX, then batch" Anki
-  lesson as a general principle; added a permanent "review repetitive
-  tasks → candidate skills" step to CLAUDE.md's Friday review; built
-  `/draft-outreach` and `/classify-contact` skills this session
-- Research done: `EVENTS.md` (Tokyo networking events) and
-  `RECRUITERS.md` (contract/fractional agencies) — flagged a high-value
-  chamber event whose registration deadline had already passed
-- OUTREACH.md revised: Connectors first (confidence warm-up), Warm Buyers
-  next sprint — personal "treat first attempts as low-stakes practice"
-  pattern captured in FACTS.md
-- Tutor booking gated to the Fri 2026-07-31 review, conditional on AI-topic
-  coverage + feeling comfortable talking to a person
-- Process corrections logged in CLAUDE.md: confirm before starting
-  multi-minute work mid-conversation; always use Tokyo (JST) time
-- Sprint 2 planned: 12-item stocked backlog (Tue 07-21 → Fri 07-24) plus
-  an 8-item week-after candidate list
-- (cont.) New idea captured: a free "AI-maturity mini-session" offer for
-  outreach (live 30-min version active, self-serve AI tool version
-  deliberately parked until live sessions validate the question set —
-  same manual-before-automate pattern as Sales Navigator); question-set
-  research added to the week-after list
-- (cont.) Restructured EVENTS.md + RECRUITERS.md with To Do sections, an
-  Outcomes Log, and rotating-angle research guidance; built
-  `/research-events` + `/research-recruiters` commands; EVENTS.md
-  broadened beyond in-person Tokyo to include online, speaking-
-  opportunity, and tangential-event categories
-- No blockers
-
-*(Entries before 2026-07-17 pruned 2026-07-31, per the 14-day rolling
-window — full detail for 2026-07-12 through 2026-07-16 lives in
-`archive/`.)*
+*(Entries before 2026-07-24 pruned 2026-08-07, per the 14-day rolling
+window — full detail for 2026-07-17 through 2026-07-23 lives in
+`archive/` (2026-07-17-review.md, 2026-07-21-standup.md,
+2026-07-22-standup.md, 2026-07-22-adhoc-crm-cv-marketplace.md,
+2026-07-23-standup.md).)*
